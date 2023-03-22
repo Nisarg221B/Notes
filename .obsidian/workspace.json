@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "eccab0755d35c342",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da6c824ec99daa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4045e037985714f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45bc77fa9b2ea954",
+    "type": "split",
+    "children": [
+      {
+        "id": "822cbeb7900f1dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54c8cb608d4832b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b863321f333b8e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26a10cae2912c29a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b304b7d0bab492c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b226ab63bca8da0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6852eb2c1f439737",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef4214b115a6d625",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f96f38701e184cd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7bc9352f86200bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f27ecd2800481d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f82750a86990687",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "901837625aa87daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadc72f403ef0675",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "kindle-csv-converter:Kindle CSV Converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "c4045e037985714f",
+  "lastOpenFiles": [
+    "waitforit/books/The Left Hand of Darkness.md",
+    "waitforit/Tasks.md",
+    "waitforit/to-do.md",
+    "waitforit/Planning.md",
+    "waitforit/books/Zero to One.md",
+    "waitforit/books/Words of Radiance.md",
+    "waitforit/books/The Psychology of Money.md",
+    "waitforit/books/Rhythm of War.md",
+    "waitforit/books/Only the Paranoid Survive.md",
+    "waitforit/books/Oathbringer.md",
+    "waitforit/books/Management Mantras.md",
+    "waitforit/books/A Court of Thorns and Roses.md",
+    "waitforit/books/48-Hour Start-up.md",
+    "waitforit/images/Template.md",
+    "waitforit/images/MC.png",
+    "waitforit/investing/notes.md",
+    "waitforit/investing/Mutual Fund.md",
+    "waitforit/investing/Equity based mutual fund.md",
+    "waitforit/Branding.md",
+    "waitforit/Fashion.md",
+    "waitforit/fashion/Fashion 101.md",
+    "waitforit/dailynotes/2022-01-30.md",
+    "waitforit/dailynotes/2022-01-29.md",
+    "waitforit/First.md",
+    "waitforit/normcore.md",
+    "waitforit/Oracle.md",
+    "waitforit/books/Freedom From The Known.md",
+    "waitforit/startup",
+    "waitforit/books",
+    "waitforit/fashion",
+    "waitforit/dailynotes",
+    "waitforit/images",
+    "waitforit/investing",
+    "waitforit",
+    "Notes/waitforit/images/MC.png",
+    "Notes/waitforit/startup",
+    "Notes/waitforit/investing",
+    "Notes/waitforit/images"
+  ]
+}

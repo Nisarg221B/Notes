@@ -1,0 +1,11 @@
+{
+  "headerWidth": 25,
+  "leafWidth": 1100,
+  "leafAutoWidth": false,
+  "disabled": false,
+  "rotateHeaders": true,
+  "headerAlt": false,
+  "orienation": "mixed",
+  "stackingEnabled": true,
+  "smoothAnimation": true
+}
