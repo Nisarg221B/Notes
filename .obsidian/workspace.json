@@ -11,8 +11,13 @@
             "id": "c4045e037985714f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "waitforit/startup/startup 102.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,13 +79,23 @@
       {
         "id": "3b226ab63bca8da0",
         "type": "tabs",
+        "dimension": 40.65040650406504,
         "children": [
+          {
+            "id": "c5f27ecd2800481d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "6852eb2c1f439737",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "waitforit/startup/startup 102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "waitforit/startup/startup 102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,31 +134,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5f27ecd2800481d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f82750a86990687",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {
+                "file": "waitforit/startup/startup 102.md"
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "901837625aa87daa",
         "type": "tabs",
+        "dimension": 59.34959349593496,
         "children": [
           {
             "id": "dadc72f403ef0675",
@@ -173,12 +175,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c4045e037985714f",
+  "active": "b7bc9352f86200bc",
   "lastOpenFiles": [
-    "waitforit/books/The Left Hand of Darkness.md",
-    "waitforit/Tasks.md",
-    "waitforit/to-do.md",
     "waitforit/Planning.md",
+    "waitforit/Tasks.md",
+    "waitforit/books/The Left Hand of Darkness.md",
+    "waitforit/to-do.md",
     "waitforit/books/Zero to One.md",
     "waitforit/books/Words of Radiance.md",
     "waitforit/books/The Psychology of Money.md",
