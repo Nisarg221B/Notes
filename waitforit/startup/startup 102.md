@@ -19,4 +19,3 @@ than continue refinement of product market fit (don't forget )
 4. Later, how to build an organization that scalably and repeatedly launches great products 
 
 #### Building a new market 
-this is a change that will sync automatically 

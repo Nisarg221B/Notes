@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "waitforit/startup/startup 102.md",
+                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "waitforit/startup/startup 102.md",
+                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "waitforit/startup/startup 102.md",
+                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "waitforit/startup/startup 102.md"
+                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md"
               }
             }
           }
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +176,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b7bc9352f86200bc",
+  "active": "c4045e037985714f",
   "lastOpenFiles": [
+    "waitforit/books/The Psychology of Money.md",
+    "waitforit/books/The Autobiography of Benjamin Franklin.md",
+    "waitforit/startup/startup 102.md",
     "waitforit/Planning.md",
     "waitforit/Tasks.md",
     "waitforit/books/The Left Hand of Darkness.md",
     "waitforit/to-do.md",
     "waitforit/books/Zero to One.md",
     "waitforit/books/Words of Radiance.md",
-    "waitforit/books/The Psychology of Money.md",
     "waitforit/books/Rhythm of War.md",
     "waitforit/books/Only the Paranoid Survive.md",
     "waitforit/books/Oathbringer.md",
@@ -202,8 +205,6 @@
     "waitforit/dailynotes/2022-01-29.md",
     "waitforit/First.md",
     "waitforit/normcore.md",
-    "waitforit/Oracle.md",
-    "waitforit/books/Freedom From The Known.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
