@@ -1,6 +1,9 @@
 
-previous - [[Introduction to machine learning]]
+previous section - [[Introduction to machine learning]]
 next - 
+
+#deep_racer
+#deep_racer_Section_2
 
 #reinforcement_learning 
 
