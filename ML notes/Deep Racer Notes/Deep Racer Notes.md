@@ -3,9 +3,11 @@
 #deep_racer
 #deep_racer_Section_1 
 
-Machine Learning Vs Artificial Intelligence : 
+## Machine Learning Vs Artificial Intelligence : 
 
 AI refers to broad capabilities of machines to perform activities with human like intelligence. 
+
+## ML and it types 
 
 ML is a type of AI which allows computers to automatically learn and improve from experience without explicitly programmed to do so.
 
@@ -20,6 +22,8 @@ In a way Machine learning automate some of this statistical reasoning and patter
 
 ![[deep_101.png|500]]
 
+## Three primary components 
+
 machine learning involve three primary components:
 
 -   A machine learning model
@@ -33,6 +37,10 @@ machine learning involve three primary components:
 	using a trained model to generate predictions
 
 same model can be trained to predict two different things :-
-![[Pasted image 20230326134726.png| 300]]
 
-![[Pasted image 20230326134752.png|300]]
+![[Pasted image 20230326134726.png| 300]] ![[Pasted image 20230326134752.png|300]]
+
+## Major steps in workflow 
+
+![[Pasted image 20230326135256.png]]
+

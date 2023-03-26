@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "ML notes/Deep Racer Notes/Deep Racer Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "ML notes/Deep Racer Notes/Deep Racer Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "ML notes/Deep Racer Notes/Deep Racer Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md"
+                "file": "ML notes/Deep Racer Notes/Deep Racer Notes.md"
               }
             }
           }
@@ -176,8 +176,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "de8e7ee027c8016d",
+  "active": "b54c8cb608d4832b",
   "lastOpenFiles": [
+    "ML notes/Deep Racer Notes",
+    "images/Pasted image 20230326135256.png",
     "images/Pasted image 20230326134752.png",
     "images/Pasted image 20230326134726.png",
     "waitforit/investing/Equity based mutual fund.md",
@@ -187,7 +189,7 @@
     "waitforit/images/Template.md",
     "waitforit/images/MC.png",
     "waitforit/fashion/Fashion 101.md",
-    "ML notes/Deep Racer Notes.md",
+    "ML notes/Deep Racer Notes/Deep Racer Notes.md",
     "images/deep_101.png",
     "images/deep_101.png.crdownload",
     "images",
