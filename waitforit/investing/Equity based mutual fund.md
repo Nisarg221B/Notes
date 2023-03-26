@@ -1,4 +1,4 @@
-# Equity based mutual fund
+
 ```mermaid
 graph TD;
 	id1[Equity mutual funds] --> id2[long term];
