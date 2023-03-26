@@ -20,3 +20,15 @@ In a way Machine learning automate some of this statistical reasoning and patter
 
 ![[deep_101.png|500]]
 
+machine learning involve three primary components:
+
+-   A machine learning model
+	A block of code used to solve different problems
+
+-   A model training algorithm
+	An iterative process
+	     - computes models results on data
+	     - makes small changes to the model to make these results better
+-   A model inference algorithm
+	using a trained model to generate predictions
+
