@@ -47,3 +47,4 @@ If you said that this is based on the reward, you are correct. However, the rewa
 
 ## Value function 
 
+![[Screenshot 2023-03-26 at 7.12.31 PM.png]]![[Screenshot 2023-03-26 at 7.13.18 PM.png|600]]

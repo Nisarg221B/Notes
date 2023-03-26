@@ -11,13 +11,16 @@
             "id": "64a44887035a37cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9461fddb1ba72e16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +82,6 @@
       {
         "id": "3b226ab63bca8da0",
         "type": "tabs",
-        "dimension": 40.65040650406504,
         "children": [
           {
             "id": "c5f27ecd2800481d",
@@ -95,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,24 +134,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "901837625aa87daa",
-        "type": "tabs",
-        "dimension": 59.34959349593496,
-        "children": [
-          {
-            "id": "dadc72f403ef0675",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -159,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +160,9 @@
   "active": "64a44887035a37cb",
   "lastOpenFiles": [
     "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
+    "waitforit/startup/startup 101.md",
+    "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
+    "images/Screenshot 2023-03-26 at 7.12.31 PM.png",
     "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
     "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
@@ -216,7 +200,6 @@
     "waitforit/to-do.md",
     "waitforit/books/Zero to One.md",
     "waitforit/books/Words of Radiance.md",
-    "waitforit/books/Rhythm of War.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
