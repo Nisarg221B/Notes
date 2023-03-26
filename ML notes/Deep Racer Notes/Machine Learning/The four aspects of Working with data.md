@@ -1,5 +1,5 @@
 previous- [[The five steps of machine learning]]
-next - [[Modeling training]]
+next - [[Modeling training and Evaluation]]
 
 #data-preparation
 

@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "079e90b397e9b514",
+        "id": "5daed47d76d6db23",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec325daa1b61786",
+            "id": "e7bf8087db87107e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training and Evaluation.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3478448141e16b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
-                "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training and Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training and Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md"
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training and Evaluation.md"
               }
             }
           }
@@ -190,10 +176,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3478448141e16b53",
+  "active": "e7bf8087db87107e",
   "lastOpenFiles": [
-    "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Modeling training and Evaluation.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Model Evaluation.md",
     "images/Pasted image 20230326150637.png",
     "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
@@ -229,7 +216,6 @@
     "waitforit/books/Rhythm of War.md",
     "waitforit/books/Only the Paranoid Survive.md",
     "waitforit/books/Management Mantras.md",
-    "waitforit/books/A Court of Thorns and Roses.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",

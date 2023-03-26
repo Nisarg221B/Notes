@@ -3,5 +3,6 @@
   "attachmentFolderPath": "images",
   "tabSize": 4,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
