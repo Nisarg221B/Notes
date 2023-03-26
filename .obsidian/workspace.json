@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8435f573a8ed7ade",
+        "id": "3fc2f5589cd29c96",
         "type": "tabs",
         "children": [
           {
-            "id": "1ced741adcf3d4d7",
+            "id": "de8e7ee027c8016d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "waitforit/investing/Equity based mutual fund.md",
+                "file": "ML notes/Deep Racer Notes.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "waitforit/investing/Equity based mutual fund.md",
+                "file": "ML notes/Deep Racer Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "waitforit/investing/Equity based mutual fund.md",
+                "file": "ML notes/Deep Racer Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "waitforit/investing/Equity based mutual fund.md"
+                "file": "ML notes/Deep Racer Notes.md"
               }
             }
           }
@@ -176,10 +176,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1ced741adcf3d4d7",
+  "active": "de8e7ee027c8016d",
   "lastOpenFiles": [
-    "images/MC.png.md",
     "waitforit/investing/Equity based mutual fund.md",
+    "images/MC.png.md",
     "waitforit/investing/notes.md",
     "waitforit/investing/Mutual Fund.md",
     "waitforit/images/Template.md",
