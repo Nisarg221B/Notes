@@ -46,3 +46,4 @@ Well, we somehow need to determine how much benefit we have derived from that ch
 If you said that this is based on the reward, you are correct. However, the reward only gives us feedback on the value of the single action we just chose. To truly determine the value of that action (and resulting state) we should not only look at the current reward, but future rewards we could possibly get from being in this state this is done through #reinforcement_learning_value_function
 
 ## Value function 
+
