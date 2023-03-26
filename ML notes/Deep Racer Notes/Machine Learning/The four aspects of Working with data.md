@@ -1,5 +1,5 @@
 previous- [[The five steps of machine learning]]
-next - 
+next - [[Modeling training]]
 
 #data-preparation
 
@@ -26,5 +26,5 @@ Does the data you've collected match the machine learning task and problem you h
 
 ![[Pasted image 20230326150637.png]]
 
-## Data Collection 
+
 
