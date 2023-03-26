@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4da6c824ec99daa4",
+        "id": "30df122aa4c65e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "c4045e037985714f",
+            "id": "a49a4a0d1eabe521",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,13 +127,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "waitforit/books/The Autobiography of Benjamin Franklin.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "901837625aa87daa",
@@ -176,10 +167,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c4045e037985714f",
+  "active": "a49a4a0d1eabe521",
   "lastOpenFiles": [
-    "waitforit/books/The Psychology of Money.md",
+    "waitforit/fashion/Fashion 101.md",
+    "ML notes",
+    "waitforit/books/Oathbringer.md",
     "waitforit/books/The Autobiography of Benjamin Franklin.md",
+    "waitforit/books/The Psychology of Money.md",
     "waitforit/startup/startup 102.md",
     "waitforit/Planning.md",
     "waitforit/Tasks.md",
@@ -189,7 +183,6 @@
     "waitforit/books/Words of Radiance.md",
     "waitforit/books/Rhythm of War.md",
     "waitforit/books/Only the Paranoid Survive.md",
-    "waitforit/books/Oathbringer.md",
     "waitforit/books/Management Mantras.md",
     "waitforit/books/A Court of Thorns and Roses.md",
     "waitforit/books/48-Hour Start-up.md",
@@ -200,11 +193,9 @@
     "waitforit/investing/Equity based mutual fund.md",
     "waitforit/Branding.md",
     "waitforit/Fashion.md",
-    "waitforit/fashion/Fashion 101.md",
     "waitforit/dailynotes/2022-01-30.md",
     "waitforit/dailynotes/2022-01-29.md",
     "waitforit/First.md",
-    "waitforit/normcore.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
@@ -214,7 +205,6 @@
     "waitforit",
     "Notes/waitforit/images/MC.png",
     "Notes/waitforit/startup",
-    "Notes/waitforit/investing",
-    "Notes/waitforit/images"
+    "Notes/waitforit/investing"
   ]
 }
