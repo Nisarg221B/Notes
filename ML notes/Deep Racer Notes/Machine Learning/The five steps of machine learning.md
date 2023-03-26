@@ -1,4 +1,6 @@
-[[Introduction to machine learning]]
+previous -- [[Introduction to machine learning]]
+next -- [[The four aspects of Working with data]]
+
 
 ![[Pasted image 20230326135256.png]]
 

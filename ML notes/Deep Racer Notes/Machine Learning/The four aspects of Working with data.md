@@ -1,4 +1,5 @@
-[[The five steps of machine learning]]
+previous- [[The five steps of machine learning]]
+next - 
 
 #data-preparation
 
@@ -18,5 +19,7 @@ Machine Learning practitioners spend nearly 80% of their time working on prepari
 						- shape of the data
 						- scale of the data
 - **Data Visualization** to communicate findings to project stakeholders.
+
+![[Pasted image 20230326150637.png]]
 
 ## Data Collection 
