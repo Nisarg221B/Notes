@@ -17,3 +17,4 @@ In both supervised and unsupervised learning model inspect data to discover patt
 - In **reinforcement learning**, the algorithm figures out which actions to take in a situation to maximize a reward on the way to reaching a specific goal.
 
 In a way Machine learning automate some of this statistical reasoning and pattern matching which programmer would do traditionally.
+<img src = "./images/deep_101">

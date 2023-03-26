@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30df122aa4c65e9c",
+        "id": "8435f573a8ed7ade",
         "type": "tabs",
         "children": [
           {
-            "id": "a49a4a0d1eabe521",
+            "id": "1ced741adcf3d4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "waitforit/investing/Equity based mutual fund.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "waitforit/investing/Equity based mutual fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md",
+                "file": "waitforit/investing/Equity based mutual fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML notes/Deep Racer Notes.md"
+                "file": "waitforit/investing/Equity based mutual fund.md"
               }
             }
           }
@@ -176,12 +176,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "1ced741adcf3d4d7",
   "lastOpenFiles": [
+    "images/MC.png.md",
+    "waitforit/investing/Equity based mutual fund.md",
+    "waitforit/investing/notes.md",
+    "waitforit/investing/Mutual Fund.md",
+    "waitforit/images/Template.md",
+    "waitforit/images/MC.png",
+    "waitforit/fashion/Fashion 101.md",
+    "ML notes/Deep Racer Notes.md",
+    "images/deep_101.png",
+    "images/deep_101.png.crdownload",
     "images",
     "Machine Learning.md",
-    "ML notes/Deep Racer Notes.md",
-    "waitforit/fashion/Fashion 101.md",
     "ML notes",
     "waitforit/books/Oathbringer.md",
     "waitforit/books/The Autobiography of Benjamin Franklin.md",
@@ -198,11 +206,6 @@
     "waitforit/books/Management Mantras.md",
     "waitforit/books/A Court of Thorns and Roses.md",
     "waitforit/books/48-Hour Start-up.md",
-    "waitforit/images/Template.md",
-    "waitforit/images/MC.png",
-    "waitforit/investing/notes.md",
-    "waitforit/investing/Mutual Fund.md",
-    "waitforit/investing/Equity based mutual fund.md",
     "waitforit/Branding.md",
     "waitforit/Fashion.md",
     "waitforit/dailynotes/2022-01-30.md",
@@ -213,8 +216,6 @@
     "waitforit/images",
     "waitforit/investing",
     "waitforit",
-    "Notes/waitforit/images/MC.png",
-    "Notes/waitforit/startup",
-    "Notes/waitforit/investing"
+    "Notes/waitforit/images/MC.png"
   ]
 }
