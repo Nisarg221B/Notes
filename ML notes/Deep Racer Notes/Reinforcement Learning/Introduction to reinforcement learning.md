@@ -1,6 +1,7 @@
 
 previous section - [[Introduction to machine learning]]
-next - 
+next - [[Reward functions]]
+
 
 #deep_racer
 #deep_racer_Section_2
@@ -61,3 +62,13 @@ We call this adjustment a **policy update**, and this regularly happens during 
 
 The reinforcement learning algorithm will estimate the value function from past data and experience.
 
+## PPO and SAC
+
+**PPO** uses **“on-policy” learning**. This means it learns only from observations made by the current policy exploring the environment - using the most recent and relevant data. Say you are learning to drive a car, on-policy learning would be analogous to you reviewing a video of your most recent lesson and taking note of what you did well, and what needs improvement.
+
+In contrast, **SAC** uses **“off-policy” learning.** This means it can use observations made from previous policies exploration of the environment - so it can also use old data. Going back to our learning to drive analogy, this would involve reviewing videos of your driving lessons from the last few weeks. Even though you have probably improved since those lessons, it can still be helpful to watch those videos in order to reinforce good and bad things. It could also include reviewing videos of other drivers to get ideas about good and bad things they might be doing.
+  
+So what are some benefits and drawbacks of each approach?
+
+-   PPO generally needs more data as it has a reasonably narrow view of the world, since it does not consider historical data - only the data in front of it during each policy update. In contrast, SAC does consider historical data so it needs less new data for each policy update.
+-   That said, PPO can produce a more stable model in the short-term as it only considers the most recent, relevant data - compared with SAC which might produce a less stable model in the short-term since it considers less relevant, historical data.
