@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e8165e829403e0",
+        "id": "2a6c932f6acbbbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "02bcabf9f693a8e2",
+            "id": "f56946f7f1de2ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md"
+                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md"
               }
             }
           }
@@ -176,12 +176,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "02bcabf9f693a8e2",
+  "active": "f56946f7f1de2ac1",
   "lastOpenFiles": [
-    "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
-    "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
-    "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+    "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "ML notes/Deep Racer Notes/Untitled.md",
+    "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
+    "ML notes/Deep Racer Notes/Reinforcement Learning",
     "ML notes/Deep Racer Notes/Machine Learning/Model Evaluation.md",
     "images/Pasted image 20230326150637.png",
     "ML notes/Deep Racer Notes/Machine Learning/Drawing 2023-03-26 14.20.03.excalidraw.md",
@@ -214,13 +217,10 @@
     "waitforit/books/Zero to One.md",
     "waitforit/books/Words of Radiance.md",
     "waitforit/books/Rhythm of War.md",
-    "waitforit/books/Only the Paranoid Survive.md",
-    "waitforit/books/Management Mantras.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
     "waitforit/dailynotes",
-    "waitforit/images",
     "Notes/waitforit/images/MC.png"
   ]
 }

@@ -1,7 +1,7 @@
 previous - [[The four aspects of Working with data]]
-next - [[Model Evaluation]]
+next - [[Introduction to reinforcement learning]]
 
-
+#model_training
 Iteratively update model parameters to minimise some loss function.
 
 1. Splitting Dataset - test and train ( 20 - 80 is good ratio)
