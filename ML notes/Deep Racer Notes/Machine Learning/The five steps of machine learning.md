@@ -27,4 +27,14 @@ graph TD;
 	id3 --> id8[Nueral Net];
 ```
 
+## Building a dataset 
+
+Machine Learning practitioners spend nearly 80% of their time working on preparing data.
+
+- **Data Collection**  - Find and collect data related to the problem you defined
+
+- **Data Inspection** - 
+- **Summary Statistics**
+- **Data Visualization**
+
 
