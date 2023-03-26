@@ -26,7 +26,7 @@ With AWS deep racer
 
 AWS DeepRacer offers two training algorithms:
 
--   Proximal Policy Optimization (PPO)
+-   Proximal Policy Optimisation (PPO)
 -   Soft Actor Critic (SAC)
 
 ## Policy 
@@ -60,3 +60,4 @@ We call this adjustment a **policy update**, and this regularly happens during 
 ![[Screenshot 2023-03-26 at 7.12.31 PM.png]]
 
 The reinforcement learning algorithm will estimate the value function from past data and experience.
+
