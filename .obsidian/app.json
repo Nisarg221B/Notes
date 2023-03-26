@@ -1,6 +1,6 @@
 {
   "spellcheck": true,
-  "attachmentFolderPath": "waitforit/images",
+  "attachmentFolderPath": "images",
   "tabSize": 4,
   "readableLineLength": true,
   "showLineNumber": false

@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deep_racer_Section_1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b863321f333b8e4b",
+  "active": "b54c8cb608d4832b",
   "lastOpenFiles": [
+    "images",
     "Machine Learning.md",
     "ML notes/Deep Racer Notes.md",
     "waitforit/fashion/Fashion 101.md",
@@ -206,7 +206,6 @@
     "waitforit/Branding.md",
     "waitforit/Fashion.md",
     "waitforit/dailynotes/2022-01-30.md",
-    "waitforit/dailynotes/2022-01-29.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
