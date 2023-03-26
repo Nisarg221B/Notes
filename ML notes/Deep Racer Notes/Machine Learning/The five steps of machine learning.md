@@ -12,7 +12,7 @@
 	max-width: 500px;
 }%%
 graph TD;
-	id1[ML Task] --> id2[Supervised Learning];
+	id1[ML Task] --> id2[Supervised Learning]:::fuellungrot;
 	id1 --> id3[Unsupervised Learning];
 	id1 --> id4[Reinforcement Learning];
 	id2 --> id5[Categorical Label classification];
