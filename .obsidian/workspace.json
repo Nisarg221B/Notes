@@ -11,8 +11,13 @@
             "id": "a49a4a0d1eabe521",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML notes/Deep Racer Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML notes/Deep Racer Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML notes/Deep Racer Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML notes/Deep Racer Notes.md"
+              }
             }
           }
         ],
@@ -169,6 +178,7 @@
   },
   "active": "a49a4a0d1eabe521",
   "lastOpenFiles": [
+    "ML notes/Deep Racer Notes.md",
     "waitforit/fashion/Fashion 101.md",
     "ML notes",
     "waitforit/books/Oathbringer.md",
