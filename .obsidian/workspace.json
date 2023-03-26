@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d64722a593bfc11",
+        "id": "f249867340ce2b91",
         "type": "tabs",
         "children": [
           {
-            "id": "9461fddb1ba72e16",
+            "id": "e1e60732ba6cf603",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9461fddb1ba72e16",
+  "active": "e1e60732ba6cf603",
   "lastOpenFiles": [
     "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
     "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
