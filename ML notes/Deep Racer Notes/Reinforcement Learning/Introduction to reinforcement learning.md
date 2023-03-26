@@ -24,3 +24,7 @@ With AWS deep racer
 -   The agent then receives feedback in the form of a **reward** about how well that action contributed towards achieving its goal.
 -   And all this happens within an **episode**. This can be thought of as a cycle of the agent performing an action in the environment (based upon the state it has observed) and then receiving feedback in the form of a reward which informs future actions it might take.
 
+AWS DeepRacer offers two training algorithms:
+
+-   Proximal Policy Optimization (PPO)
+-   Soft Actor Critic (SAC)
