@@ -28,3 +28,8 @@ AWS DeepRacer offers two training algorithms:
 
 -   Proximal Policy Optimization (PPO)
 -   Soft Actor Critic (SAC)
+
+## Policy 
+
+A policy defines the action that the agent should take for a given state. This could conceptually be represented as a table - given a particular state, perform this action.
+
