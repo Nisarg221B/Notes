@@ -8,3 +8,6 @@ The reward function is written in Python as a standard function, but it must be 
 There are over 20 parameters available for use, and the reward function is simply a piece of code which uses the input parameters to do some calculations and then output a number, which is the reward.
 
 refer AWS deep racer developer pdf for details on parameters and other things.
+
+Inferences rate - number of inferences which can be done per second.
+inference time / latency - time taken to run a single inference
