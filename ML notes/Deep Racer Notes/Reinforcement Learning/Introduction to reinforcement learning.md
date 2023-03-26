@@ -30,6 +30,11 @@ AWS DeepRacer offers two training algorithms:
 -   Soft Actor Critic (SAC)
 
 ## Policy 
+#reinforcement_learning-policy 
+A policy defines the action that the agent should take for a given state.
 
-A policy defines the action that the agent should take for a given state. This could conceptually be represented as a table - given a particular state, perform this action.
+- **Deterministic policy**
+Its a policy where there is a direct relationship between state and action. This is often used when the agent has a full understanding of the environment and, given a state, always performs the same action.
 
+- **Stochastic policy** 
+In a stochastic policy you have a range of possible actions for a state, each with a probability of being selected. When the policy is queried to return an action for a state it selects one of these actions based on the probability distribution.
