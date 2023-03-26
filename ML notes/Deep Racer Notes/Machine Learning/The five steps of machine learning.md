@@ -4,7 +4,9 @@
 ## Define the Problem
 
 
-
+mermaid.flowchartConfig = {
+    width: 100%
+}
 ```mermaid
 graph TD;
 	id1[ML Task] --> id2[Supervised Learning]:::fuellungrot;
