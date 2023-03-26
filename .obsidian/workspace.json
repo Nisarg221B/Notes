@@ -8,19 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64a44887035a37cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "9461fddb1ba72e16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -138,13 +135,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "e0862e2093da31b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64a44887035a37cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -153,11 +166,10 @@
       "audio-recorder:Start/stop recording": false,
       "kindle-csv-converter:Kindle CSV Converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64a44887035a37cb",
+  "active": "c5f27ecd2800481d",
   "lastOpenFiles": [
     "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
     "waitforit/startup/startup 101.md",
