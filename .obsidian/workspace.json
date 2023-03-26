@@ -11,8 +11,13 @@
             "id": "02bcabf9f693a8e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md"
+              }
             }
           }
         ],
@@ -169,12 +178,12 @@
   },
   "active": "02bcabf9f693a8e2",
   "lastOpenFiles": [
-    "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+    "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
     "ML notes/Deep Racer Notes/Machine Learning/Model Evaluation.md",
     "images/Pasted image 20230326150637.png",
-    "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/Drawing 2023-03-26 14.20.03.excalidraw.md",
     "waitforit/investing/Equity based mutual fund.md",
     "Untitled.canvas",

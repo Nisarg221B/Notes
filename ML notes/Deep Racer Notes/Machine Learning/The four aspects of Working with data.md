@@ -16,7 +16,7 @@ Does the data you've collected match the machine learning task and problem you h
 - **Data Inspection** - inspect the integrity or quality of data 
 				- Outliers
 				- Missing or incomplete data
-				- Transforming the data ( converting categorical to numeric) based on the requirement of the model to be used. Data that needs to be transformed or preprocessed so it's in the correct format to be used by your model
+				- Transforming the data ( converting categorical to numeric) based on the requirement of the model to be used. Data that needs to be transformed or preprocessed so it's in the correct format to be used by your model #data-vectorisation
 - **Summary Statistics** ( mean, standard deviation , IQR(inner quartile range))
 				- Summary Statistics can identify 
 						- trends in the data
