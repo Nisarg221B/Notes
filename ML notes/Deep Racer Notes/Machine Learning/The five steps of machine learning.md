@@ -6,6 +6,11 @@
 
 
 ```mermaid
+%%{init: 
+	{ 
+	min-width: 200px; 
+	max-width: 500px;
+}%%
 graph TD;
 	id1[ML Task] --> id2[Supervised Learning];
 	id1 --> id3[Unsupervised Learning];
