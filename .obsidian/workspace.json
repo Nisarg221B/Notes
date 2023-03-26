@@ -28,7 +28,7 @@
               "state": {
                 "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md"
+              }
             }
           }
         ],
@@ -186,7 +190,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "dadc72f403ef0675",
+  "active": "3478448141e16b53",
   "lastOpenFiles": [
     "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
