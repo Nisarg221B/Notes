@@ -1,3 +1,4 @@
+[[Introduction to machine learning]]
 
 ![[Pasted image 20230326135256.png]]
 
@@ -26,22 +27,5 @@ graph TD;
 	id3 --> id7[Clustering];
 	id3 --> id8[Nueral Net];
 ```
-
-## Building a dataset 
-
-Machine Learning practitioners spend nearly 80% of their time working on preparing data.
-
-- **Data Collection**  - Find and collect data related to the problem you defined
-
-- **Data Inspection** - inspect the integrity or quality of data 
-				- Outliers
-				- Missing or incomplete data
-				- Transforming the data ( converting categorical to numeric) based on the requirement of the model to be used.
-- **Summary Statistics** ( mean, standard deviation , IQR(inner quartile range))
-				- Summary Statistics can identify 
-						- trends in the data
-						- shape of the data
-						- scale of the data
-- **Data Visualization** to communicate findings to project stakeholders.
 
 

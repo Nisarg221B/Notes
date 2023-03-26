@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
+                "file": "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,12 +172,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2ec325daa1b61786",
+  "active": "6852eb2c1f439737",
   "lastOpenFiles": [
-    "ML notes/Deep Racer Notes/Machine Learning/Drawing 2023-03-26 14.20.03.excalidraw.md",
+    "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
     "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
-    "waitforit/investing/Equity based mutual fund.md",
     "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Drawing 2023-03-26 14.20.03.excalidraw.md",
+    "waitforit/investing/Equity based mutual fund.md",
     "Untitled.canvas",
     "ML notes/Deep Racer Notes/Machine Learning",
     "ML notes/Deep Racer Notes",
@@ -214,7 +211,6 @@
     "waitforit/books/Management Mantras.md",
     "waitforit/books/A Court of Thorns and Roses.md",
     "waitforit/books/48-Hour Start-up.md",
-    "waitforit/Branding.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
