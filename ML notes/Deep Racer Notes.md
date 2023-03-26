@@ -32,3 +32,7 @@ machine learning involve three primary components:
 -   A model inference algorithm
 	using a trained model to generate predictions
 
+same model can be trained to predict two different things :-
+![[Pasted image 20230326134726.png| 300]]
+
+![[Pasted image 20230326134752.png|300]]
