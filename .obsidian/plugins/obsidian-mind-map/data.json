@@ -3,6 +3,6 @@
   "nodeMinHeight": 16,
   "lineHeight": "1em",
   "spacingVertical": 5,
-  "spacingHorizontal": 5,
+  "spacingHorizontal": 100,
   "paddingX": 8
 }
