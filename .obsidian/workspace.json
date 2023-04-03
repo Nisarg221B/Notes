@@ -4,20 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f249867340ce2b91",
+        "id": "48069aea656eb868",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e60732ba6cf603",
+            "id": "900ba309c35590ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
+                "file": "random learning/Git Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "89caed40695acd58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
+                "file": "random learning/Git Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
+                "file": "random learning/Git Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md"
+                "file": "random learning/Git Learning.md"
               }
             }
           }
@@ -173,17 +181,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1e60732ba6cf603",
+  "active": "900ba309c35590ce",
   "lastOpenFiles": [
-    "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
+    "random learning/Git Learning.md",
+    "random learning",
     "ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
-    "waitforit/startup/startup 101.md",
-    "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
-    "images/Screenshot 2023-03-26 at 7.12.31 PM.png",
-    "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
     "ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
     "ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+    "ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "waitforit/startup/startup 101.md",
+    "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
+    "images/Screenshot 2023-03-26 at 7.12.31 PM.png",
     "ML notes/Deep Racer Notes/Untitled.md",
     "ML notes/Deep Racer Notes/Reinforcement Learning",
     "ML notes/Deep Racer Notes/Machine Learning/Model Evaluation.md",
@@ -215,11 +225,9 @@
     "waitforit/Tasks.md",
     "waitforit/books/The Left Hand of Darkness.md",
     "waitforit/to-do.md",
-    "waitforit/books/Zero to One.md",
     "waitforit/startup",
     "waitforit/books",
     "waitforit/fashion",
-    "waitforit/dailynotes",
     "Notes/waitforit/images/MC.png"
   ]
 }
