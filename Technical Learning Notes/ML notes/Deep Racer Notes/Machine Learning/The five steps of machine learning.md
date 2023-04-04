@@ -20,7 +20,7 @@ The following examples demonstrate how a machine learning practitioner might att
 
 -   This helps you better understand the data you need for a project.
 ```mermaid
-graph TD;
+graph LR;
 	id1[ML Task] -- <i>Labeled data</i> --> id2[Supervised Learning]:::fuellungrot;
 	id1 -- <i>Unlabeled data</i> --> id3[Unsupervised Learning];
 	id1 --> id4[Reinforcement Learning];
