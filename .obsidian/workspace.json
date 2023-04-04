@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "963d72d3f7df7da7",
+        "id": "f8697c220e4bdc90",
         "type": "tabs",
         "children": [
           {
-            "id": "90a49728169dcfce",
+            "id": "32d2585c13c6af3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "books/The 22 Immutable Laws of Marketing, Violate Them at Your Own Risk.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -147,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +163,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "kindle-csv-converter:Kindle CSV Converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "90a49728169dcfce",
+  "active": "64a44887035a37cb",
   "lastOpenFiles": [
-    "KindleClippings-master/books/How to Avoid a Climate Disaster - Bill Gates.md",
+    "books/The 22 Immutable Laws of Marketing, Violate Them at Your Own Risk.md",
+    "books/A Court of Thorns and Roses.md",
+    "books/48-Hour Start-up.md",
+    "books/Housel-The Psychology of Money.md",
+    "books/Guin-The Left Hand of Darkness.md",
+    "books/How to Talk to Anyone  92 Little Tricks.md",
+    "books/Zero to One.md",
+    "books/Subtle Art of Love.md",
+    "books/Gates-How to Avoid a Climate Disaster.md",
+    "books/original clippings/My Clippings.txt",
+    "books/original clippings",
+    "().md",
+    "Tasks.md",
+    "waitforit/Planning.md",
+    "books/The Psychology of Money.md",
+    "books/The Way of Kings.md",
+    "books/Thiel-Masters-Zero to One.md",
+    "books/Noah-Born a Crime.md",
+    "books/Jost-A Very Punchable Face.md",
+    "books/Franklin-The Autobiography of Benjamin Franklin.md",
+    "books/Coelho-The Alchemist.md",
+    "books/Brontë_et_al-Jane Eyre.md",
+    "books/Godin-Tribes.md",
+    "books/Orwell-1984.md",
+    "books/McKelvey-The Innovation Stack.md",
+    "books/Gaiman-Pratchett-Good Omens.md",
+    "books/Lynch-One Up On Wall Street.md",
+    "books/Baldini-The Masque of the Red Death.md",
+    "KindleClippings-master/original clippings/My Clippings.txt",
     "KindleClippings-master/books/Zero to One - Notes on Startups, or How to Build the Future - Peter Thiel;Blake Masters.txt",
     "KindleClippings-master/books/Words of Radiance - Brandon Sanderson.txt",
     "KindleClippings-master/books/Tribes - We Need You to Lead Us - Seth Godin.txt",
@@ -174,39 +206,11 @@
     "KindleClippings-master/books/The Psychology of Money - Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel.txt",
     "KindleClippings-master/books/The Masque of the Red Death - Cajsa C Baldini.txt",
     "KindleClippings-master/books/The Left Hand of Darkness - Ursula K Le Guin.txt",
-    "KindleClippings-master/books/The Innovation Stack - Jim McKelvey.txt",
-    "KindleClippings-master/books/The Autobiography of Benjamin Franklin - The Complete Illustrated History - Benjamin Franklin.txt",
-    "KindleClippings-master/books/The Alchemist - Paulo Coelho.txt",
-    "KindleClippings-master/original clippings/My Clippings.md",
-    "Technical Learning Notes/Rest API.md",
     "KindleClippings-master/media/screenshot.png",
     "KindleClippings-master/media/logo.png",
-    "KindleClippings-master/README.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
-    "waitforit/dailynotes/2022-01-29.md",
-    "waitforit/dailynotes/2022-01-30.md",
-    "Schedule.md",
-    "waitforit/Planning.md",
-    "waitforit/Tasks.md",
-    "waitforit/startup/startup 102.md",
-    "waitforit/startup/startup 101.md",
-    "waitforit/to-do.md",
-    "random learning/Random Thoughts.md",
-    "random learning/Ones in a month.md",
-    "Technical Learning Notes/Git Learning.md",
-    "random learning/NR Narayana Murthy Lecture.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
     "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
     "images/Screenshot 2023-03-26 at 7.12.31 PM.png",
-    "ML notes/Deep Racer Notes/Untitled.md",
-    "ML notes/Deep Racer Notes/Machine Learning/Model Evaluation.md",
     "images/Pasted image 20230326150637.png",
-    "ML notes/Deep Racer Notes/Machine Learning/Drawing 2023-03-26 14.20.03.excalidraw.md",
-    "waitforit/investing/Equity based mutual fund.md",
     "Untitled.canvas",
     "images/Pasted image 20230326135256.png",
     "images/Pasted image 20230326134752.png",
