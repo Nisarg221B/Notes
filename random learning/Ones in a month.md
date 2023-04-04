@@ -1,2 +1,3 @@
 - [[NR Narayana Murthy Lecture]]
+- [[Random Thoughts]]
 - 
