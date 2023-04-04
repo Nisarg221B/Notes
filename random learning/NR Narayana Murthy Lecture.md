@@ -26,6 +26,15 @@ The important ingredient for a #good-decision is to create an open , pluralistic
 
 **Great leaders would provide you full bottom line support when the going was bad and that he would not get upset. But once the task was completed and once we had recovered from the crisis , he would show his anger.
 
+### Advise to Indian  companies
+
+- Adapt in operating in multicultural environment.
+- learn to negotiate pleasantly in multicultural environment.
+- learn to understand aspirations of multicultural talent.
+- learn how to motivate people from different culture.
+- learn to lead multicultural talent
+
+
 
 
 
