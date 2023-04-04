@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning Notes/Rest API.md",
+                "file": "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Rest API.md",
+                "file": "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Rest API.md",
+                "file": "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Rest API.md"
+                "file": "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md"
               }
             }
           }
@@ -173,8 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "fda6bc00450d0708",
   "lastOpenFiles": [
+    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
+    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
+    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
+    "Technical Learning Notes/Rest API.md",
     "waitforit/dailynotes/2022-01-29.md",
     "waitforit/dailynotes/2022-01-30.md",
     "Schedule.md",
@@ -183,18 +187,14 @@
     "waitforit/startup/startup 102.md",
     "waitforit/startup/startup 101.md",
     "waitforit/to-do.md",
-    "Technical Learning Notes/Rest API.md",
     "random learning/Random Thoughts.md",
     "random learning/Ones in a month.md",
     "Technical Learning Notes/Git Learning.md",
     "random learning/NR Narayana Murthy Lecture.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
     "Technical Learning Notes",
     "Technical Learning Notes/Market Segmentation notes",
     "Technical Learning Notes/ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
     "Technical Learning Notes/ML notes/Deep Racer Notes/Reinforcement Learning/Reward functions.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The four aspects of Working with data.md",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Modeling training.md",
     "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/The five steps of machine learning.md",
     "random learning",
     "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
