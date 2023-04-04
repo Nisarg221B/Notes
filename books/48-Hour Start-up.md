@@ -1,8 +1,13 @@
 
-* Author: [Fraser Doherty MBE]()
-
 
 ---
+
+Author: [Fraser Doherty MBE]
+
+---
+
+#books #start-up
+
 If you think of the wild success in the past ten years of Ryanair (or Southwest Airlines in the US), Primark, Poundland, Aldi, Uber and Amazon, it is clear that by being the cheapest brand in the market you can really clean up. You can totally disrupt an existing market just through the strategy of being cheapest — location: [1302]()
 
 ---
