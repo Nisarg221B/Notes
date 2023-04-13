@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/48-Hour Start-up.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/48-Hour Start-up.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/48-Hour Start-up.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/48-Hour Start-up.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -173,10 +173,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "ca55e68deb82633d",
   "lastOpenFiles": [
-    "Tasks.md",
     "Schedule.md",
+    "books/48-Hour Start-up.md",
+    "Tasks.md",
     "books/A Court of Thorns and Roses.md",
     "books/Coelho-The Alchemist.md",
     "books/Brontë_et_al-Jane Eyre.md",
@@ -186,7 +187,6 @@
     "books/The Autobiography of Benjamin Franklin.md",
     "books/Franklin-The Autobiography of Benjamin Franklin.md",
     "books/Freedom From The Known.md",
-    "books/48-Hour Start-up.md",
     "books/Housel-The Psychology of Money.md",
     "books/Guin-The Left Hand of Darkness.md",
     "books/How to Talk to Anyone  92 Little Tricks.md",
