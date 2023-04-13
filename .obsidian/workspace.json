@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a85e16600d951e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Messages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Messages.md"
               }
             }
           }
@@ -173,11 +187,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "ca55e68deb82633d",
+  "active": "a85e16600d951e6e",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Messages.md",
     "Schedule.md",
     "books/48-Hour Start-up.md",
-    "Tasks.md",
     "books/A Court of Thorns and Roses.md",
     "books/Coelho-The Alchemist.md",
     "books/Brontë_et_al-Jane Eyre.md",
@@ -202,7 +217,6 @@
     "books/Thiel-Masters-Zero to One.md",
     "books/Noah-Born a Crime.md",
     "books/Jost-A Very Punchable Face.md",
-    "books/Godin-Tribes.md",
     "KindleClippings-master/original clippings/My Clippings.txt",
     "KindleClippings-master/books/Zero to One - Notes on Startups, or How to Build the Future - Peter Thiel;Blake Masters.txt",
     "KindleClippings-master/books/Words of Radiance - Brandon Sanderson.txt",
