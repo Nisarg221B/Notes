@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "050a8b8e74d1c6ca",
+            "id": "a0a385bc4ede4f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7b304b7d0bab492c",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Apprentinship preparation.md"
+                "file": "Messages.md"
               }
             }
           }
@@ -173,12 +174,23 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "050a8b8e74d1c6ca",
+  "active": "a0a385bc4ede4f4c",
   "lastOpenFiles": [
-    "images/Screenshot 2023-04-13 at 11.48.54 AM.png",
-    "images/Screenshot 2023-04-13 at 11.48.36 AM.png",
-    "Google Apprentinship preparation.md",
+    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "Messages.md",
+    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
+    "Untitled.md",
+    "Technical Learning Notes/Cognitive ability",
+    "images/Screenshot 2023-04-13 at 12.00.25 PM.png",
+    "images/Screenshot 2023-04-13 at 12.00.04 PM.png",
+    "images/Screenshot 2023-04-13 at 11.57.49 AM.png",
+    "images/Screenshot 2023-04-13 at 11.57.06 AM.png",
+    "images/Screenshot 2023-04-13 at 11.56.21 AM.png",
+    "images/Screenshot 2023-04-13 at 11.54.54 AM.png",
+    "images/Screenshot 2023-04-13 at 11.54.27 AM.png",
+    "images/Screenshot 2023-04-13 at 11.52.30 AM.png",
+    "images/Screenshot 2023-04-13 at 11.52.15 AM.png",
+    "images/Screenshot 2023-04-13 at 11.51.15 AM.png",
     "Schedule.md",
     "Tasks.md",
     "books/48-Hour Start-up.md",
@@ -203,7 +215,6 @@
     "waitforit/Planning.md",
     "books/The Psychology of Money.md",
     "books/The Way of Kings.md",
-    "books/Thiel-Masters-Zero to One.md",
     "KindleClippings-master/original clippings/My Clippings.txt",
     "KindleClippings-master/books/Zero to One - Notes on Startups, or How to Build the Future - Peter Thiel;Blake Masters.txt",
     "KindleClippings-master/books/Words of Radiance - Brandon Sanderson.txt",
@@ -211,16 +222,6 @@
     "KindleClippings-master/books/The Way of Kings - Brandon Sanderson.txt",
     "KindleClippings-master/books/The Psychology of Money - Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel.txt",
     "KindleClippings-master/books/The Masque of the Red Death - Cajsa C Baldini.txt",
-    "KindleClippings-master/books/The Left Hand of Darkness - Ursula K Le Guin.txt",
-    "KindleClippings-master/media/screenshot.png",
-    "KindleClippings-master/media/logo.png",
-    "images/Screenshot 2023-03-26 at 7.13.18 PM.png",
-    "images/Screenshot 2023-03-26 at 7.12.31 PM.png",
-    "images/Pasted image 20230326150637.png",
-    "Untitled.canvas",
-    "images/Pasted image 20230326135256.png",
-    "images/Pasted image 20230326134752.png",
-    "images/Pasted image 20230326134726.png",
-    "waitforit/images/MC.png"
+    "Untitled.canvas"
   ]
 }
