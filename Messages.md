@@ -17,4 +17,3 @@ I wanted to connect and see if we could work together. As a recent graduate with
 _Let's connect_,
 
 
-

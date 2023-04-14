@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+                "file": "Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md"
+                "file": "Messages.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "a0a385bc4ede4f4c",
   "lastOpenFiles": [
-    "Messages.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+    "Messages.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Untitled.md",
     "Technical Learning Notes/Cognitive ability",
