@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "475aefddcc0f506b",
+        "id": "58c1a8219334ec91",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a385bc4ede4f4c",
+            "id": "3e411cb14618e040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messages.md",
+                "file": "Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messages.md",
+                "file": "Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Messages.md",
+                "file": "Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messages.md"
+                "file": "Planning.md"
               }
             }
           }
@@ -173,12 +173,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a0a385bc4ede4f4c",
+  "active": "3e411cb14618e040",
   "lastOpenFiles": [
-    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+    "Planning.md",
     "Messages.md",
+    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
-    "Untitled.md",
     "Technical Learning Notes/Cognitive ability",
     "images/Screenshot 2023-04-13 at 12.00.25 PM.png",
     "images/Screenshot 2023-04-13 at 12.00.04 PM.png",
