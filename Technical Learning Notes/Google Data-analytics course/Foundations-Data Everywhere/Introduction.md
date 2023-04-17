@@ -3,11 +3,11 @@
 #data
 
 
-Data - collection of facts.
+**Data** - collection of facts.
 
-Data analyst - someone who collects, transforms and organizes data in order to help make informed decision.
+**Data analyst** - someone who collects, transforms and organizes data in order to help make informed decision.
 
-Processes :
+**Processes :**
 - Ask
 - Prepare
 - Process 
@@ -73,3 +73,13 @@ The last stage of the process for the team of analysts was to work with leaders 
 
 -   Standardize the hiring and evaluation process for employees based on the most efficient and transparent practices.
 -   Conduct the same survey annually and compare results with those from the previous year.
+
+## **Summery :** 
+
+- The analysts **asked** questions to define both the issue to be solved and what would equal a successful result. 
+
+- Next, they **prepared** by building a timeline and collecting data with employee surveys that were designed to be inclusive.
+
+- They **processed** the data by cleaning it to make sure it was complete, correct, relevant, and free of errors and outliers. 
+
+- They **analyzed** the clean employee survey data. Then the analysts **shared** their findings and recommendations with team leaders. Afterward, leadership **acted** on the results and focused on improving key areas. 
