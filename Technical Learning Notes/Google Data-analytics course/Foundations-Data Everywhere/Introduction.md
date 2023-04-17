@@ -85,3 +85,15 @@ The last stage of the process for the team of analysts was to work with leaders 
 - They **processed** the data by cleaning it to make sure it was complete, correct, relevant, and free of errors and outliers. 
 
 - They **analyzed** the clean employee survey data. Then the analysts **shared** their findings and recommendations with team leaders. Afterward, leadership **acted** on the results and focused on improving key areas. 
+
+Ask: Business Challenge/Objective/Question
+
+Prepare: Data generation, collection, storage, and data management
+
+Process: Data cleaning/data integrity
+
+Analyze: Data exploration, visualization, and analysis
+
+Share: Communicating and interpreting results 
+
+Act:  Putting your insights to work to solve the problem
