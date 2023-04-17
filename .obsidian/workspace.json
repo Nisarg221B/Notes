@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58c1a8219334ec91",
+        "id": "ad62ce5eeed7da36",
         "type": "tabs",
         "children": [
           {
-            "id": "3e411cb14618e040",
+            "id": "a073b89339af6181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/101.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md"
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/101.md"
               }
             }
           }
@@ -173,12 +173,15 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "3e411cb14618e040",
+  "active": "a073b89339af6181",
   "lastOpenFiles": [
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/101.md",
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere",
+    "Technical Learning Notes/Google Data-analytics course",
+    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
+    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "Planning.md",
     "Messages.md",
-    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability",
     "images/Screenshot 2023-04-13 at 12.00.25 PM.png",
     "images/Screenshot 2023-04-13 at 12.00.04 PM.png",
@@ -213,14 +216,11 @@
     "().md",
     "waitforit/Planning.md",
     "books/The Psychology of Money.md",
-    "books/The Way of Kings.md",
     "KindleClippings-master/original clippings/My Clippings.txt",
     "KindleClippings-master/books/Zero to One - Notes on Startups, or How to Build the Future - Peter Thiel;Blake Masters.txt",
     "KindleClippings-master/books/Words of Radiance - Brandon Sanderson.txt",
     "KindleClippings-master/books/Tribes - We Need You to Lead Us - Seth Godin.txt",
     "KindleClippings-master/books/The Way of Kings - Brandon Sanderson.txt",
-    "KindleClippings-master/books/The Psychology of Money - Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel.txt",
-    "KindleClippings-master/books/The Masque of the Red Death - Cajsa C Baldini.txt",
     "Untitled.canvas"
   ]
 }
