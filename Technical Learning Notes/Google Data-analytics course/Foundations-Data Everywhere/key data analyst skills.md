@@ -10,6 +10,8 @@
 
 
 **Analytical thinking** - Identifying and defining a problem and then solving it by using data in an organised , step-by-step manner.
+**Creative thinking**
+**Critical thinking** 
 
 **Five aspects of analytical thinking** :
 1. Visualisation 
