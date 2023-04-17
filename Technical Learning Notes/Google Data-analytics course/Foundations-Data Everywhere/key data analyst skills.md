@@ -18,4 +18,4 @@
 4. Correlation 
 5. Big picture and detail oriented thinking.
 
-Note* Correlation does not lead to causation.
+*Note Correlation does not lead to causation.
