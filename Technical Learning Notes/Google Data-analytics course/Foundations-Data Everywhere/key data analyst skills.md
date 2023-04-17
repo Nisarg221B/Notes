@@ -21,3 +21,8 @@
 5. Big picture and detail oriented thinking.
 
 *Note Correlation does not lead to causation.
+
+Common questions asked by data analysts 
+- What is the root cause of the problem ? ( 5 Whys trick)
+- What are the gaps in our process ? - Use gap analyses 
+Gap analyses is a method examining and evaluating how the process works currently in order to get where you want to be in future.
