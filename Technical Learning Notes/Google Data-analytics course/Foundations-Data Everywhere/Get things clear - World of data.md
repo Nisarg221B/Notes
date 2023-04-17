@@ -4,6 +4,7 @@
 #data-science
 
 previous :- [[Introduction]]
+next :- [[key data analyst skills]]
 
 ## Statistics
 - few important decision under uncertainty. 
