@@ -6,6 +6,8 @@
 **Data** - collection of facts.
 
 **Data analyst** - someone who collects, transforms and organizes data in order to help make informed decision.
+data analyst is explorer , a detective and an artist all rolled into one.
+
 
 **Processes :**
 - Ask
