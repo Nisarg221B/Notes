@@ -3,6 +3,8 @@
 #statistics 
 #data-science
 
+previous :- [[Introduction]]
+
 ## Statistics
 - few important decision under uncertainty. 
 - Excellence of statistics is rigor, they are very very careful about protecting decision maker from coming to wrong conclusion. 
