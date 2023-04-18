@@ -16,4 +16,3 @@ previous :- [[key data analyst skills]]
 - After through analysis of the data , it should be archived for long term use or retrospection.
 - Certain sensitive information which might have been collected temporarily like contact number or any personal details which is of  further concerns the analyses should be destroyed as per the agreement between buyers and sellers. 
 
-
