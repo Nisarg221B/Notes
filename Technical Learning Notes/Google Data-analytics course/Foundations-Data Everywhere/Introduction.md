@@ -26,6 +26,7 @@ An organization was experiencing a high turnover rate among new hires. Many empl
 #people-analytics
 #workplace-analytics
 
+#data-analytics-processes 
 #ask-dataAnalytics
 ### **Ask :**  
 define what the project would look like and what would qualify as a successful result.
