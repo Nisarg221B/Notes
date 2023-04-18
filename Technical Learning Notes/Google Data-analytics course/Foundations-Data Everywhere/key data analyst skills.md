@@ -1,6 +1,7 @@
 
 previous :- [[Get things clear - World of data]]
-next :-
+next :- [[data life cycle]]
+
 
 1. **Curiosity**                   
 2. **Understanding Context**       
