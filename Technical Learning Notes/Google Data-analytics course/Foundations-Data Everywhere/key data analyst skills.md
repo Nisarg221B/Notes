@@ -1,3 +1,7 @@
+
+previous :- [[Get things clear - World of data]]
+next :-
+
 1. **Curiosity**                   
 2. **Understanding Context**       
 			- Condition in which something exists or happens ( The analytical skill that has to do with how you group things into categories)
