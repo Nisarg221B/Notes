@@ -1,6 +1,6 @@
 
 previous :- [[Get things clear - World of data]]
-next :- [[data life cycle]]
+next :- [[Data life cycle]]
 
 
 1. **Curiosity**                   
