@@ -1,5 +1,10 @@
+prev :-[[Dashboards]]
+next :-
 
+#google-spreadsheets
+#data-analytics-tools
 
+## Errors 
 
 **#DIV/0!**
 
@@ -42,3 +47,11 @@ A cell used in a formula was in a column that was deleted
 A general error indicating a problem with a formula or with referenced cells
 
 There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.
+
+## Functions 
+
+1. COUNTIF(RANGE, COND)
+2. COUNT(RANGE)
+3. DATEDIF()
+4. SUM(RANGE1,RANGE2,..)
+5. VLOOKUP(search_key, range, index, [is_sorted])
