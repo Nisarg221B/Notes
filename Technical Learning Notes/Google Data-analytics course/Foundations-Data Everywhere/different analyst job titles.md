@@ -1,3 +1,5 @@
+next :- [[Asking effective questions]]
+
 -   Business analyst — analyzes data to help businesses improve processes, products, or services
     
 -   Data analytics consultant — analyzes the systems and models for using data
