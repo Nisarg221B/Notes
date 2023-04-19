@@ -1,5 +1,5 @@
 prev :-[[Dashboards]]
-next :-
+next :-[[non-tech]]
 
 #google-spreadsheets
 #data-analytics-tools
