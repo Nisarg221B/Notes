@@ -48,10 +48,19 @@ A general error indicating a problem with a formula or with referenced cells
 
 There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.
 
+## Formulas 
+
+=(C2+B2+D3)/2
+=(C2)
+= ($C$2) - Direct reference 
+= (E2-D2)/D2
+
+
 ## Functions 
 
 1. COUNTIF(RANGE, COND)
 2. COUNT(RANGE)
 3. DATEDIF()
-4. SUM(RANGE1,RANGE2,..)
+4. SUM(RANGE1,RANGE2,..) / AVG / COUNT / MIN / MAX
 5. VLOOKUP(search_key, range, index, [is_sorted])
+Range - C3:F3
