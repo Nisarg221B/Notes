@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4fb4a4ab2bd4e7d",
+        "id": "805ee37fe090a1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2f2304a57b92eb",
+            "id": "8fe2f9b8e6c393b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,12 +164,14 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "7b2f2304a57b92eb",
+  "active": "8fe2f9b8e6c393b4",
   "lastOpenFiles": [
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/key data analyst skills.md",
-    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Introduction.md",
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Different analyst job titles.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
+    "images/Screenshot 2023-04-19 at 9.41.14 AM.png",
     "images/Pasted image 20230418181618.png",
     "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
     "images/Screenshot 2023-04-17 at 3.27.57 PM.png",
@@ -196,7 +189,6 @@
     "images/Screenshot 2023-04-13 at 11.56.21 AM.png",
     "images/Screenshot 2023-04-13 at 11.54.54 AM.png",
     "images/Screenshot 2023-04-13 at 11.54.27 AM.png",
-    "images/Screenshot 2023-04-13 at 11.52.30 AM.png",
     "Schedule.md",
     "Tasks.md",
     "books/48-Hour Start-up.md",
@@ -212,7 +204,6 @@
     "books/Housel-The Psychology of Money.md",
     "books/Guin-The Left Hand of Darkness.md",
     "books/How to Talk to Anyone  92 Little Tricks.md",
-    "books/Zero to One.md",
     "books/original clippings/My Clippings.txt",
     "books/original clippings",
     "KindleClippings-master/original clippings/My Clippings.txt",

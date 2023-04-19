@@ -1,5 +1,5 @@
 previous :- [[key data analyst skills]]
-
+next :- [[Different analyst job titles]]
 
 1. Planning - Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
 2. Capture - Collect or bring in data from a variety of different sources.
