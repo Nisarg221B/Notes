@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md"
+                "file": "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   },
   "active": "cfd05329119787da",
   "lastOpenFiles": [
-    "Technical Learning Notes/Google Data-analytics course/Ask phase/SMART.md",
     "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md",
+    "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
+    "Technical Learning Notes/Google Data-analytics course/Ask phase/SMART.md",
     "images/Pasted image 20230419165125.png",
     "images/Pasted image 20230419165041.png",
     "images/Pasted image 20230419165004.png",
