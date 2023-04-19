@@ -9,3 +9,20 @@ prev :- [[Spreadsheets]]
 
 ![[Pasted image 20230419211327.png]]
 
+## Project follow-up email sample
+
+![[Pasted image 20230419211456.png]]
+
+
+## Other good email practices 
+
+![[good.png]]
+
+
+![[good2.png]]
+
+
+## Bad email practice 
+
+![[bad.png]]
+
