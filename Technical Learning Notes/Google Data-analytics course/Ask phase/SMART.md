@@ -1,5 +1,6 @@
+
 prev :- [[Asking effective questions]]
-next :- [[dashboards]]
+next :- [[Dashboards]]
 
 
 few ineffective ways to ask (ineffective questions):
