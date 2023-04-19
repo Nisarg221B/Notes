@@ -1,4 +1,7 @@
 
+  
+
+Dashboards monitor live, incoming data from multiple datasets and organize the information into one central location. Reports are static collections of data.
 
 Often, businesses will tailor a dashboard for a specific purpose. The three most common categories are:
 -   **Strategic**: focuses on long term goals and strategies at the highest level of metrics
