@@ -50,13 +50,16 @@ There could be problems with spaces or text, or with referenced cells in a formu
 
 ## Formulas 
 
+-   A formula is a set of instructions used to perform a calculation using the data in a spreadsheet.
 =(C2+B2+D3)/2
 =(C2)
 = ($C$2) - Direct reference 
 = (E2-D2)/D2
 
 
+
 ## Functions 
+-   A function is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
 
 1. COUNTIF(RANGE, COND)
 2. COUNT(RANGE)
@@ -64,3 +67,11 @@ There could be problems with spaces or text, or with referenced cells in a formu
 4. SUM(RANGE1,RANGE2,..) / AVG / COUNT / MIN / MAX
 5. VLOOKUP(search_key, range, index, [is_sorted])
 Range - C3:F3
+
+-   Relative references (cells referenced without a dollar sign, like A2) will change when you copy and paste the function into a different cell. With relative references, the location of the cell that contains the function determines the cells used by the function.
+    
+-   Absolute references (cells fully referenced with a dollar sign, like $A$2) will not change when you copy and paste the function into a different cell. With absolute references, the cells referenced always remain the same.
+    
+-   Mixed references (cells partially referenced with a dollar sign, like $A2 or A$2) will change when you copy and paste the function into a different cell. With mixed references, the location of the cell that contains the function determines the cells used by the function, but only the row or column is relative (not both).
+    
+-   In spreadsheets, you can press the F4 key to toggle between relative, absolute, and mixed references in a function. Click the cell containing the function, highlight the referenced cells in the formula bar, and then press F4 to toggle between and select relative, absolute, or mixed referencing.
