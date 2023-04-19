@@ -6,3 +6,6 @@ prev :- [[Spreadsheets]]
 2. What they already know
 3. What they need to know
 4. How you can communicate effectively to them
+
+![[Pasted image 20230419211327.png]]
+
