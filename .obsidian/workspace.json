@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "498f85432eaee92a",
+        "id": "3f0ad44b638e0a1e",
         "type": "tabs",
         "children": [
           {
-            "id": "599e9dc7a6ea8a30",
+            "id": "10532ffbbb045284",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a171cfa557b8d4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random learning/TV comparisons.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/TV comparisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/TV comparisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "random learning/TV comparisons.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,8 +150,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a171cfa557b8d4a7",
+  "active": "10532ffbbb045284",
   "lastOpenFiles": [
+    "payal.md",
+    "random learning/Ones in a month.md",
+    "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
     "random learning/TV comparisons.md",
     "images/Screenshot 2023-04-21 at 12.05.46 PM.png",
@@ -215,10 +195,7 @@
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "Planning.md",
-    "Messages.md",
     "Technical Learning Notes/Cognitive ability",
-    "Schedule.md",
-    "Tasks.md",
     "books/original clippings/My Clippings.txt",
     "books/original clippings",
     "Untitled.canvas"
