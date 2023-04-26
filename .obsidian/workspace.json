@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "3f0ad44b638e0a1e",
+        "id": "c04e89130872669d",
         "type": "tabs",
         "children": [
           {
-            "id": "10532ffbbb045284",
+            "id": "d54aa0a9860435e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c4761c566bd792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md"
+              }
             }
           }
         ]
@@ -150,9 +172,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "10532ffbbb045284",
+  "active": "d54aa0a9860435e7",
   "lastOpenFiles": [
-    "payal.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/proxy data.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/Statistical power.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md",
+    "images/Screenshot 2023-04-25 at 5.10.09 PM.png",
+    "images/Screenshot 2023-04-25 at 5.09.13 PM.png",
+    "Technical Learning Notes/Google Data-analytics course/process phase",
+    "amazon.md",
     "random learning/Ones in a month.md",
     "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
@@ -179,8 +208,6 @@
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
     "images/Screenshot 2023-04-20 at 5.22.33 PM.png",
     "images/Screenshot 2023-04-20 at 5.22.21 PM.png",
-    "images/Screenshot 2023-04-20 at 5.21.28 PM.png",
-    "images/Screenshot 2023-04-20 at 5.20.47 PM.png",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
     "Technical Learning Notes/Reinforcement Learning",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase",
@@ -189,15 +216,10 @@
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Introduction.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/key data analyst skills.md",
     "Technical Learning Notes/Google Data-analytics course/Ask phase",
-    "Technical Learning Notes/ML notes/Deep Racer Notes/Machine Learning/Introduction to machine learning.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere",
     "Technical Learning Notes/Google Data-analytics course",
-    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
-    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "Planning.md",
     "Technical Learning Notes/Cognitive ability",
     "books/original clippings/My Clippings.txt",
-    "books/original clippings",
     "Untitled.canvas"
   ]
 }
