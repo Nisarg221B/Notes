@@ -1,3 +1,9 @@
+#proxy-data 
+
+next :- [[Data Cleaning]]
+prev :- [[Statistical power]]
+
+----
 
 Sometimes the data to support a business objective isn’t readily available. This is when proxy data is useful. Take a look at the following scenarios and where proxy data comes in for each example:
 
@@ -14,3 +20,8 @@ Sometimes the data to support a business objective isn’t readily available. Th
 3. The Chamber of Commerce wants to know how a tourism campaign is going to impact travel to their city, but the results from the campaign aren’t publicly available yet.
 
 - The analyst proxies the historical data for airline bookings to the city one to three months after a similar campaign was run six months earlier.
+
+#dirtydata
+Dirty data 
+
+![[Screenshot 2023-04-26 at 4.49.15 PM.png]]

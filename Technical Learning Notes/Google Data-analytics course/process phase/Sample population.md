@@ -2,7 +2,12 @@
 next :- [[Statistical power]]
 prev :- [[Data Integrity]]
 
+#statistics 
+#hypothesis-testing
+#sample-population 
+
 ----
+
 
 **Population** 
 
@@ -64,4 +69,13 @@ You could probably accept a larger margin of error surveying how residents feel 
 -   **Sample**: A part of a population that is representative of the population
     
 -   **Margin of error**: The maximum amount that the sample results are expected to differ from those of the actual population
-- 
+
+## Calculating Sample size
+
+![[Screenshot 2023-04-26 at 4.59.25 PM.png]]
+
+
+search for sample size calulator
+
+
+![[Screenshot 2023-04-26 at 4.59.43 PM.png]]

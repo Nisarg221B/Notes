@@ -1,10 +1,15 @@
 
 
+#data-analytics 
+#process-dataAnalytics 
+
 next :- [[Sample population]]
 
 --- 
 
 Data Integrity is accuracy , consistency , completeness and trustworthiness of data throughout data lifecycle. 
+
+
 
 Here are some other things to watch out for which might let to compromising of data integrity:
 
