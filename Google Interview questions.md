@@ -1,0 +1,17 @@
+
+- About your self
+- Short term and long term goals
+- Why you enrolled for this  program
+- Email writing for  Requesting for 1 week vacation leave to your manager
+- Detail video is already uploaded you guys can refer to that 
+- Introduction
+- What's apprenticeship
+- Why google
+- Email to send for asking -one week leave 
+- Any questions
+- Intro yourself
+- Conflict with other employee
+- Aadhar linked or not
+- Expected CTC
+- Preferred Location
+-  Any questions you want to ask

@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b99986c80861c8",
+        "id": "c80420e6d028cbfa",
         "type": "tabs",
         "children": [
           {
-            "id": "438de430a269058c",
+            "id": "d5b9429643508e1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "random learning/Startup Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "task tracking.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/Startup Ideas.md",
+                "file": "task tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/Startup Ideas.md",
+                "file": "task tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/Startup Ideas.md"
+                "file": "task tracking.md"
               }
             }
           }
@@ -159,10 +156,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "438de430a269058c",
+  "active": "d5b9429643508e1b",
   "lastOpenFiles": [
-    "random learning/Startup Ideas.md",
+    "Untitled Kanban.md",
+    "task tracking.md",
+    "Schedule.md",
+    "Google Interview questions.md",
+    "Tasks.md",
+    "Planning.md",
+    "Messages.md",
+    "random learning/investing/notes.md",
     "random learning/AI tools and businesses.md",
+    "random learning/Startup Ideas.md",
     "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Change log.md",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
@@ -183,7 +188,6 @@
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
     "images/Screenshot 2023-04-26 at 4.59.43 PM.png",
     "images/Screenshot 2023-04-26 at 4.59.25 PM.png",
-    "Messages.md",
     "Technical Learning Notes/Google Data-analytics course/process phase",
     "amazon.md",
     "random learning/Ones in a month.md",
@@ -191,13 +195,6 @@
     "random learning/TV comparisons.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
     "Technical Learning Notes/Google Data-analytics course/Ask phase/SMART.md",
-    "Technical Learning Notes/Google Data-analytics course/Ask phase/Dashboards.md",
-    "Technical Learning Notes/Google Data-analytics course/Ask phase/Asking effective questions.md",
-    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Different analyst job titles.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Markov Decision Processes.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Planning by Dynamic Programming.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Model-Free Prediction.md",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
     "Technical Learning Notes/Reinforcement Learning",
