@@ -11,8 +11,13 @@
             "id": "438de430a269058c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "random learning/Startup Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "random learning/Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "random learning/Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "random learning/Startup Ideas.md"
+              }
             }
           }
         ]
@@ -152,6 +161,7 @@
   },
   "active": "438de430a269058c",
   "lastOpenFiles": [
+    "random learning/Startup Ideas.md",
     "random learning/AI tools and businesses.md",
     "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Change log.md",
@@ -188,7 +198,6 @@
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Markov Decision Processes.md",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Planning by Dynamic Programming.md",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Model-Free Prediction.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Model-Free Control.md",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
     "Technical Learning Notes/Reinforcement Learning",
