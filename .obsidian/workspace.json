@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c80420e6d028cbfa",
+        "id": "abf30bfa57a4a3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b9429643508e1b",
+            "id": "b769ce1a256b0d7e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -156,15 +156,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d5b9429643508e1b",
+  "active": "b769ce1a256b0d7e",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "task tracking.md",
-    "Schedule.md",
-    "Google Interview questions.md",
     "Tasks.md",
+    "task tracking.md",
     "Planning.md",
+    "Schedule.md",
     "Messages.md",
+    "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
+    "Excalidraw",
+    "Untitled Kanban.md",
+    "Google Interview questions.md",
     "random learning/investing/notes.md",
     "random learning/AI tools and businesses.md",
     "random learning/Startup Ideas.md",
@@ -194,7 +196,6 @@
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
     "random learning/TV comparisons.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
-    "Technical Learning Notes/Google Data-analytics course/Ask phase/SMART.md",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
     "Technical Learning Notes/Reinforcement Learning",
@@ -203,7 +204,6 @@
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere",
     "Technical Learning Notes/Google Data-analytics course",
     "Technical Learning Notes/Cognitive ability",
-    "books/original clippings/My Clippings.txt",
     "Untitled.canvas"
   ]
 }

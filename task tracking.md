@@ -23,6 +23,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"show-relative-date":true,"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after"}]}
+{"kanban-plugin":"basic","show-checkboxes":true,"show-relative-date":true,"date-colors":[],"lane-width":350}
 ```
 %%
