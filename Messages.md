@@ -29,7 +29,7 @@ Hello! thank you for accepting my connection request and I came across the machi
 
 ### For HR 
 
-Hello! , Thank you for accepting my connection request. I am interested in putting myself forward for the position of machine learning engineer and product analyst role that is currently open on the Kwalee careers website. I believe that I have required skill sets and interest for both of the positions. Please find my CV attached.
+Hello! , Thank you for accepting my connection request. I am interested in putting myself forward for the below two positions. Please find my CV attached for your reference. 
 
 1. Product Analyst - Casual Games https://jobs.jobvite.com/kwalee/job/okHumfwB
 2. Machine Learning Engineer https://jobs.jobvite.com/kwalee/job/oQs0mfwo
