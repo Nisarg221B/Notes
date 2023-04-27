@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messages.md",
+                "file": "Google Interview questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messages.md",
+                "file": "Google Interview questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Messages.md",
+                "file": "Google Interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messages.md"
+                "file": "Google Interview questions.md"
               }
             }
           }
@@ -161,12 +161,13 @@
   },
   "active": "b769ce1a256b0d7e",
   "lastOpenFiles": [
+    "amazon.md",
+    "Messages.md",
     "task tracking.md",
     "google data analytics course 5 @{2023-04-27}.md",
     "Tasks.md",
     "Planning.md",
     "Schedule.md",
-    "Messages.md",
     "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "Excalidraw",
     "Untitled Kanban.md",
@@ -195,7 +196,6 @@
     "images/Screenshot 2023-04-26 at 4.59.43 PM.png",
     "images/Screenshot 2023-04-26 at 4.59.25 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
-    "amazon.md",
     "random learning/Ones in a month.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
     "random learning/TV comparisons.md",
