@@ -25,7 +25,7 @@ Nisarg Patel
 ---
 
 ### For Referral
-Hello! thank you for accepting my connection request and I came across the machine learning engineer role and product analyst role that is currently available on the Kwalee careers website. I believe the I have required skill sets for both of the positions. It would be great if you could provide a referral for the same if you find my profile fit. I am attaching my CV for your reference.
+Hello! thank you for accepting my connection request and I came across the machine learning engineer role and product analyst role that is currently available on the Kwalee careers website. I believe the I have required skill sets for both of the positions. It would be great if you could provide a referral for the same if you find my profile fit. I am attaching my CV for your reference. Referrer
 
 ### For HR 
 

@@ -11,9 +11,12 @@
             "id": "b769ce1a256b0d7e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "task tracking.md"
+                "file": "Messages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task tracking.md",
+                "file": "Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task tracking.md",
+                "file": "Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task tracking.md"
+                "file": "Messages.md"
               }
             }
           }
@@ -158,8 +161,8 @@
   },
   "active": "b769ce1a256b0d7e",
   "lastOpenFiles": [
-    "google data analytics course 5 @{2023-04-27}.md",
     "task tracking.md",
+    "google data analytics course 5 @{2023-04-27}.md",
     "Tasks.md",
     "Planning.md",
     "Schedule.md",
