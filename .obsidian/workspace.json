@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Interview questions.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Interview questions.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Interview questions.md",
+                "file": "Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Interview questions.md"
+                "file": "Schedule.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "b769ce1a256b0d7e",
   "lastOpenFiles": [
+    "Google Interview questions.md",
     "amazon.md",
     "Messages.md",
     "task tracking.md",
@@ -171,7 +172,6 @@
     "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "Excalidraw",
     "Untitled Kanban.md",
-    "Google Interview questions.md",
     "random learning/investing/notes.md",
     "random learning/AI tools and businesses.md",
     "random learning/Startup Ideas.md",
