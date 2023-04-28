@@ -4,5 +4,6 @@
   "tabSize": 4,
   "readableLineLength": true,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
