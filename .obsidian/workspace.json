@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec34d95069b51533",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "task tracking.md"
-              }
-            }
-          },
-          {
             "id": "f35fb6783c95762e",
             "type": "leaf",
             "state": {
@@ -30,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
