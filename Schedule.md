@@ -1,3 +1,0 @@
-In the absence of a specified targetFixtures value and not belonging to any of the aforementioned categories, the remaining cameras are deemed as tracking cameras. Although no distinct tracking cameras are currently needed in the existing camera plans for Storekits, it may be necessary to incorporate them in future StoreKit sizes such as 10x30 and 10x40. These cameras can be assigned appropriate numbering based on their location in the store.
-
-As for the existing camera plans that do include tracking cameras, each plan is equipped with either one or two such cameras, and these cameras can be sequentially numbered based on their arrangement from the left to the right of the store.
