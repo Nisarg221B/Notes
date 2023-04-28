@@ -10,5 +10,5 @@
 
 ## Organising the data
 
-**Sorting** and **filtering** are two ways you can keep things organized when you format and adjust data to work with it. For example, a filter can help you find errors or outliers so you can fix or flag them before your analysis.
+**Sorting** and **filtering** are two ways you can keep things organised when you format and adjust data to work with it. For example, a filter can help you find errors or outliers so you can fix or flag them before your analysis.
 
