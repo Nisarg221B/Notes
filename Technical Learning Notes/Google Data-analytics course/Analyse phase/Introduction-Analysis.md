@@ -8,3 +8,7 @@
 3. Get input from others
 4. Transform data
 
+## Organising the data
+
+**Sorting** and **filtering** are two ways you can keep things organized when you format and adjust data to work with it. For example, a filter can help you find errors or outliers so you can fix or flag them before your analysis.
+
