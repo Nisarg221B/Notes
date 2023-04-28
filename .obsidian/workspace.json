@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abf30bfa57a4a3eb",
+        "id": "52462a3f13508eb9",
         "type": "tabs",
         "children": [
           {
-            "id": "b769ce1a256b0d7e",
+            "id": "ec34d95069b51533",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Schedule.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "task tracking.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "task tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule.md",
+                "file": "task tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule.md"
+                "file": "task tracking.md"
               }
             }
           }
@@ -159,16 +156,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b769ce1a256b0d7e",
+  "active": "ec34d95069b51533",
   "lastOpenFiles": [
-    "Google Interview questions.md",
-    "amazon.md",
-    "Messages.md",
-    "task tracking.md",
-    "google data analytics course 5 @{2023-04-27}.md",
-    "Tasks.md",
-    "Planning.md",
     "Schedule.md",
+    "task tracking.md",
+    "Tasks.md",
+    "random learning/Companies to look out for.md",
+    "random learning/Messages.md",
+    "random learning/Google Interview questions.md",
+    "amazon.md",
+    "google data analytics course 5 @{2023-04-27}.md",
     "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "Excalidraw",
     "Untitled Kanban.md",
