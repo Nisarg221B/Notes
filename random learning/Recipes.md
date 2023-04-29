@@ -17,7 +17,8 @@ add between bhakhri and little more butter on top and eat our heart out.
 - stir the spaghetti and add red chilli and salt while stirring as per the taste.
 - top with cheese and dhaniya for fresh flavour.
 
-##### 3. Mexican Thappa
+##### 3. Mexican Thukpa
+ - 
 
 4. Rabdi
 5. Chocolate thick shake or hot chocolate
