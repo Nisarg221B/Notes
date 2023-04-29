@@ -42,4 +42,15 @@ add between bhakhri and little more butter on top and eat our heart out.
 its done , Ahmedabads famous balan dosa. 
 
 ##### 7. Beet + dudhi salad
-- 
+- shini deva nu banne ne 
+- add dahi + salt 
+- mix it well and refrigerate it for some time. 
+
+( ask nikshan for more )
+
+##### 8. Garlic mushroom
+
+- Take some oil and butter in pan and heat it up little.
+- add mushroom and cook it losses water or turn golden brown.
+- add ton of garlic + chilli flakes + 5-6 basil leaves 
+- add salt and mozzarella cheese.
