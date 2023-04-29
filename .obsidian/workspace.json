@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0034a7e500d6620c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random learning/Messages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
+                "file": "random learning/Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
+                "file": "random learning/Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md"
+                "file": "random learning/Messages.md"
               }
             }
           }
@@ -159,10 +173,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f35fb6783c95762e",
+  "active": "0034a7e500d6620c",
   "lastOpenFiles": [
-    "task tracking.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
+    "task tracking.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
     "Technical Learning Notes/Google Data-analytics course/Untitled.md",
     "Schedule.md",

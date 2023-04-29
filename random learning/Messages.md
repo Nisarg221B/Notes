@@ -9,13 +9,15 @@ Hi Anjalii, My name is Nisarg, and I’m a Machine Learning Engineer. I am speci
 ---
 ### Cover Letter 
 
-Dear Olx Recruiting Team,
+Dear Kwalee Recruiting Team,
 
 Having spent the past 2 summers researching markets and building machine learning models for the companies I was working at, I have not only developed robust problem-solving skills, but also a flair for data analysis and machine learning.
 
 In my latest role, I was involved in the full life-cycle of the market segmentation: starting with the raw data collection all the way to assisting with target market selection. As a machine learning engineer I was also tasked with performing analysis on large datasets and build models which could predict the required with good statistical significance. In particular, I received recognition for always being on top of deadlines and ensuring client deliverables were on time as team leader.
 
-While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. I believe that Olx is the perfect place for me to stop, look around, and make a meaningful impact on the world. 
+While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. I believe that Kwalee is the perfect place for me to stop, look around, and make a meaningful impact on the world. 
+
+While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. I believe that Kwalee is the perfect place for me to stop, look around, and make my dream of working in a gaming industry true.
 
 Thank you for your time and consideration.
 
