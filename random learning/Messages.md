@@ -15,9 +15,9 @@ Having spent the past 2 summers researching markets and building machine learnin
 
 In my latest role, I was involved in the full life-cycle of the market segmentation: starting with the raw data collection all the way to assisting with target market selection. As a machine learning engineer I was also tasked with performing analysis on large datasets and build models which could predict the required with good statistical significance. In particular, I received recognition for always being on top of deadlines and ensuring client deliverables were on time as team leader.
 
-While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. I believe that Kwalee is the perfect place for me to stop, look around, and make a meaningful impact on the world. 
+More than just a job, working at Kwalee would be a dream come true for me. As a passionate gamer While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. 
 
-While I believe that I possess necessary skills to be an asset to the organisation , there's no stop to learning. I believe that Kwalee is the perfect place for me to stop, look around, and make my dream of working in a gaming industry true.
+
 
 Thank you for your time and consideration.
 
