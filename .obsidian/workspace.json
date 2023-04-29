@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fce9560234477dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random learning/Companies to look out for.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/Recipes.md",
+                "file": "random learning/Companies to look out for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/Recipes.md",
+                "file": "random learning/Companies to look out for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/Recipes.md"
+                "file": "random learning/Companies to look out for.md"
               }
             }
           }
@@ -173,10 +186,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ec2a6c5570b567db",
+  "active": "fce9560234477dd0",
   "lastOpenFiles": [
-    "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
     "random learning/Recipes.md",
+    "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
     "random learning/Messages.md",
     "task tracking.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
