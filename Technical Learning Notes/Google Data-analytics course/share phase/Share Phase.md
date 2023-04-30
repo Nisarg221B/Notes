@@ -29,3 +29,4 @@ Note: One useful way of approaching this framework is to notice the parts of the
 1. **Accuracy** - Are the channels helpful in accurately estimating the values being represented?
 2. **Popout** - How easy is it to distinguish certain values from others?
 3. **Grouping** - How good is a channel at communicating groups that exist in the data?
+
