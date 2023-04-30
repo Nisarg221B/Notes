@@ -5,7 +5,7 @@ prev :- [[proxy data]]
 
 
 advance SQL functions
-
+#sql
 - cast
 
 ![[Screenshot 2023-04-26 at 6.22.19 PM.png|500]]
@@ -19,6 +19,20 @@ advance SQL functions
 - Case 
 ![[Screenshot 2023-04-26 at 7.13.55 PM.png|500]]
 ![[Screenshot 2023-04-26 at 7.14.37 PM.png|500]]
+
+- Extract
+- count(distinct x )
+- select columnA , columnB\*columnC as Product       - operators
+- For temporary table use 
+with temp_table as (
+	select *
+	From ....
+)
+the second way to create temp table  - Select into command
+![[Screenshot 2023-04-30 at 2.00.17 PM.png | 200]]
+
+![[Screenshot 2023-04-30 at 2.01.27 PM.png | 300]]
+
 
 ## Correct the most common problems
 
