@@ -54,3 +54,6 @@ its done , Ahmedabads famous balan dosa.
 - add mushroom and cook it losses water or turn golden brown.
 - add ton of garlic + chilli flakes + 5-6 basil leaves 
 - add salt and mozzarella cheese.
+
+##### 8. Dahi + RIce + Paneer
+
