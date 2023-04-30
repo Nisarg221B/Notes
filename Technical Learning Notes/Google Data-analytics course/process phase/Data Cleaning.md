@@ -20,7 +20,7 @@ advance SQL functions
 ![[Screenshot 2023-04-26 at 7.13.55 PM.png|500]]
 ![[Screenshot 2023-04-26 at 7.14.37 PM.png|500]]
 
-- Extract
+- Extract -   Return a specific portion of a date
 - count(distinct x )
 - select columnA , columnB\*columnC as Product       - operators
 - Temp Table in SQL 
