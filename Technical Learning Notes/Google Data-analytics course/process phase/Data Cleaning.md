@@ -23,14 +23,18 @@ advance SQL functions
 - Extract
 - count(distinct x )
 - select columnA , columnB\*columnC as Product       - operators
-- For temporary table use 
+- Temp Table in SQL 
+**For temporary table WIth clause**  
 with temp_table as (
 	select *
 	From ....
 )
-the second way to create temp table  - Select into command
+**the second way to create temp table  - Select into command**
 ![[Screenshot 2023-04-30 at 2.00.17 PM.png | 200]]
 
+**User-managed temporary table creation**
+ As an analyst, you might decide to create a temporary table for your analysis that you can manage yourself. You would use the CREATE TABLE statement to create this kind of temporary table. After you have finished working with the table, you would then delete or drop it from the database at the end of your session. 
+ 
 ![[Screenshot 2023-04-30 at 2.01.27 PM.png | 300]]
 
 
