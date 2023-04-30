@@ -3,7 +3,7 @@
 #statistics 
 #data-science
 
-previous :- [[Introduction]]
+previous :- [[Introduction to data analytics]]
 next :- [[key data analyst skills]]
 
 ## Statistics

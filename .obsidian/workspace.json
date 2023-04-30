@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc44a6d338a2c38",
+        "id": "5dcdfe50bd025099",
         "type": "tabs",
         "children": [
           {
-            "id": "53792aa1d19f0b4d",
+            "id": "c3be46f069dc2ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,14 +159,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "53792aa1d19f0b4d",
+  "active": "c3be46f069dc2ed8",
   "lastOpenFiles": [
+    "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Introduction to data analytics.md",
+    "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
     "images/Screenshot 2023-04-30 at 6.27.02 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.40 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.16 PM.png",
     "images/Screenshot 2023-04-30 at 6.14.46 PM.png",
     "images/Pasted image 20230430181345.png",
-    "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
     "Technical Learning Notes/Google Data-analytics course/share phase",
     "Technical Learning Notes/Google Data-analytics course/process phase/Data Cleaning.md",
     "images/Screenshot 2023-04-30 at 2.01.27 PM.png",
@@ -194,12 +198,8 @@
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase/proxy data.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Statistical power.md",
-    "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
-    "Technical Learning Notes/Google Data-analytics course/process phase/Data Integrity.md",
-    "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
     "images/Screenshot 2023-04-26 at 7.45.39 PM.png",
     "images/Pasted image 20230426193307.png",
-    "images/Screenshot 2023-04-26 at 7.14.37 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
