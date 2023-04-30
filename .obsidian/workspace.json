@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md"
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/charts.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "c3be46f069dc2ed8",
   "lastOpenFiles": [
+    "images/Pasted image 20230430191623.png",
+    "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Introduction to data analytics.md",
     "Technical Learning Notes/Google Data-analytics course/Ask phase/Spreadsheets.md",
-    "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
-    "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
     "images/Screenshot 2023-04-30 at 6.27.02 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.40 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.16 PM.png",
@@ -196,8 +198,6 @@
     "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Change log.md",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
-    "Technical Learning Notes/Google Data-analytics course/process phase/proxy data.md",
-    "Technical Learning Notes/Google Data-analytics course/process phase/Statistical power.md",
     "images/Screenshot 2023-04-26 at 7.45.39 PM.png",
     "images/Pasted image 20230426193307.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
