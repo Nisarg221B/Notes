@@ -44,6 +44,12 @@ When you make conclusions from data analysis, you need to make sure that you don
 
 Knowing the difference between correlation and causation is important when you make conclusions from your data since the stakes could be high.
 
+###### **can use the concept of 5 whys to avoid confusing a correlation with causation** 
+
 ##### **Cause of disease**
 
 For example, pellagra is a disease with symptoms of dizziness, sores, vomiting, and diarrhea. In the early 1900s, people thought that the disease was caused by unsanitary living conditions. Most people who got pellagra also lived in unsanitary environments. But, a closer examination of the data showed that pellagra was the result of a lack of niacin (Vitamin B3). Unsanitary conditions were related to pellagra because most people who couldn’t afford to purchase niacin-rich foods also couldn’t afford to live in more sanitary conditions. But, dirty living conditions turned out to be a correlation only.
+
+##### **Distribution of aid**
+
+Here is another example. Suppose you are working for a government agency that provides food stamps. You noticed from the agency’s Google Analytics that people who qualify for food stamps are browsing the official website, but they are leaving the site without signing up for benefits. You think that the people visiting the site are leaving because they aren’t finding the information they need to sign up for food stamps. Google Analytics can help you find clues (correlations), like the same people coming back many times or how quickly people leave the page. One of those correlations might lead you to the actual cause, but you will need to collect additional data, like in a survey, to know exactly why people coming to the site aren’t signing up for food stamps. Only then can you figure out how to increase the sign-up rate.
