@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## to do
 
-- [ ] **google data analytics course 5** @{2023-04-27} ^7hcjkv
 
 
 ## In Progress
@@ -18,6 +17,7 @@ kanban-plugin: basic
 **Complete**
 - [x] **ION Group Test Prep** @@{09:30}
 - [x] ION Group Test @@{15:00}
+- [x] **google data analytics course 5** ^7hcjkv
 
 
 
