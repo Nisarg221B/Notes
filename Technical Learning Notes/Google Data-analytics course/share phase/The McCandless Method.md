@@ -10,3 +10,4 @@ prev :- [[useful data visualisation resources]]
 
 ---
 
+https://informationisbeautiful.net/
