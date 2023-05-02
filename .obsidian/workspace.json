@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7de5664d0eb018cb",
+        "id": "653ddd0fa201e352",
         "type": "tabs",
         "children": [
           {
-            "id": "864032dd7e7d2dd8",
+            "id": "5ca95b0a54594a19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md"
+              }
             }
           }
         ]
@@ -150,8 +159,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "864032dd7e7d2dd8",
+  "active": "5ca95b0a54594a19",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
     "images/Pasted image 20230430192048.png",
     "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
@@ -181,7 +191,6 @@
     "random learning/Google Interview questions.md",
     "amazon.md",
     "google data analytics course 5 @{2023-04-27}.md",
-    "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "Excalidraw",
     "Untitled Kanban.md",
     "random learning/investing/notes.md",
