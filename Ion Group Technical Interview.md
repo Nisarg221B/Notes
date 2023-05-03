@@ -5,7 +5,7 @@
 - [ ] SQL practice
 - [x] Linux commands ✅ 2023-05-03
 - [x] What do you know about ION, and what makes you the right fit for the job? ✅ 2023-05-03
-- [ ] Basic data analyst questions
+- [x] Basic data analyst questions ✅ 2023-05-03
 - [ ] Python coding practice ( some simple questions )
 
 ---
@@ -20,3 +20,4 @@ ION provides analytic services that help the organisations to break down the bar
 - I am detail oriented person with good communication and analytical skill. Working with data and getting the story it has to offer is my passion. I think this role has as much to offer to me as I have to offer to the role. which makes me a fine fit for this position and an asset to the organization.
 
 
+I think as a Technical analyst my job is to understand the business task at hand and collect and process the data needed to get the insights and the story the data has to offer  related to the problem and present it in a aesthetic manner to stakeholders so that they can have full picture and take data driven decision. 
