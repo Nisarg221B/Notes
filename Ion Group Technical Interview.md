@@ -1,8 +1,8 @@
 ----
 
-- [ ] Puzzle - https://www.geeksforgeeks.org/puzzles/
+- [x] Puzzle - https://www.geeksforgeeks.org/puzzles/ ✅ 2023-05-03
 - [x] DBMS and OS basic questions ✅ 2023-05-03
-- [ ] SQL practice
+- [x] SQL practice ✅ 2023-05-03
 - [x] Linux commands ✅ 2023-05-03
 - [x] What do you know about ION, and what makes you the right fit for the job? ✅ 2023-05-03
 - [x] Basic data analyst questions ✅ 2023-05-03
