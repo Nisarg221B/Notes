@@ -1,7 +1,7 @@
 ----
 
 - [ ] Puzzle - https://www.geeksforgeeks.org/puzzles/
-- [ ] DBMS and OS basic questions
+- [x] DBMS and OS basic questions ✅ 2023-05-03
 - [ ] SQL practice
 - [ ] Linux commands
 - [ ] What do you know about ION, and what makes you the right fit for the job?
