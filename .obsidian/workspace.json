@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ion Group Technical Interview.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ion Group Technical Interview.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ion Group Technical Interview.md",
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ion Group Technical Interview.md"
+                "file": "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "8fec5f2df1b49981",
   "lastOpenFiles": [
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
+    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Different analyst job titles.md",
     "Ion Group Technical Interview.md",
+    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
     "Schedule.md",
     "task tracking.md",
     "Technical Learning Notes/Git Learning.md",
@@ -198,7 +199,6 @@
     "google data analytics course 5 @{2023-04-27}.md",
     "Excalidraw",
     "Untitled Kanban.md",
-    "random learning/investing/notes.md",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
