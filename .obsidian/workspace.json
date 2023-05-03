@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40368bc2d5f2f491",
+        "id": "ce5adcc283ef5c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "13b88acc48ef09df",
+            "id": "8fec5f2df1b49981",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ion Group Technical Interview.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ion Group Technical Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ion Group Technical Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ion Group Technical Interview.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +150,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "13b88acc48ef09df",
+  "active": "8fec5f2df1b49981",
   "lastOpenFiles": [
-    "task tracking.md",
+    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
     "Ion Group Technical Interview.md",
+    "Schedule.md",
+    "task tracking.md",
+    "Technical Learning Notes/Git Learning.md",
+    "Technical Learning Notes/Rest API.md",
     "puzzle.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
@@ -188,7 +183,6 @@
     "random learning/Messages.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
     "Technical Learning Notes/Google Data-analytics course/Untitled.md",
-    "Schedule.md",
     "Tasks.md",
     "random learning/Google Interview questions.md",
     "amazon.md",
@@ -196,9 +190,6 @@
     "Excalidraw",
     "Untitled Kanban.md",
     "random learning/investing/notes.md",
-    "random learning/AI tools and businesses.md",
-    "random learning/Startup Ideas.md",
-    "random learning/NR Narayana Murthy Lecture.md",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
