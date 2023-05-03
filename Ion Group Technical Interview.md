@@ -2,6 +2,7 @@
 
 - [ ] Puzzle - https://www.geeksforgeeks.org/puzzles/
 - [ ] DBMS and OS basic questions
+- [ ] SQL practice
 - [ ] Linux commands
 - [ ] What do you know about ION, and what makes you the right fit for the job?
 - [ ] Basic data analyst questions
