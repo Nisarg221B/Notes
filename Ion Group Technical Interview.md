@@ -6,7 +6,7 @@
 - [x] Linux commands ✅ 2023-05-03
 - [x] What do you know about ION, and what makes you the right fit for the job? ✅ 2023-05-03
 - [x] Basic data analyst questions ✅ 2023-05-03
-- [ ] Python coding practice ( some simple questions )
+- [x] Python coding practice ( some simple questions ) ✅ 2023-05-03
 
 ---
 
