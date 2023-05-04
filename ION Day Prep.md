@@ -11,3 +11,4 @@
 - [ ] ION Group details 
 - [ ] SDLC 
 - [ ] Which location do you prefer and why 
+- [ ] **experience of working as a part of a team with the company's senior management**. My answer prompted him to ask more such HR questions, regarding **leadership qualities,** **personal achievements**
