@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Capston project/Case Studies.md",
+                "file": "Ion Group Technical Interview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Capston project/Case Studies.md",
+                "file": "Ion Group Technical Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Capston project/Case Studies.md",
+                "file": "Ion Group Technical Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/Capston project/Case Studies.md"
+                "file": "Ion Group Technical Interview.md"
               }
             }
           }
@@ -169,9 +169,10 @@
   },
   "active": "217b23bda5330b27",
   "lastOpenFiles": [
+    "Technical Learning Notes/Git Learning.md",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
     "Ion Group Technical Interview.md",
-    "Technical Learning Notes/Google Data-analytics course/Capston project/Case Studies.md",
-    "Technical Learning Notes/Google Data-analytics course/Capston project",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
     "random learning/Messages.md",
     "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Different analyst job titles.md",
@@ -180,7 +181,6 @@
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
     "Schedule.md",
     "task tracking.md",
-    "Technical Learning Notes/Git Learning.md",
     "Technical Learning Notes/Rest API.md",
     "puzzle.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
