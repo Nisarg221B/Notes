@@ -10,3 +10,4 @@
 - [ ] Puzzles
 - [ ] ION Group details 
 - [ ] SDLC 
+- [ ] Which location do you prefer and why 
