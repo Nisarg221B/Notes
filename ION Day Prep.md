@@ -9,6 +9,7 @@
 	- five dynamic factors that changes the train ticket prices daily
 	- Tips : **innovative ideas** , **brainstorm and structure your answers correctly**
 - [ ] HR standard questions 
+- [ ] Machine learning & Market segmentation basic questions 
 - [ ] ION Group details 
 	- **Do your research:** Read about the company and prepare basic points you can use for questions like, “Why do you want to work with us?”
 - [ ] SDLC -  **SDLC models** (Waterfall Model, Agile Model, Iterative Model, etc.)
