@@ -11,7 +11,7 @@ Customers - Financial institutions and banks , trading and brokerage firms, mult
 ---
 Terms
 
-1. **Forex**
+1. **Forex** 
 - Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.
 ION - Wall Street Systems
        -  [MarketFactory](https://www.marketswiki.com/wiki/MarketFactory "MarketFactory"), a currency software firm, pushing the company into the FX space.
@@ -21,6 +21,7 @@ ION - [Iris Trading Systems](https://www.marketswiki.com/wiki/index.php?title=Ir
        - [Caplin Systems](https://www.marketswiki.com/wiki/index.php?title=Caplin_Systems&action=edit&redlink=1 "Caplin Systems (page does not exist)"), a single-dealer portal platform
        - New York-based Broadway Technologies (reduce competition in UK fixed income markets)
        - Dash financials (options trading)
+ION offers Multi-Market Interface, an interface that allows traders to operate in multiple dealer-to-dealer and dealer-to-customer electronic markets.
 
 3. **Treasury and risk management**
 ION - Reval
