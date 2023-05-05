@@ -14,7 +14,7 @@
 
 ![[Pasted image 20230505200851.png | 300]]
 
-**Agile Methodology**  - divide jobs into smaller iterations or sections and avoid long-term planning entirely. The number of iterations, duration, and scope of each iteration are all clearly determined ahead of time. In the Agile process model, each iteration is a small-time "frame" that lasts anywhere from one to four weeks.
+**Agile Methodology**  - This mechanism divides the product into small builds and these small builds are developed with proper designing, coding, and testing with meetings until one build is completed. After this build, the other requirements are analyzed and the previous process is repeated until the final product is developed. The time for each build is called Sprints.
 
 ![[Pasted image 20230505200909.png | 300]]
 
