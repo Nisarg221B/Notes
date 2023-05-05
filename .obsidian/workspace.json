@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ION prep/HR questions.md",
+                "file": "ION prep/ION Day Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION prep/Market Segmantation stats.md",
+                "file": "ION prep/ION Day Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION prep/Market Segmantation stats.md",
+                "file": "ION prep/ION Day Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION prep/Market Segmantation stats.md"
+                "file": "ION prep/ION Day Prep.md"
               }
             }
           }
@@ -180,18 +181,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09e5562a53954ca4",
+  "active": "d8c8fd1d4da7e36a",
   "lastOpenFiles": [
-    "ION prep/ION Day Prep.md",
-    "ION prep/Market Segmantation stats.md",
-    "ION prep",
-    "ION prep/HR questions.md",
     "ION prep/ION Group details.md",
+    "ION prep/Ion Group Technical Interview.md",
+    "ION prep/Market Segmantation stats.md",
+    "ION prep/HR questions.md",
+    "ION prep/ION Day Prep.md",
+    "ION prep",
     "ION prep/SDLC.md",
     "images/Pasted image 20230505201114.png",
     "images/Pasted image 20230505200909.png",
     "images/Pasted image 20230505200851.png",
-    "ION prep/Ion Group Technical Interview.md",
     "Schedule.md",
     "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
