@@ -1,7 +1,7 @@
 
 - [x] Prepare the Introduction very well. ✅ 2023-05-05
 - [ ] Resume Revise Throughly
-- [ ] ION Form - details brainstorm.
+- [x] ION Form - details brainstorm. ✅ 2023-05-05
 - [ ] Case studies ( Case-point book or random videos )
 	- Asked Revenue Increasing Strategies 
 	- Finance and banking sector

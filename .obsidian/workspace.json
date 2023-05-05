@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09e5562a53954ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d8c8fd1d4da7e36a",
             "type": "leaf",
             "state": {
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,9 +183,9 @@
   },
   "active": "dfb00fdaa4d50f1f",
   "lastOpenFiles": [
-    "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
     "ION prep/ION Day Prep.md",
     "ION prep/Market Segmantation stats.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
     "ION prep/ION Group details.md",
     "ION prep/Ion Group Technical Interview.md",
     "ION prep/HR questions.md",
