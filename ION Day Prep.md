@@ -13,7 +13,7 @@
 - [ ] ION Group details 
 	- **Do your research:** Read about the company and prepare basic points you can use for questions like, “Why do you want to work with us?”
 - [ ] SDLC -  **SDLC models** (Waterfall Model, Agile Model, Iterative Model, etc.)
-	-  he showed me **2 images** and asked me to draw some conclusions from them. Both the pictures primarily revolved around **SDLC concepts**. I explained my interpretation of them systematically and assertively and tackled every cross-question with good enthusiasm.
+	- He showed me **2 images** and asked me to draw some conclusions from them. Both the pictures primarily revolved around **SDLC concepts**. I explained my interpretation of them systematically and assertively and tackled every cross-question with good enthusiasm.
 - [ ] Which location do you prefer and why 
 - [ ] **experience of working as a part of a team with the company's senior management**. My answer prompted him to ask more such HR questions, regarding **leadership qualities,** **personal achievements**
 - [ ] Puzzles
