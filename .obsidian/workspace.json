@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION prep/ION Day Prep.md",
+                "file": "ION prep/Market Segmantation stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION prep/ION Day Prep.md",
+                "file": "ION prep/Market Segmantation stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION prep/ION Day Prep.md"
+                "file": "ION prep/Market Segmantation stats.md"
               }
             }
           }
@@ -181,13 +180,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d8c8fd1d4da7e36a",
+  "active": "09e5562a53954ca4",
   "lastOpenFiles": [
+    "ION prep/ION Day Prep.md",
+    "ION prep/Market Segmantation stats.md",
     "ION prep/ION Group details.md",
     "ION prep/Ion Group Technical Interview.md",
-    "ION prep/Market Segmantation stats.md",
     "ION prep/HR questions.md",
-    "ION prep/ION Day Prep.md",
     "ION prep",
     "ION prep/SDLC.md",
     "images/Pasted image 20230505201114.png",
