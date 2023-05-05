@@ -1,6 +1,5 @@
 -   It explains why project planning, scheduling, and budgeting are necessary.
 
-
 1. **Planning** ( what do clients want )
 2. **Gathering Requirements** ( what the application is supposed to perform and what it needs )
 3. **Design** (distilling all of the software project's requirements, analysis, and design information , t is a simulation of how a software application will work.)
@@ -21,3 +20,9 @@
 **Iterative Model** :-  It primarily focuses on preliminary growth and design, then gradually develops momentum as more complex and needs are met until the final software is completely constructed
 ![[Pasted image 20230505201114.png | 300]]
 
+
+#### Other definitions
+
+A **Software Requirements Specification** (SRS) is a document that explains what the software will accomplish and how it will work.
+
+**A Feasibility study** is an analysis or measurement of a software product in terms of how advantageous product development will be for the business in terms of practicality. It determines whether the project is legally, technically, and commercially feasible.
