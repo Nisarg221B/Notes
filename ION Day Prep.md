@@ -15,7 +15,7 @@
 - [x] Which location do you prefer and why ✅ 2023-05-05
 - [ ] **experience of working as a part of a team with the company's senior management**. My answer prompted him to ask more such HR questions, regarding **leadership qualities,** **personal achievements**
 - [ ] Machine learning & Market segmentation basic questions 
-- [ ] Puzzles
+- [x] Puzzles ✅ 2023-05-05
 
 
 Other tips 
