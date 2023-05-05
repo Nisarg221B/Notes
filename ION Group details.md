@@ -14,3 +14,5 @@ Terms
 **Forex**
 - Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.
 ION - Wall Street Systems
+
+**Bonds and Stocks trading platforms** - 
