@@ -10,7 +10,7 @@
 	- Tips : **innovative ideas** , **brainstorm and structure your answers correctly**
 - [ ] HR standard questions 
 - [ ] Machine learning & Market segmentation basic questions 
-- [ ] ION Group details 
+- [ ] ION Group details
 	- **Do your research:** Read about the company and prepare basic points you can use for questions like, “Why do you want to work with us?”
 - [ ] SDLC -  **SDLC models** (Waterfall Model, Agile Model, Iterative Model, etc.)
 	- He showed me **2 images** and asked me to draw some conclusions from them. Both the pictures primarily revolved around **SDLC concepts**. I explained my interpretation of them systematically and assertively and tackled every cross-question with good enthusiasm.

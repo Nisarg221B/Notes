@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ION Group details.md",
+                "file": "ION Day Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION Group details.md",
+                "file": "ION Day Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION Group details.md",
+                "file": "ION Day Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION Group details.md"
+                "file": "ION Day Prep.md"
               }
             }
           }
@@ -183,10 +183,10 @@
   },
   "active": "de8be7fa01ad210d",
   "lastOpenFiles": [
-    "ION Day Prep.md",
     "ION Group details.md",
-    "Schedule.md",
     "Ion Group Technical Interview.md",
+    "ION Day Prep.md",
+    "Schedule.md",
     "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
