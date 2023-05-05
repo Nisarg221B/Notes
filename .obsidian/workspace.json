@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ion Group Technical Interview.md",
+                "file": "ION Day Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HR questions.md",
+                "file": "ION Day Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HR questions.md",
+                "file": "ION Day Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HR questions.md"
+                "file": "ION Day Prep.md"
               }
             }
           }
@@ -194,11 +193,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09e5562a53954ca4",
+  "active": "de8be7fa01ad210d",
   "lastOpenFiles": [
-    "ION Group details.md",
     "HR questions.md",
     "Ion Group Technical Interview.md",
+    "ION Group details.md",
     "Schedule.md",
     "task tracking.md",
     "ION Day Prep.md",
