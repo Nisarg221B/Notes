@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "Technical Learning Notes/SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "Technical Learning Notes/SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION Day Prep.md"
+                "file": "Technical Learning Notes/SDLC.md"
               }
             }
           }
@@ -194,13 +193,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5ec13095b9543e39",
+  "active": "de8be7fa01ad210d",
   "lastOpenFiles": [
+    "images/Pasted image 20230505201114.png",
+    "images/Pasted image 20230505200909.png",
+    "images/Pasted image 20230505200851.png",
+    "HR questions.md",
+    "ION Day Prep.md",
     "Ion Group Technical Interview.md",
     "ION Group details.md",
     "Technical Learning Notes/SDLC.md",
-    "ION Day Prep.md",
-    "HR questions.md",
     "Schedule.md",
     "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
@@ -230,12 +232,9 @@
     "images/Screenshot 2023-04-30 at 6.14.46 PM.png",
     "images/Pasted image 20230430181345.png",
     "Technical Learning Notes/Google Data-analytics course/share phase",
-    "Technical Learning Notes/Google Data-analytics course/process phase/Data Cleaning.md",
     "images/Screenshot 2023-04-30 at 2.01.27 PM.png",
-    "images/Screenshot 2023-04-30 at 2.00.17 PM.png",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
     "Excalidraw",
-    "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
     "Technical Learning Notes/Google Data-analytics course/process phase",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Untitled",
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
