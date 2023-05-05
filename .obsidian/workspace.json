@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "Technical Learning Notes/SDLC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "Technical Learning Notes/SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "Technical Learning Notes/SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION Day Prep.md"
+                "file": "Technical Learning Notes/SDLC.md"
               }
             }
           }
@@ -195,8 +195,9 @@
   },
   "active": "de8be7fa01ad210d",
   "lastOpenFiles": [
-    "HR questions.md",
     "ION Day Prep.md",
+    "Technical Learning Notes/SDLC.md",
+    "HR questions.md",
     "ION Group details.md",
     "Ion Group Technical Interview.md",
     "Schedule.md",
@@ -231,7 +232,6 @@
     "Technical Learning Notes/Google Data-analytics course/process phase/Data Cleaning.md",
     "images/Screenshot 2023-04-30 at 2.01.27 PM.png",
     "images/Screenshot 2023-04-30 at 2.00.17 PM.png",
-    "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
     "Excalidraw",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
