@@ -41,9 +41,13 @@ Suggestions I thought of while reading
 
 - if they have acquired so many companies some of them must have few intersecting or same functions - its better to group the companies bought and form few independent and international ( it might be the case that the companies aquired may have similar functions but for different countries ) softwares to void confusions and make it streamline for multinational clients and also make it easier for domestic clients.
 - Make sure that the companies which are being acquired also sustain their own culture and vision. 
+- [ ] Build something on Bengaluru and rain - traffic situation.
+- [ ] Why theres always a long line on one bag checking at airport
+- [ ] or why is that theres always free seats available at the starting containers of
 
 Their motos :
 ION software helps you improve decision-making, increase efficiency, simplify complex processes and empower your people
+
 
 1. Encourage creativity by automating repetitive tasks. ( Automation )
 2. Think long-term to get it right the first time. ( Execution )
