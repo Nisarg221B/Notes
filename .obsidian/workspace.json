@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de8be7fa01ad210d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ION Group details.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "ION Group details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "ION Group details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION Day Prep.md"
+                "file": "ION Group details.md"
               }
             }
           }
@@ -167,14 +181,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c430f1a335631166",
+  "active": "de8be7fa01ad210d",
   "lastOpenFiles": [
+    "ION Day Prep.md",
+    "ION Group details.md",
     "Schedule.md",
     "Ion Group Technical Interview.md",
     "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "ION Day Prep.md",
     "Technical Learning Notes/Git Learning.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project",
@@ -205,7 +220,6 @@
     "images/Screenshot 2023-04-30 at 2.00.17 PM.png",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase/Introduction-Analysis.md",
     "random learning/Recipes.md",
-    "random learning/Companies to look out for.md",
     "Technical Learning Notes/Google Data-analytics course/Analyse phase",
     "Excalidraw",
     "images/Screenshot 2023-04-26 at 8.28.59 PM.png",
