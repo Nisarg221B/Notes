@@ -20,3 +20,4 @@
 
 **Iterative Model** :-  It primarily focuses on preliminary growth and design, then gradually develops momentum as more complex and needs are met until the final software is completely constructed
 ![[Pasted image 20230505201114.png | 300]]
+
