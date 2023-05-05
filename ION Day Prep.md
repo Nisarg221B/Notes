@@ -17,6 +17,8 @@
 - [ ] Machine learning & Market segmentation basic questions 
 - [ ] Puzzles
 - [ ] Build something on Bengaluru and rain - traffic situation. 
+- [ ] Why theres always a long line on one bag checking at airport
+- [ ] or why is that theres always free seats available at the starting containers of 
 
 Other tips 
 
