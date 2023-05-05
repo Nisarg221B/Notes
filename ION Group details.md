@@ -6,3 +6,11 @@ ION Group is a privately held, global financial software and data firm that prov
 
 Customers - Financial institutions and banks , trading and brokerage firms, multi-national corporations, governments.
 
+
+
+---
+Terms
+
+**Forex**
+- Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.
+ION - Wall Street Systems
