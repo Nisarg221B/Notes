@@ -22,3 +22,5 @@ Based on  charging stations , gov policies and incentives , and sales:
 		- States with high number of both electric and non-electric vehicles - UP , Maharastra , karnataka , TN
 		- States with high number of Non-electric but low number of electric vehicles - Gujarat , Rajasthan , MP ..
 		- States with low amounts of both electric and non-electric vehicles. - assam , chattisgarh .. 
+
+Based on
