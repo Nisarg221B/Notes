@@ -16,10 +16,11 @@ Terms
 ION - Wall Street Systems
        -  [MarketFactory](https://www.marketswiki.com/wiki/MarketFactory "MarketFactory"), a currency software firm, pushing the company into the FX space.
        - 
-2. **Bonds and Stocks / Trading trading platforms** or making those softwares - 
+2. **Bonds and Stocks and options / Trading trading platforms** or making those softwares - 
 ION - [Iris Trading Systems](https://www.marketswiki.com/wiki/index.php?title=Iris_Trading_Systems&action=edit&redlink=1 "Iris Trading Systems (page does not exist)"), an Irish bond market trading system
        - [Caplin Systems](https://www.marketswiki.com/wiki/index.php?title=Caplin_Systems&action=edit&redlink=1 "Caplin Systems (page does not exist)"), a single-dealer portal platform
        - New York-based Broadway Technologies (reduce competition in UK fixed income markets)
+       - Dash financials (options trading)
 
 3. **Treasury and risk management**
 ION - Reval
