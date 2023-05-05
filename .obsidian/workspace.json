@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HR questions.md",
+                "file": "ION Day Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HR questions.md",
+                "file": "ION Day Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HR questions.md"
+                "file": "ION Day Prep.md"
               }
             }
           }
@@ -181,10 +180,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d8c8fd1d4da7e36a",
+  "active": "09e5562a53954ca4",
   "lastOpenFiles": [
-    "ION Day Prep.md",
     "HR questions.md",
+    "ION Day Prep.md",
     "ION Group details.md",
     "Technical Learning Notes/SDLC.md",
     "images/Pasted image 20230505201114.png",

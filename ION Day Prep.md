@@ -1,5 +1,5 @@
 
-- [ ] Prepare the Introduction very well. 
+- [x] Prepare the Introduction very well. ✅ 2023-05-05
 - [ ] Resume Revise Throughly
 - [ ] ION Form - details brainstorm.
 - [ ] Case studies ( Case-point book or random videos )
