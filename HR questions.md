@@ -1,6 +1,7 @@
 
 1. Introduction 
 
+I am Nisarg Patel and I am computer science and engineering graduated doing my B-Tech from Nirma University , 
 
 2. Why do you want to work with us ? 
 
