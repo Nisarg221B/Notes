@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "ION prep/Market Segmantation stats.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HR questions.md",
+                "file": "ION prep/HR questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "ION prep/Market Segmantation stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ION Day Prep.md",
+                "file": "ION prep/Market Segmantation stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ION Day Prep.md"
+                "file": "ION prep/Market Segmantation stats.md"
               }
             }
           }
@@ -182,14 +182,16 @@
   },
   "active": "09e5562a53954ca4",
   "lastOpenFiles": [
-    "HR questions.md",
-    "ION Day Prep.md",
-    "ION Group details.md",
-    "Technical Learning Notes/SDLC.md",
+    "ION prep/ION Day Prep.md",
+    "ION prep/Market Segmantation stats.md",
+    "ION prep",
+    "ION prep/HR questions.md",
+    "ION prep/ION Group details.md",
+    "ION prep/SDLC.md",
     "images/Pasted image 20230505201114.png",
     "images/Pasted image 20230505200909.png",
     "images/Pasted image 20230505200851.png",
-    "Ion Group Technical Interview.md",
+    "ION prep/Ion Group Technical Interview.md",
     "Schedule.md",
     "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
@@ -226,7 +228,6 @@
     "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning",
     "Technical Learning Notes/Reinforcement Learning",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase",
-    "Technical Learning Notes/Google Data-analytics course/Ask phase",
     "Untitled.canvas"
   ]
 }
