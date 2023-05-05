@@ -13,7 +13,7 @@
 - [x] SDLC -  **SDLC models** (Waterfall Model, Agile Model, Iterative Model, etc.) ✅ 2023-05-05
 	- [x] He showed me **2 images** and asked me to draw some conclusions from them. Both the pictures primarily revolved around **SDLC concepts**. I explained my interpretation of them systematically and assertively and tackled every cross-question with good enthusiasm. ✅ 2023-05-05
 - [x] Which location do you prefer and why ✅ 2023-05-05
-- [ ] **experience of working as a part of a team with the company's senior management**. My answer prompted him to ask more such HR questions, regarding **leadership qualities,** **personal achievements**
+- [x] **experience of working as a part of a team with the company's senior management**. My answer prompted him to ask more such HR questions, regarding **leadership qualities,** **personal achievements** ✅ 2023-05-05
 - [ ] Machine learning & Market segmentation basic questions 
 - [x] Puzzles ✅ 2023-05-05
 
