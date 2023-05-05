@@ -1,7 +1,11 @@
 
 1. Introduction 
 
-I am Nisarg Patel and I am computer science and engineering graduated doing my B-Tech from Nirma University , I have passion for everything related to data 
+I am Nisarg Patel and I am computer science and engineering graduated doing my B-Tech from Nirma University , I have passion for everything related to data . analyzing the data and understanding its story is what drove me to apply to this position.
+
+As of now I am posted as machine learning intern at a service based company called feynn labs Servces , my job is to segment the markets and suggest the target market to the clients for them to launch their product or re-position their existing products.
+
+Thank you , thats all.
 
 2. Why do you want to work with us ? 
 
@@ -13,7 +17,9 @@ Secondly I am very interested in the future of finance and banking sector with t
 
 I would prefer pune first as its very near to my home state + its very convenient for me to visit my parents if need be. second is delhi gurugram as it has really powerful vibes and I strive in it.
 
+4. Why do you want to apply to a non-tech role 
 
+I was appointed as a team lead in my current internship ....
 
 
 
