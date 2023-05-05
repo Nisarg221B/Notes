@@ -11,8 +11,23 @@ Customers - Financial institutions and banks , trading and brokerage firms, mult
 ---
 Terms
 
-**Forex**
+1. **Forex**
 - Trading forex involves the buying of one currency and simultaneous selling of another. In forex, traders attempt to profit by buying and selling currencies by actively speculating on the direction currencies are likely to take in the future.
 ION - Wall Street Systems
+       -  [MarketFactory](https://www.marketswiki.com/wiki/MarketFactory "MarketFactory"), a currency software firm, pushing the company into the FX space.
+       - 
+2. **Bonds and Stocks / Trading trading platforms** or making those softwares - 
+ION - [Iris Trading Systems](https://www.marketswiki.com/wiki/index.php?title=Iris_Trading_Systems&action=edit&redlink=1 "Iris Trading Systems (page does not exist)"), an Irish bond market trading system
+       - [Caplin Systems](https://www.marketswiki.com/wiki/index.php?title=Caplin_Systems&action=edit&redlink=1 "Caplin Systems (page does not exist)"), a single-dealer portal platform
+       - 
 
-**Bonds and Stocks trading platforms** - 
+3. **Treasury and risk management**
+ION - Reval
+
+4. **Market information and data analytics**
+ION -  Acuris - for fixed income, equities, compliance, infrastructure and research
+
+---
+Suggestions I thought of while reading
+
+- if they have aquired so many companies some of them must have few intersecting or same functions - its better to group the companies bought and form few independent and international ( it might be the case that the companies aquired may have similar functions but for different countries ) softwares to void confusions and make it streamline for multinational clients and also make it easier for domestic clients.
