@@ -28,7 +28,7 @@ so to make it dynamic
 
 ---
 
-we try to make recommendations based on the current preferences of user by penalising certain keywords based on the rating / feedback given by the user
+we try to make recommendations based on the current preferences of user by penalising and rewarding certain keywords based on the rating / feedback given by the user.
 
 we try to make recommendations based on the current preferences of user by penalising certain keywords based on the rating given by the user. again 50 top are extracted. and top 10 are suggested based on price range and ratings.
 
