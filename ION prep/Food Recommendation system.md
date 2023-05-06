@@ -18,4 +18,14 @@ problem - There is no personalisation.
 
 so to add personalisation we decided to add a user profile which will contain preferred cuisine , preferred taste , region , state and using this we made a feature vector for user.
 - Indian food items dataset from kaggle.
-- 
+
+then matching is done for each food item using cosine similarity and top 50 is extracted and then weight is given on the basis of price and rating and top 10 are shown to the users
+
+Problem - static 
+ones the profile is fixed and user change its preference it will not be able to consider that fact
+
+so to make it dynamic
+
+---
+
+we 
