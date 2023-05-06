@@ -1,8 +1,8 @@
 
 - [x] Prepare the Introduction very well. ✅ 2023-05-05
-- [ ] Resume Revise Throughly
+- [x] Resume Revise Throughly
 - [x] ION Form - details brainstorm. ✅ 2023-05-05
-- [ ] Case studies ( Case-point book or random videos )
+- [x] Case studies ( Case-point book or random videos )
 	- Asked Revenue Increasing Strategies 
 	- Finance and banking sector
 	- Covid - hotel - tourism sector ( The Covid-19 pandemic has deeply affected the hotel industry. You are part of the strategy team of some xyz hotel. Suggest some innovative ideas to attract people to visit your hotel and boost your revenue ) Certain categories were also provided, namely — Townhouse, Leisure, GoldenKey, Corporate Business, etc, which were to be targeted
