@@ -28,4 +28,11 @@ so to make it dynamic
 
 ---
 
-we 
+we try to make recommendations based on the current preferences of user by penalising certain keywords based on the rating / feedback given by the user
+
+we try to make recommendations based on the current preferences of user by penalising certain keywords based on the rating given by the user. again 50 top are extracted. and top 10 are suggested based on price range and ratings.
+
+problem - we observe that our model is suffering from overfitting.
+For example, if we recommend a particular type of food item and user always give high rating then only those types of food items are recommended and other are never known to the user.
+
+so to overcome that we introduced 3 random food items from (50-200) in the suggestions.
