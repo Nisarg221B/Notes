@@ -1,6 +1,6 @@
 
 - Kotlin is must
-- React Native vs Flutter
+- React Native vs Flutter ( cross platform )
 - devslopes udemy
 - UI - Constraint layout ( relations among view ) 
 - text view , list view , edit text , recycle view and how to add image  
@@ -10,4 +10,4 @@
 - threads , UI and Service Threads
 - Why run UI in UI threads and when to use the service for background process.
 - Activity Fragments and their Life Cycle.
-- 
+- Frontend - XML , Backend - Kotlin
