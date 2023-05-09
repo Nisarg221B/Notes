@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f669a301d8583d04",
+        "id": "0198ae3bd6227bbd",
         "type": "tabs",
         "children": [
           {
-            "id": "4d22e60678a10ebe",
+            "id": "43fdaa210a6f7df6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,22 +158,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4d22e60678a10ebe",
+  "active": "43fdaa210a6f7df6",
   "lastOpenFiles": [
-    "ION prep/Food Recommendation system.md",
-    "ION prep/ION Day Prep.md",
-    "ION prep/Market Segmantation stats.md",
+    "Schedule.md",
+    "task tracking.md",
+    "random learning/ION prep/Food Recommendation system.md",
+    "random learning/ION prep/ION Day Prep.md",
+    "random learning/ION prep/Market Segmantation stats.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
-    "ION prep/ION Group details.md",
-    "ION prep/Ion Group Technical Interview.md",
-    "ION prep/HR questions.md",
-    "ION prep",
-    "ION prep/SDLC.md",
+    "random learning/ION prep/ION Group details.md",
+    "random learning/ION prep/Ion Group Technical Interview.md",
+    "random learning/ION prep/HR questions.md",
+    "random learning/ION prep",
+    "random learning/ION prep/SDLC.md",
     "images/Pasted image 20230505201114.png",
     "images/Pasted image 20230505200909.png",
     "images/Pasted image 20230505200851.png",
-    "Schedule.md",
-    "task tracking.md",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "Technical Learning Notes/Git Learning.md",
