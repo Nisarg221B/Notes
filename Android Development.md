@@ -11,3 +11,4 @@
 - Why run UI in UI threads and when to use the service for background process.
 - Activity Fragments and their Life Cycle.
 - Frontend - XML , Backend - Kotlin
+- coding with mitch 
