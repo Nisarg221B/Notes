@@ -1,5 +1,8 @@
+#data-interpretations
+#di 
 
-![[IMG_0527.heic]]
+![[IMG_0527.png]]
+
 
 ![[IMG_0528.heic]]
 

@@ -11,8 +11,13 @@
             "id": "01c51a788168fff9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md"
+              }
             }
           }
         ]
@@ -158,8 +167,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "01c51a788168fff9",
   "lastOpenFiles": [
+    "images/DI/IMG_0534.png",
+    "images/DI/IMG_0533.png",
+    "images/DI/IMG_0532.png",
+    "images/DI/IMG_0531.png",
+    "images/DI/IMG_0530.png",
+    "images/DI/IMG_0529.png",
+    "images/DI/IMG_0528.png",
     "images/DI/IMG_0527.png",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "images/DI/IMG_0527.jpeg",
@@ -199,12 +215,6 @@
     "random learning/ION prep/Market Segmantation stats.md",
     "images/Pasted image 20230505201114.png",
     "images/Pasted image 20230505200909.png",
-    "images/Pasted image 20230505200851.png",
-    "images/Pasted image 20230430192048.png",
-    "images/Pasted image 20230430191623.png",
-    "images/Screenshot 2023-04-30 at 6.27.02 PM.png",
-    "images/Screenshot 2023-04-30 at 6.25.40 PM.png",
-    "images/Screenshot 2023-04-30 at 6.25.16 PM.png",
     "Untitled.canvas"
   ]
 }
