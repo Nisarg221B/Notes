@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f42bed8638e7e827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android Development.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android Development.md"
+              }
             }
           }
         ]
@@ -158,8 +176,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a8bcf056a31481e2",
+  "active": "f42bed8638e7e827",
   "lastOpenFiles": [
+    "Android Development.md",
     "Technical Learning Notes/Git Learning.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Interview Scenario data analytics.md",
@@ -205,7 +224,6 @@
     "Schedule.md",
     "task tracking.md",
     "random learning/ION prep/Food Recommendation system.md",
-    "random learning/ION prep/ION Day Prep.md",
     "Untitled.canvas"
   ]
 }
