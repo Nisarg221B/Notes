@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63551ec5c6f8d673",
+        "id": "9dd382841035b6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "01c51a788168fff9",
+            "id": "a8bcf056a31481e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning Notes/Cognitive ability/Data Interpretations.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,30 +158,33 @@
       "graph:Open graph view": false
     }
   },
-  "active": "01c51a788168fff9",
+  "active": "a8bcf056a31481e2",
   "lastOpenFiles": [
-    "images/DI/IMG_0534.png",
-    "images/DI/IMG_0533.png",
-    "images/DI/IMG_0532.png",
-    "images/DI/IMG_0531.png",
-    "images/DI/IMG_0530.png",
-    "images/DI/IMG_0529.png",
-    "images/DI/IMG_0528.png",
-    "images/DI/IMG_0527.png",
-    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
-    "images/DI/IMG_0527.jpeg",
-    "images/DI/IMG_0534.HEIC",
-    "images/DI/IMG_0533.HEIC",
-    "images/DI/IMG_0532.HEIC",
-    "images/DI/IMG_0531.HEIC",
-    "images/DI/IMG_0530.HEIC",
-    "images/DI/IMG_0529.HEIC",
-    "images/DI/IMG_0528.HEIC",
-    "images/DI/IMG_0527.HEIC",
-    "images/DI",
-    "images/untitled folder",
-    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
+    "Technical Learning Notes/Git Learning.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Interview Scenario data analytics.md",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Study pdfs/CS3.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Study pdfs/CS2.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Study pdfs/CS1.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Study pdfs/case studies.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Study pdfs",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/untitled folder",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/CS3.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/CS2.pdf",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/CS1.pdf",
+    "images/interview-scenario-data-analytics/negotiating.mp4",
+    "images/case studies/IMG_0539.JPG",
+    "images/case studies/IMG_0536.JPG",
+    "images/case studies/IMG_0535.JPG",
+    "images/case studies/IMG_0546.JPG",
+    "images/case studies/IMG_0547.JPG",
+    "images/case studies/IMG_0545.JPG",
+    "images/case studies/IMG_0544.JPG",
+    "images/case studies/IMG_0543.JPG",
+    "images/case studies/IMG_0542.JPG",
+    "images/case studies/IMG_0541.JPG",
+    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
+    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
     "random learning/Startup Ideas.md",
     "random learning/TV comparisons.md",
     "random learning/Recipes.md",
@@ -212,9 +206,6 @@
     "task tracking.md",
     "random learning/ION prep/Food Recommendation system.md",
     "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/Market Segmantation stats.md",
-    "images/Pasted image 20230505201114.png",
-    "images/Pasted image 20230505200909.png",
     "Untitled.canvas"
   ]
 }
