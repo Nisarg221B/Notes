@@ -1,4 +1,4 @@
 
 - Java vs Kotlin
-- react native vs flutter
+- React Native vs Flutter
 - 
