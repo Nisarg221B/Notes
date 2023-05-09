@@ -12,3 +12,8 @@
 - Activity Fragments and their Life Cycle.
 - Frontend - XML , Backend - Kotlin
 - coding with mitch
+
+
+
+
+
