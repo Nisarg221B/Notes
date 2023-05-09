@@ -11,8 +11,13 @@
             "id": "43fdaa210a6f7df6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md"
+              }
             }
           }
         ]
@@ -160,6 +169,25 @@
   },
   "active": "43fdaa210a6f7df6",
   "lastOpenFiles": [
+    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
+    "random learning/Startup Ideas.md",
+    "random learning/TV comparisons.md",
+    "random learning/Recipes.md",
+    "random learning/Random Thoughts.md",
+    "random learning/Ones in a month.md",
+    "random learning/NR Narayana Murthy Lecture.md",
+    "random learning/Messages.md",
+    "random learning/Companies to look out for.md",
+    "random learning/Google Interview questions.md",
+    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
+    "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
+    "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/proxy data.md",
+    "Technical Learning Notes/Google Data-analytics course/process phase/Statistical power.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
+    "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
     "Schedule.md",
     "task tracking.md",
     "random learning/ION prep/Food Recommendation system.md",
@@ -167,32 +195,13 @@
     "random learning/ION prep/Market Segmantation stats.md",
     "Technical Learning Notes/Google Data-analytics course/process phase/Sample population.md",
     "random learning/ION prep/ION Group details.md",
-    "random learning/ION prep/Ion Group Technical Interview.md",
-    "random learning/ION prep/HR questions.md",
     "random learning/ION prep",
-    "random learning/ION prep/SDLC.md",
     "images/Pasted image 20230505201114.png",
     "images/Pasted image 20230505200909.png",
     "images/Pasted image 20230505200851.png",
-    "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
-    "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "Technical Learning Notes/Git Learning.md",
-    "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project",
-    "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
-    "random learning/Messages.md",
-    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Different analyst job titles.md",
-    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
-    "Technical Learning Notes/Google Data-analytics course/Foundations-Data Everywhere/Introduction to data analytics.md",
-    "Technical Learning Notes/Reinforcement Learning/Elementary Reinforcement Learning/Introduction to RL.md",
-    "Technical Learning Notes/Rest API.md",
-    "puzzle.md",
-    "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
-    "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
-    "Excalidraw/Drawing 2023-04-26 23.53.33.excalidraw.md",
     "images/Pasted image 20230430192048.png",
     "images/Pasted image 20230430191623.png",
-    "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
     "images/Screenshot 2023-04-30 at 6.27.02 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.40 PM.png",
     "images/Screenshot 2023-04-30 at 6.25.16 PM.png",
