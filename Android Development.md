@@ -1,4 +1,6 @@
 
+----
+
 - Kotlin is must
 - React Native vs Flutter ( cross platform )
 - devslopes udemy
@@ -13,7 +15,4 @@
 - Frontend - XML , Backend - Kotlin
 - coding with mitch
 
-
-
-
-
+---
