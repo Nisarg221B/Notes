@@ -28,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android Development.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,7 +171,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f42bed8638e7e827",
+  "active": "a8bcf056a31481e2",
   "lastOpenFiles": [
     "Android Development.md",
     "Technical Learning Notes/Git Learning.md",
