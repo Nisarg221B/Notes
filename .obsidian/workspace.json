@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Vehicle Booking.md",
+                "file": "random learning/Startup Ideas.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Vehicle Booking.md",
+                "file": "random learning/Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Vehicle Booking.md",
+                "file": "random learning/Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Vehicle Booking.md"
+                "file": "random learning/Startup Ideas.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "ad411e2a8c19d46b",
   "lastOpenFiles": [
+    "random learning/Random Thoughts.md",
     "Online Vehicle Booking.md",
     "Android Development.md",
     "Technical Learning Notes/Git Learning.md",
@@ -221,7 +222,6 @@
     "random learning/Startup Ideas.md",
     "random learning/TV comparisons.md",
     "random learning/Recipes.md",
-    "random learning/Random Thoughts.md",
     "random learning/Ones in a month.md",
     "random learning/NR Narayana Murthy Lecture.md",
     "random learning/Messages.md",
