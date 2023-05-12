@@ -6,7 +6,7 @@ You are a team working under an Online Vehicle Booking Product Startup. Due to h
 You have to analyse the Vehicle market in India using Segmentation analysis and come up with a feasible strategy to enter the market, targeting the segments where there can be possible profit by offering Vehicle booking service.
 
 
-**What should your strategy contain?** - 
+**What should your strategy contain?**
 
 Analysis of which location in India is most suitable to create the early market in accordance with Innovation Adoption Life Cycle. (Read more @ [https://en.wikipedia.org/wiki/Technology_adoption_life_cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle "https://en.wikipedia.org/wiki/Technology_adoption_life_cycle")) 
 
@@ -14,3 +14,4 @@ Analysis of which location in India is most suitable to create the early market 
 - Strategic pricing range of products with understanding of early market psychographics. 
 
 DATA COLLECTION KEYWORDS: General Vehicle Type Data, Vehicle Industry Data, Online Cab booking statistics, etc.
+
