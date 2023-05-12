@@ -1,8 +1,8 @@
 ##### 1. **Panner- Parantha stuffing**
 
 - Finally cut onion , capsicum , garlic , Green chilli.
-- Grill the Paneer
-- Mix all and add very little red chilli and Dhanya powder.
+- sauté the Paneer
+- Mix all and add very little red chilli and Dhanya powder and salt.
 - take some butter in a pan or Kadhai 
 - Sauté the stuffing for 5 mins on medium flame and 15 mins on low-medium flame.
 
