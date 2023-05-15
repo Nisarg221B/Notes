@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd382841035b6a9",
+        "id": "6f05e9c88c4afaea",
         "type": "tabs",
         "children": [
           {
-            "id": "a8bcf056a31481e2",
+            "id": "127facd946102f5e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ad411e2a8c19d46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random learning/Startup Ideas.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f42bed8638e7e827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android Development.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/Startup Ideas.md",
+                "file": "Online Vehicle Booking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/Startup Ideas.md",
+                "file": "Online Vehicle Booking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/Startup Ideas.md"
+                "file": "Online Vehicle Booking.md"
               }
             }
           }
@@ -189,9 +162,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ad411e2a8c19d46b",
+  "active": "b54c8cb608d4832b",
   "lastOpenFiles": [
+    "random learning/TV comparisons.md",
+    "random learning/Recipes.md",
+    "random learning/Startup Ideas.md",
     "random learning/Random Thoughts.md",
+    "random learning/NR Narayana Murthy Lecture.md",
+    "random learning/Messages.md",
+    "random learning/Companies to look out for.md",
+    "random learning/AI tools and businesses.md",
     "Online Vehicle Booking.md",
     "Android Development.md",
     "Technical Learning Notes/Git Learning.md",
@@ -219,13 +199,7 @@
     "images/case studies/IMG_0541.JPG",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "random learning/Startup Ideas.md",
-    "random learning/TV comparisons.md",
-    "random learning/Recipes.md",
     "random learning/Ones in a month.md",
-    "random learning/NR Narayana Murthy Lecture.md",
-    "random learning/Messages.md",
-    "random learning/Companies to look out for.md",
     "random learning/Google Interview questions.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
     "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
@@ -236,7 +210,6 @@
     "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
     "Schedule.md",
-    "task tracking.md",
     "Untitled.canvas"
   ]
 }
