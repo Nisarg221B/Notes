@@ -11,8 +11,13 @@
             "id": "127facd946102f5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Online Vehicle Booking.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -162,8 +167,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "127facd946102f5e",
   "lastOpenFiles": [
+    "Schedule.md",
+    "Android Development.md",
+    "task tracking.md",
     "random learning/TV comparisons.md",
     "random learning/Recipes.md",
     "random learning/Startup Ideas.md",
@@ -173,7 +181,6 @@
     "random learning/Companies to look out for.md",
     "random learning/AI tools and businesses.md",
     "Online Vehicle Booking.md",
-    "Android Development.md",
     "Technical Learning Notes/Git Learning.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Case Studies.md",
     "Technical Learning Notes/Google Data-analytics course/Capstone project/Interview Scenario data analytics.md",
@@ -208,8 +215,6 @@
     "Technical Learning Notes/Google Data-analytics course/share phase/charts.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/Share Phase.md",
     "Technical Learning Notes/Google Data-analytics course/share phase/The McCandless Method.md",
-    "Technical Learning Notes/Google Data-analytics course/share phase/useful data visualisation resources.md",
-    "Schedule.md",
     "Untitled.canvas"
   ]
 }
