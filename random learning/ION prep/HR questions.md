@@ -17,7 +17,7 @@ Secondly I am very interested in the future of finance and banking sector with t
 
 3. **Which location do you prefer and why**
 
-I would prefer pune first as its very near to my home state + its very convenient for me to visit my parents if need be. second is delhi gurugram as it has really powerful vibes and I strive in it.
+I would prefer pune first as its very near to my home state + its very convenient for me to visit my parents if need be. second is delhi, gurugram as it has really powerful vibes and I strive in it.
 
 4. **Why do you want to apply to a non-tech role** 
 
