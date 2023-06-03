@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ION prep/Ion Group Technical Interview.md",
+                "file": "AI tools and businesses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ION prep/Ion Group Technical Interview.md",
+            "file": "AI tools and businesses.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ION prep/Ion Group Technical Interview.md",
+            "file": "AI tools and businesses.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ION prep/Ion Group Technical Interview.md"
+            "file": "AI tools and businesses.md"
           }
         }
       }
@@ -131,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dc0caa5a060a839",
+  "active": "6dc336537f0de637",
   "lastOpenFiles": [
+    "ION prep/Ion Group Technical Interview.md",
     "ION prep/ION Day Prep.md",
     "ION prep/ION Group details.md",
     "ION prep/HR questions.md",
