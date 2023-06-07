@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "536366476223c118",
+        "id": "0530eb4933f22eab",
         "type": "tabs",
         "children": [
           {
-            "id": "8935afa2ad9020cb",
+            "id": "4a1e924b8502565e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning Notes/Project QR/Design Doc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning Notes/Project QR/Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning Notes/Project QR/Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning Notes/Project QR/Design Doc.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,14 +158,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8935afa2ad9020cb",
+  "active": "4a1e924b8502565e",
   "lastOpenFiles": [
-    "task tracking.md",
+    "random learning/TV comparisons.md",
     "Technical Learning Notes/Project QR/Design Doc.md",
+    "task tracking.md",
     "Technical Learning Notes/Project QR",
     "Schedule.md",
     "Online Vehicle Booking.md",
-    "random learning/TV comparisons.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/ION Day Prep.md",
     "random learning/ION prep/ION Group details.md",

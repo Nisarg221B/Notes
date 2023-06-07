@@ -6,15 +6,19 @@ Pros
 - best sound speaker I have heard in a TV ( 70 Watt)
 - Good OS - Google tv
 - Good processing power with 3 gb ram + good internal storage -32gb.
+- affordable 
 
 Cons
 - Brand not identified or recognised in TVs
 - might cause strain on eyes more than LG. 
 - Little blomming or spread observed in display
+- not trustable
 
 Anything special required ?  - no
 
 effective price - 99,999
+
+----
 
 ### Samsung the Frame
 
@@ -34,6 +38,8 @@ Anything special required ? - might require apple tv4k or google chromecast tv s
 
 effective price - 1,40,000
 
+----
+
 ### LG QNED 
 
 pros 
@@ -49,10 +55,30 @@ Anything special required ? - Speakers will be required
 
 effective price - 1,25,000
 
+--- 
 
+### Sony X80K
+
+pros 
+- good enough display
+- has a brand name
+- Good OS
+- Good running history and ratings
+- very affordable and trustable
+
+cons
+- display could have been better
+- speakers only of 20Watts
+
+anything special required ? - Speakers will be required
+
+effective price - 99,999
+
+----
 
 ## Conclusion 
 
 - Samsung Frame TV
+- Sony x80k
 - Oneplus Q2 pro 
 - LG QNED
