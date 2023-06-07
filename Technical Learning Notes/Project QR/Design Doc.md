@@ -16,9 +16,10 @@ On the restaurants end , this will automate the order taking part and also strea
 ---
 ### Requirement
 
-- Should be mobile first design 
-- Easy access to menu and checkout option - customers should not need to signin for placing an order. this will also arise the issue of cyber attacks which should be handled with hashing protocols or should be made in such a way that orders shall not be placed outside the restaurants peripheral.
-- should incorporate safe payment option with both online and cash support
+- Should be mobile first design .
+- Easy access to menu and checkout option - customers should not need to signin for placing an order. this will also arise the issue of cyber attacks which should be handled with hashing protocols or web-app should be made in such a way that orders shall not be placed outside the restaurants peripheral.
+- Should incorporate safe payment option with both online and cash support.
+- 
 
 
 
