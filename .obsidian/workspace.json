@@ -11,24 +11,16 @@
             "id": "127facd946102f5e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "task tracking.md"
-              }
-            }
-          },
-          {
-            "id": "0ae5d4f2a1d6adcb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
+                "file": "random learning/TV comparisons.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task tracking.md",
+                "file": "random learning/TV comparisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task tracking.md",
+                "file": "random learning/TV comparisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task tracking.md"
+                "file": "random learning/TV comparisons.md"
               }
             }
           }
@@ -175,8 +167,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0ae5d4f2a1d6adcb",
+  "active": "127facd946102f5e",
   "lastOpenFiles": [
+    "task tracking.md",
     "Schedule.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/ION Day Prep.md",
@@ -184,7 +177,6 @@
     "random learning/TV comparisons.md",
     "Online Vehicle Booking.md",
     "Android Development.md",
-    "task tracking.md",
     "random learning/Recipes.md",
     "random learning/Startup Ideas.md",
     "random learning/Random Thoughts.md",
