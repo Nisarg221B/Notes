@@ -79,6 +79,11 @@ effective price - 99,999
 ## Conclusion 
 
 - Samsung Frame TV
-- Sony x80k
+- Sony x80k                  -- bought and happy 
 - Oneplus Q2 pro 
 - LG QNED
+
+
+### Sound systems
+- ZEBRONICS Zeb-Juke BAR 9500WS PRO Dolby 5.1 soundbar
+- Sony HT-S20R Real 5.1ch Dolby Digital Soundbar
