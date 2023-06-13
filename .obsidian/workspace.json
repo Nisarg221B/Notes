@@ -11,8 +11,13 @@
             "id": "b930aca4c985b4d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "random learning/ION prep/HR questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/TV & sound system comparisons.md",
+                "file": "random learning/ION prep/HR questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/TV & sound system comparisons.md",
+                "file": "random learning/ION prep/HR questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/TV & sound system comparisons.md"
+                "file": "random learning/ION prep/HR questions.md"
               }
             }
           }
@@ -162,8 +167,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b54c8cb608d4832b",
+  "active": "b930aca4c985b4d8",
   "lastOpenFiles": [
+    "random learning/ION prep/Market Segmantation stats.md",
+    "random learning/ION prep/Food Recommendation system.md",
+    "random learning/ION prep/HR questions.md",
+    "random learning/ION prep/ION Day Prep.md",
+    "random learning/ION prep/ION Group details.md",
+    "random learning/ION prep/Ion Group Technical Interview.md",
+    "random learning/ION prep/SDLC.md",
     "random learning/Untitled.md",
     "Technical Learning Notes/Project QR/Design Doc.md",
     "random learning/TV & sound system comparisons.md",
@@ -171,9 +183,6 @@
     "Technical Learning Notes/Project QR",
     "Schedule.md",
     "Online Vehicle Booking.md",
-    "random learning/ION prep/HR questions.md",
-    "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/ION Group details.md",
     "Technical Learning Notes/Android Development.md",
     "random learning/Recipes.md",
     "random learning/Startup Ideas.md",
@@ -206,10 +215,6 @@
     "images/case studies/IMG_0541.JPG",
     "Technical Learning Notes/Cognitive ability/Data Interpretations.md",
     "Technical Learning Notes/Cognitive ability/Google Apprentinship preparation.md",
-    "random learning/Ones in a month.md",
-    "random learning/Google Interview questions.md",
-    "Technical Learning Notes/Google Data-analytics course/Prepare phase/good-bad-data practices.md",
-    "Technical Learning Notes/Google Data-analytics course/Prepare phase/Data Collection.md",
     "Untitled.canvas"
   ]
 }

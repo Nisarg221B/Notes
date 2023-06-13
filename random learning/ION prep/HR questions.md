@@ -1,9 +1,9 @@
 
 1. **Introduction** 
 
-I am Nisarg Patel and I am computer science and engineering graduated doing my B-Tech from Nirma University , I have passion for everything related to data . analyzing the data and understanding its story is what drove me to apply to this position.
+I am Nisarg Patel and I am computer science and engineering graduated I have done my B-Tech from Nirma University , I have passion for everything related to data . analyzing the data and understanding its story is what drove me to apply to this position.
 
-As of now I am posted as machine learning intern at a service based company called Feynn labs Services , my job is to segment the markets and suggest the target market to the clients for them to launch their product or re-position their existing products.
+to talk about my experience i was posted as machine learning intern at a service based company called Feynn labs Services , my job was to segment the markets and suggest the target market to the clients for them to launch their product or re-position their existing products.
 
 Other than this , in my spare time I like to read books and play basketball if the weather allows me to.
 
