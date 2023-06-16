@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI tools and businesses.md",
+                "file": "Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI tools and businesses.md",
+            "file": "Recipes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI tools and businesses.md",
+            "file": "Recipes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI tools and businesses.md"
+            "file": "Recipes.md"
           }
         }
       }
@@ -131,8 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dc336537f0de637",
+  "active": "4dc0caa5a060a839",
   "lastOpenFiles": [
+    "Random Thoughts.md",
+    "Untitled.md",
+    "AI tools and businesses.md",
     "ION prep/Ion Group Technical Interview.md",
     "ION prep/ION Day Prep.md",
     "ION prep/ION Group details.md",
@@ -144,10 +147,8 @@
     "Ones in a month.md",
     "NR Narayana Murthy Lecture.md",
     "investing/notes.md",
-    "Random Thoughts.md",
     "Startup Ideas.md",
     "Messages.md",
-    "AI tools and businesses.md",
     "startup/startup 102.md",
     "fashion/Fashion 101.md",
     "fashion/Style.md",
