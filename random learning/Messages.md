@@ -60,3 +60,16 @@ Nisarg Patel
 
 9265947523
 nisarg.b.patel59@gmail.com
+
+---
+
+Dear Discite Recruiting team,
+
+I would just like to say that I am looking for an opportunity just like this and I would work my ass off given a chance to thrive and will get the results you require. 
+
+Please refer to my resume for my skills and experience in data science and machine learning in particular. I would also like to highlight the two projects - "face-swap" and "recommendation  system" I mentioned in the resume.
+
+Thank you for taking the time to review my application
+
+Sincerely,
+Nisarg Patel
