@@ -1,6 +1,6 @@
 
 Margin - space between the elements
-padding -  
+padding -
 
 ![[Pasted image 20230629133327.png]]
 

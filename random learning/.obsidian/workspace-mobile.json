@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Linux",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b84d0a58f550cf5f",
@@ -131,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dc0caa5a060a839",
+  "active": "6dc336537f0de637",
   "lastOpenFiles": [
     "Random Thoughts.md",
     "Untitled.md",
