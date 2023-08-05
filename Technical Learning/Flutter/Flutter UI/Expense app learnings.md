@@ -9,6 +9,11 @@ concepts which I don't fully understand yet :
 - keys
 - Themes
 
+---
+- adaptive designing 
+
+
+
 ----
 #flutter-theme
 
