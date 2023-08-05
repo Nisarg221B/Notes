@@ -1,4 +1,26 @@
 
+- Theme
+	- ColorScheme 
+		- ColorScheme kColorScheme =
+		 ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 10, 0, 0))
+		// generating a ColorScheme from a Seed color
+		// now we can use kColorScheme and the flutter will adjust theme of all elements by itself or you can adjust by yourself in themeData.copyWith() constructor 
+		by setting the values to
+			- kDarkColorScheme.secondaryContainer
+			- kDarkColorScheme.onSecondaryContainer
+			- kDarkColorScheme.onPrimaryContainer
+			- kDarkColorScheme.primaryContainer
+
+			
+	- ThemeDate.copyWith()
+		- useMaterial3 - true
+		- colorScheme // set your colorScheme
+		- appBarTheme().copyWith()
+						- backgroundColor: kColorScheme.onPrimaryContainer
+						- foregroundColor: kColorScheme.primaryContainer
+		- textTheme().copyWith()
+
+
 ----
 - ListView
 			- ListView.builder()
@@ -67,7 +89,6 @@
 ```
 
 ---
-
 
 - AppBar()
 		- title
