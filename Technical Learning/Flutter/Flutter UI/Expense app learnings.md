@@ -1,3 +1,16 @@
+#flutter 
+#flutter-ui 
+#flutter-widgets 
+
+----
+
+concepts which I don't fully understand yet :
+- context / builder 
+- keys
+- Themes
+
+----
+#flutter-theme
 
 - Theme
 	- ColorScheme 
@@ -20,20 +33,29 @@
 						- foregroundColor: kColorScheme.primaryContainer
 		- textTheme().copyWith()
 
+you can use the above setted themes directly in the style options of widgets as show below
+
+style: Theme.of(context).textTheme.titleMedium
 
 ----
+#flutter-ListView
+#flutter-ScaffolMessanger
+
 - ListView
 			- ListView.builder()
 					- itemCount
 					- itemBuilder
-						- key
+						- key - ValueKey()
 					- onDismissed
 					- child
 - ScaffoldMessanger 
 			- showSnackBar
 			- clearSnackBar
-- Key
+
 ---
+
+#flutter-overlays
+
 - Overlay 
 			-  showModalBottomSheet
 					- context
@@ -47,8 +69,9 @@
 
 - Navigator.pop(context)
 
-- context
 --- 
+#flutter-TextField
+
 - TextField 
 		- controller
 		- onChange
@@ -63,6 +86,8 @@
 - Dispose() 
 
 --- 
+#flutter_DatePicker
+
 - DatePicker 
 	- showDatePicker     // returns a future
 		- context
@@ -71,6 +96,8 @@
 		- lastDate
 
 ---
+#flutter_DropDown
+
 - Dropdown
 
 ```
@@ -89,6 +116,7 @@
 ```
 
 ---
+#flutter-AppBar
 
 - AppBar()
 		- title
