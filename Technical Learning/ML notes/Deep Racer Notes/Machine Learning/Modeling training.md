@@ -1,5 +1,5 @@
 previous - [[The four aspects of Working with data]]
-next - [[Technical Learning Notes/ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning]]
+next - [[Introduction to reinforcement learning]]
 
 #model_training
 Iteratively update model parameters to minimise some loss function.

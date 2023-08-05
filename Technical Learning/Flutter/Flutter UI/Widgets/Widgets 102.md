@@ -11,3 +11,4 @@ There are **three** extremely important (stateful) widget lifecycle methods yo
 - `build()`: Executed by Flutter when the Widget is built for the **first time** AND after `setState()` was called
 - `dispose()`: Executed by Flutter right before the Widget will be **deleted** (e.g., because it was displayed conditionally)
 
+changes made

@@ -16,15 +16,15 @@ prev :- [[Spreadsheets]]
 
 ## Other good email practices 
 
-![[good.png]]
+![[images/good.png]]
 
 
-![[good2.png]]
+![[images/good2.png]]
 
 
 ## Bad email practice 
 
-![[bad.png]]
+![[images/bad.png]]
 
 
 
