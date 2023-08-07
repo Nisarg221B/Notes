@@ -40,3 +40,7 @@ this method is called whenever the configuration of the whole widget changes, im
 Dispose()->
 and at the end of our life cycle dispose method is called
 
+<iframe width="700" height="400" src="https://www.youtube.com/embed/AqCMFXEmf3w?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd" title="How Stateful Widgets Are Used Best - Flutter Widgets 101 Ep. 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Lets consider a StatefullWidget ItemCounter(String name)
+
