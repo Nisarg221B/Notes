@@ -2,12 +2,6 @@
 #flutter-ui 
 #flutter-widgets 
 
-----
-
-concepts which I don't fully understand yet : 
-- context / builder 
-- Themes 
-
 ---
 - adaptive designing 
 
