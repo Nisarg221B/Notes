@@ -6,7 +6,6 @@
 
 concepts which I don't fully understand yet : 
 - context / builder 
-- keys 
 - Themes 
 
 ---
