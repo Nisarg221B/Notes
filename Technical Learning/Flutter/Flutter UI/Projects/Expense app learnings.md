@@ -3,8 +3,17 @@
 #flutter-widgets 
 
 ---
-- adaptive designing 
+- Responsive designing  ( according to the height and size of the device )
 
+	- MediaQuery()
+		- system constraints
+	- Layout Builder
+		- parent widget constraints
+	- List specific if else
+	- ternary operator
+
+- Adaptive Design (according to the various platforms such as ios ,macos, android , windows, web , tv etc)
+		- 
 
 ----
 #flutter-theme
