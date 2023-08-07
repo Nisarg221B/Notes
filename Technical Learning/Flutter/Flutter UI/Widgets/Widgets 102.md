@@ -16,5 +16,27 @@ There are **three** extremely important (stateful) widget lifecycle methods yo
  
 ![[Screenshot 2023-08-07 at 11.17.17 AM.png|400]]
 
+#### Important ones 
 
+![[Screenshot 2023-08-07 at 12.39.13 PM.png|400]]
+
+see the project_4 numberwidget file of the flutter learning  for better understanding.
+
+createState() -> 
+first method which is called in Statefulwidget lifecycle and then our lifecycle begins
+
+initState() ->
+In the beginning of our lifecycle initstate method is called this method is called every time when the state is created here we can initialise our widget
+
+build()->
+then comes our build method which creates our UI
+
+SetState()->
+Whenever the SetState method is called flutter builds the ui again , therefore the build() method of that widget is called
+
+didUpdateWidget()->
+this method is called whenever the configuration of the whole widget changes, implies the stateful widget constructor function is called with different configuration, this will call the didUpdateWidget method  which then calls the build method if necessary.
+
+Dispose()->
+and at the end of our life cycle dispose method is called
 
