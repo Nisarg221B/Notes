@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 102.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Expense app learnings.md"
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 102.md"
               }
             }
           }
@@ -166,11 +166,13 @@
   },
   "active": "4859e82bb1ce789d",
   "lastOpenFiles": [
+    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "Technical Learning/Flutter/Flutter UI/Introduction.md",
-    "Technical Learning/Flutter/Flutter UI/Expense app learnings.md",
+    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
+    "Technical Learning/Flutter/Flutter UI/Projects",
+    "images/Pasted image 20230807110223.png",
     "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 102.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Widgets 101.md",
-    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "images/Screenshot 2023-08-04 at 4.35.17 PM.png",
     "images/Screenshot 2023-08-04 at 4.35.00 PM.png",
     "images/Screenshot 2023-08-04 at 4.34.29 PM.png",
@@ -180,7 +182,6 @@
     "images/Screenshot 2023-08-04 at 4.30.45 PM.png",
     "images/Screenshot 2023-08-04 at 4.29.27 PM.png",
     "images/Screenshot 2023-08-04 at 4.27.34 PM.png",
-    "images/Screenshot 2023-08-04 at 4.26.38 PM.png",
     "Technical Learning/Flutter/Flutter UI",
     "Untitled.md",
     "Technical Learning/Linux/brew_part1.pdf",
@@ -210,8 +211,6 @@
     "Technical Learning/Google Data-analytics course/process phase/proxy data.md",
     "Technical Learning/Google Data-analytics course/process phase/Data Integrity.md",
     "Technical Learning/Google Data-analytics course/process phase/Data Cleaning.md",
-    "Technical Learning/Google Data-analytics course/process phase/Change log.md",
-    "Technical Learning/Flutter",
     "Untitled.canvas"
   ]
 }
