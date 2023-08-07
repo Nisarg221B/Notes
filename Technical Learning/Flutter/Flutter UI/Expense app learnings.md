@@ -4,10 +4,10 @@
 
 ----
 
-concepts which I don't fully understand yet :
+concepts which I don't fully understand yet : 
 - context / builder 
-- keys
-- Themes
+- keys 
+- Themes 
 
 ---
 - adaptive designing 
