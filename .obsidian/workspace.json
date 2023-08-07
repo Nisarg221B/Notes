@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "598aa77bbf939362",
+        "id": "08465bad35ab1864",
         "type": "tabs",
         "children": [
           {
-            "id": "4859e82bb1ce789d",
+            "id": "15307561430ad2f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,8 +155,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4859e82bb1ce789d",
+  "active": "15307561430ad2f6",
   "lastOpenFiles": [
+    "Technical Learning/Flutter/Flutter UI/Widgets/Understanding size constraints.md",
+    "images/screenshot-www.udemy.com-2023.08.07-20_21_59.png",
+    "images/screenshot-www.udemy.com-2023.08.07-20_19_30.png",
+    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
+    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 104.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 103.md",
@@ -179,11 +175,7 @@
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 101.md",
     "images/Screenshot 2023-08-07 at 3.38.41 PM.png",
     "images/Screenshot 2023-08-07 at 3.35.19 PM.png",
-    "images/Screenshot 2023-08-07 at 3.32.07 PM.png",
-    "images/Screenshot 2023-08-07 at 3.28.43 PM.png",
-    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "Technical Learning/Flutter/Flutter UI/Introduction.md",
-    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
     "Technical Learning/Flutter/Flutter UI/Projects",
     "Technical Learning/Flutter/Flutter UI",
     "Untitled.md",
@@ -210,7 +202,6 @@
     "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
     "Technical Learning/Cognitive ability/Data Interpretations.md",
     "Technical Learning/Google Data-analytics course/process phase/Sample population.md",
-    "Technical Learning/Google Data-analytics course/process phase/proxy data.md",
     "Untitled.canvas"
   ]
 }

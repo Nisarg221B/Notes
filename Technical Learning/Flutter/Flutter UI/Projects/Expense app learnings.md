@@ -13,7 +13,7 @@
 	- ternary operator
 
 - Adaptive Design (according to the various platforms such as ios ,macos, android , windows, web , tv etc)
-		- 
+		- Platform.isIOS or similar functionality from dart.io package 
 
 ----
 #flutter-theme
