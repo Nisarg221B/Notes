@@ -17,7 +17,7 @@ this can be solved by the inherited widget
 lets say theres an image asset in the inherited widget "InheritedNose"- 
 ![[Screenshot 2023-08-07 at 4.03.35 PM.png]]
 
-Now any descendent like Filipwidget  of our inherited nose get access to it in its build method by calling context.inheritFromWidgetOfExactType('Type of your custom inherited widget')
+Now any descendent like Filipwidget  of our inherited nose get access to it in its build method b y calling context.inheritFromWidgetOfExactType('Type of your custom inherited widget')
 
 ![[Screenshot 2023-08-07 at 4.03.15 PM.png]]
 
