@@ -39,7 +39,7 @@ there are 14 Character Categories in total
 1. Idea ( Hero - Goal - Adversary )
 2. Ending
 3. Stunning Surprise One
-4. Stunning Surprise Two
+4. Stunning Surprise Two ( Hero's Darkest hour )
 5. Beginning
 
 - Thinking about the overall idea of the story is important, once the idea is formed  we can start with screen story structure. once you have the idea for characters and conflicts were do you want to end ... 
@@ -52,7 +52,7 @@ there are 14 Character Categories in total
 
 ### Deciding on Your Hero's Three world
 
-- ACT THREE 
+- ACT THREE  ( Act 3 has to very short )
 	- _New World_ Improvise 
 		- (Here is mature now , they have overcome some of the emotional reticence within and they are ready to fact the adversary for all the marbles)
 
@@ -60,7 +60,7 @@ there are 14 Character Categories in total
 	-- Obligatory Scene
 	-- Stunning Surprise 2 ^ ( raise a bar )
 
-- ACT TWO -- Midpoint
+- ACT TWO -- Midpoint (series of short things in several key thing which advance the story happens)
 	- *Special World* Specific Goal 
 		- (here the hero realises that they darn well better grow up emotionally or they're never going to be able to do what they need to do to their goal and then act three is their maturity now)
 		Here the hero has highly specific goal to pursue , life -death situation or similarly incredibly difficult and different situation, than hero forms a plan and purse the plan throughout the act two cobbling it together as it  keeps getting torn apart and at the climax of act tow the plan gets totally blown out of the water and destroyed and all of sudden there is no plan, and than that throws the hero in to act 3 where they must improvise.
@@ -84,3 +84,9 @@ there are 14 Character Categories in total
 	- Presents WHAT STORYLINE WILL BE ( new specific one )
 
 - **Stunning Surprise Two** 
+	- Biggest REVERSAL in the whole movie
+	- Takes place in an Instant
+	- SHOCKS and SURPRISES the Hero
+	- Hero's PLAN DESTROYED - now NO plan
+	- But reversal can also be TO THE POSITIVE.
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b4b96c532152d69",
+        "id": "fdb990f588df8838",
         "type": "tabs",
         "children": [
           {
-            "id": "13d3588e41daafae",
+            "id": "bd3214357905965b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/ScreenPlay Story Structure.md",
+                "file": "random learning/Story Writing/ScreenPlay Story Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/ScreenPlay Story Structure.md",
+                "file": "random learning/Story Writing/ScreenPlay Story Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/ScreenPlay Story Structure.md",
+                "file": "random learning/Story Writing/ScreenPlay Story Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/ScreenPlay Story Structure.md"
+                "file": "random learning/Story Writing/ScreenPlay Story Structure.md"
               }
             }
           }
@@ -156,14 +156,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "13d3588e41daafae",
+  "active": "bd3214357905965b",
   "lastOpenFiles": [
+    "random learning/ZS/Introduction.md",
+    "random learning/startup/startup 102.md",
+    "random learning/startup/startup 101.md",
+    "random learning/Story Writing/ScreenPlay Story Structure.md",
+    "random learning/fashion/Style.md",
+    "random learning/fashion/Fashion 101.md",
+    "random learning/Story Writing",
     "random learning/TV & sound system comparisons.md",
-    "random learning/ScreenPlay Story Structure.md",
     "Technical Learning/Cognitive ability/Data Interpretations.md",
     "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
     "random learning/ION prep/HR questions.md",
-    "random learning/ZS/Introduction.md",
     "random learning/ION prep/SDLC.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
