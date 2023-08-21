@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/ZS/Introduction.md",
+                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/ZS/Introduction.md",
+                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/ZS/Introduction.md",
+                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/ZS/Introduction.md"
+                "file": "Technical Learning/Cognitive ability/Data Interpretations.md"
               }
             }
           }
@@ -158,10 +158,15 @@
   },
   "active": "4837ff6597dc0d4d",
   "lastOpenFiles": [
-    "random learning/ION prep/Market Segmantation stats.md",
-    "random learning/ION prep/Ion Group Technical Interview.md",
+    "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
+    "Technical Learning/Cognitive ability/Data Interpretations.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ZS/Introduction.md",
+    "random learning/ION prep/SDLC.md",
+    "random learning/ION prep/Market Segmantation stats.md",
+    "random learning/ION prep/Ion Group Technical Interview.md",
+    "random learning/ION prep/ION Day Prep.md",
+    "random learning/ION prep/ION Group details.md",
     "random learning/ZS"
   ]
 }
