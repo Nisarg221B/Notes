@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
+                "file": "random learning/ScreenPlay Story Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
+                "file": "random learning/ScreenPlay Story Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Cognitive ability/Data Interpretations.md",
+                "file": "random learning/ScreenPlay Story Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Cognitive ability/Data Interpretations.md"
+                "file": "random learning/ScreenPlay Story Structure.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "4837ff6597dc0d4d",
   "lastOpenFiles": [
-    "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
     "Technical Learning/Cognitive ability/Data Interpretations.md",
+    "random learning/ScreenPlay Story Structure.md",
+    "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ZS/Introduction.md",
     "random learning/ION prep/SDLC.md",
