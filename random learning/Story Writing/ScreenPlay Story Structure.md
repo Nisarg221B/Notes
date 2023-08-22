@@ -13,7 +13,7 @@ How human life processes story :
     -- Physical , **visible**, high stakes GOAL (win, stop , escape or retrieve)
 		-- Powerful ADVERSARY
 			 .. all Joining to create
-				 STRONG CONFLICT
+				 STRONG CONFLICT ( lots and lots and lots interesting conflict )
 	And An EMOTIONAL JOURNEY For An Audience.    
 
 ### Character Categories
@@ -83,10 +83,17 @@ there are 14 Character Categories in total
 	- SHOCKS and SURPRISES Hero  ( and US)
 	- Presents WHAT STORYLINE WILL BE ( new specific one )
 
-- **Stunning Surprise Two** 
-	- Biggest REVERSAL in the whole movie
-	- Takes place in an Instant
-	- SHOCKS and SURPRISES the Hero
-	- Hero's PLAN DESTROYED - now NO plan
+- **Stunning Surprise Two** (Type A)
+	- Biggest REVERSAL in the whole movie.
+	- Takes place in an INSTANT.
+	- SHOCKS and SURPRISES the Hero.
+	- Hero's PLAN DESTROYED - now NO plan.
 	- But reversal can also be TO THE POSITIVE.
+
+- **Stunning Surprise Two** (Type B)
+	- Biggest REVERSAL in the whole movie.
+	- Takes place in an INSTANT.
+	- SHOCKS and SURPRISES the Hero.
+	- Hero's VICTORY DELIVERED. 
+	- ACT THREE BETTER BE SHORT!
 
