@@ -97,3 +97,53 @@ there are 14 Character Categories in total
 	- Hero's VICTORY DELIVERED. 
 	- ACT THREE BETTER BE SHORT!
 
+
+### Hero Goal Sequences - The things which keeps the story going
+
+A HERO GOAL SEQUENCE  is wherein the Hero pursues one short-term PHYSICAL GOAL as a step towards achieving victory in the story. 
+
+Then the Hero discovers some form of FRESH NEWS that ENDS the current goal.. and creates a new goal, Launching the next HERO GOAL SEQUENCE
+
+![[Screenshot 2023-08-22 at 10.47.16 AM.png|400]]
+
+HERO GOAL SEQUENCE is like mini mini Stunning surprise or just a small small surprise which keeps the story going on.
+
+----
+ACT ONE
+- HSG1
+	- HSG2
+		- HSG3
+			- HSG4
+				- HSG5
+					- Stunning Surprise 1
+
+ACT TWO 
+- HSG1
+	-- HSG2
+	  -- HSG3
+	     --HSG4
+		-- HSG5
+		   -- MIDPOINT 
+		     -- HSG7
+		       -- HSG8
+			   -- HSG9
+			     -- HSG10
+				--HSG11
+				   -- Stunning Surprise 2
+
+ACT THREE 
+
+HSG in Act three can very but should not be less the 2 nor more than 5 
+
+
+![[Screenshot 2023-08-22 at 10.37.35 AM.png]]
+
+
+- What Hero Goal Sequences accomplish
+	- Shows how much plot you'll need
+	- Insures Hero is ALWAYS active
+	- Story will NEVER SAG
+	- Best emotional INVOLVEMENT
+	- Reveals SCRIPT PROBLEM SPOTS
+
+
