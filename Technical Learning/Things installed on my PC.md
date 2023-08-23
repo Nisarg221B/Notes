@@ -20,7 +20,7 @@ bin files - /usr/local/bin/
 /usr/local/Caskroom/
 
 - blockblock 
-- **flutter - dart**
+- **flutter - dart** ( dart Pub installs executables into **$HOME/.pub-cache/bin**)
 - knockknock 
 - telegram 
 - vlc
