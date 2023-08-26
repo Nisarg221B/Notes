@@ -1,5 +1,4 @@
 
-
 run - $PATH
 to see the its content
 
