@@ -22,7 +22,26 @@ The common thread here is coupling dependency.
 
 ## Class Design Principles
 
-- SRP: The Single Responsibility Principle
+#### SRP: The Single Responsibility Principle
+
+A class should have one and only one, reason to change
+
+![[Screenshot 2023-08-27 at 4.44.39 PM.png|400]]
+
+How many changes could be requested in the above system? from how many sources could they come ? 
+
+if there was problem with CalcPay function  - CFO
+if there were a bug in ReportHours - CEO
+if there were problem with WirteEmployee which leads to crashing of database and loss of data - CTO 
+
+so this class Employee has three responsibilities or three reason to change. it has responsibilities to three different actors or organisations all at the same time.
+
+a possible solution:-
+
+![[Screenshot 2023-08-27 at 4.52.18 PM.png|400]]
+
+
+
 - OCP: The Open/Closed Principle
 - LSP: The Liskov Substitution Principle
 - ISP: The Interface Segregation Principle
