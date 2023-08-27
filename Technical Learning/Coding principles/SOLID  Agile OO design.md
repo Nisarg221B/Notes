@@ -273,7 +273,7 @@ Inheritance is not an "is a" relationship, inheritance is really just the redecl
 
 #### 5. DIP: The Dependency Inversion Principle
 
-
+Details should depend on abstractions. Abstractions should not depend on details.
 
 
 
