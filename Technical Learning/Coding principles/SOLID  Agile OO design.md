@@ -70,6 +70,124 @@ OO is about managing dependencies by selectively inverting certain key dependenc
 
 Example for above is a Case study "The Copy Routine":
 
+Problem statement - make a utility which gets a word from a keyboard and prints it.
+
+#### Version 1 
+
+```mermaid
+graph TB 
+A[Copy] --> B[ReadKeyboard]
+A[Copy] --> C[WritePrinter]
+```
+
+
+```code
+void copy(void){
+	int ch;
+	while( (ch=ReadKeyboard()) != EOF)
+		WritePrinter(ch);
+}
+```
+
+change 1 - we sometimes want to read from paper tap reader
+
+Challenges/Probable Solutions 
+- We could put a parameter (boolean) in the call which if true will read from keyboard else from paper tap. 
+	- but this will cause the recompiling and retesting of 100s of users/programers using this part/utility in their code which will cause trouble to all and not a very efficient way of doing things. 
+thus a better approach might be to use global variables so the version 2
+
+#### Version 2
+
+
+```mermaid
+graph TB 
+A[Copy] --> B[ReadKeyboard]
+A[Copy] ---> C[ReadTape]
+A[Copy] --> D[WritePrinter]
+```
+
+```code
+bool GtapReader = false; // remember to clear
+
+void copy(void){
+	int ch;
+	while( (ch=GtapReader ? ReadTape() : ReadKeyboard()) != EOF)
+		WritePrinter(ch);
+}
+```
+here the comment "remember to clear" is a hack to save our buts, as you need to set it first whenever we need to use a copy function and reset it. 
+
+change 2 - It seems that sometimes we need to write to a paper tap punch.
+so the solution one think is  "we had such a problem earlier and we just added a flag , looks like it should work again"
+
+#### Version 3
+
+```code
+bool GtapeReader = false; 
+bool GtapePunch = false;
+// remember to clear
+
+void copy(void){
+	int ch;
+	while( (ch=GtapeReader ? ReadTape() : ReadKeyboard()) != EOF)
+		GtapePunch ? WritePrinter(ch) : WritePrinter(ch);
+}
+```
+
+thus the code get rotten and rotten ... 
+
+#### Example of good design in this case
+
+```code
+void Copy(){
+	int c;
+	while( (c=getchar()) != EOF )
+		putchar(c);
+}
+```
+the concept is dependency inversion achieved through using abstraction instead of using details . 
+
+Its an OOP , it doesn't look like one because its written in c , think about what getchar() and putchar() really are, they are polymorphic functions on a class name File, inside that class name File written in C there is a jump table (like a V table in C++) which routes to the write device driver through the same mechanism like any other polymorphic dispatch works.
+
+- File is an abstraction 
+	- it represents some kind of byte stream
+	- it has many variations
+- It has methods
+	- Read, Write, getchar, putchar , etc
+	- Methods are *Dynamically* bound 
+FILE is a class just implemented differently than our usual OO classes
+
+
+![[Screenshot 2023-08-27 at 10.36.17 PM.png]]
+
+```code
+interface Reader{
+	char read();
+}
+
+interface Writer{
+	void write(char c);
+}
+
+public class Copy
+{
+	Copy(Reader r, Writer w)
+	{
+		itsReader = r;
+		itsWriter = w;
+	}
+	public void copy()
+	{
+		int c;
+		while( (c == itsReader.read()) != EOF)
+			itsWriter.write(c);
+	}
+	private Reader itsReader;
+	private Writer itsWriter;
+}
+```
+
+
 
 
 
