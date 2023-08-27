@@ -245,7 +245,9 @@ the flow of control works the same way , but at the compile time the above high 
 
 Abstraction is key 
 
+![[Screenshot 2023-08-27 at 11.43.15 PM.png|600]]
 
+![[Screenshot 2023-08-27 at 11.44.47 PM.png|600]]
 
 #### 3. LSP: The Liskov Substitution Principle
 
@@ -266,7 +268,6 @@ thus rectangle is not parent of square they got nothing in common they got diffe
 this is a violation of liskov substitution because square is not substitutable for rectangle. 
 
 Inheritance is not an "is a" relationship, inheritance is really just the redeclaration of functions and variables in the sub-scope. 
-
 
 #### 4. ISP: The Interface Segregation Principle
 
