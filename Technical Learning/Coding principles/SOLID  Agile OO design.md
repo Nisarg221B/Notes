@@ -157,8 +157,21 @@ Its an OOP , it doesn't look like one because its written in c , think about wha
 	- Methods are *Dynamically* bound 
 FILE is a class just implemented differently than our usual OO classes
 
+```mermaid
+graph TB 
 
-![[Screenshot 2023-08-27 at 10.36.17 PM.png]]
+A[Copy]
+B[Interface-Reader] & C[Interface-Writer]
+D[KeyboardReader] & E[PrinterWriter]
+
+A --> B & C
+B -.- D
+C -.- E
+D --> B
+E --> C
+```
+
+REPHRACED IN OO
 
 ```code
 interface Reader{
@@ -186,10 +199,6 @@ public class Copy
 	private Writer itsWriter;
 }
 ```
-
-
-
-
 
 
 ## Class Design Principles
