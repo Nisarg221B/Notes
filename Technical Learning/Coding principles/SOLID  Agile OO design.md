@@ -14,10 +14,16 @@ another symptom of bad code similar to that one is called fragility
 - **Fragility** is the tendency of the code to break in many places even when you only
 change it in one place. you make one very simple change and a whole bunch of other things break but they break in parts of the codes that have no relationship to what you changed. 
 
-
 The common thread here is coupling dependency. 
 
-## OO
+#### Penalty for practicing poor Dependency Management
+- It is rigid
+- it is fragile
+- It is not reusable
+- It has high viscosity 
+
+
+## OO ( power to manage dependencies )
 
 ![[Screenshot 2023-08-27 at 7.01.29 PM.png|500]]
 
