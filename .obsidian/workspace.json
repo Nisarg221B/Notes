@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Coding principles/SOLID  Agile design.md",
+                "file": "Technical Learning/Coding principles/SOLID  Agile OO design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Coding principles/SOLID  Agile design.md",
+                "file": "Technical Learning/Coding principles/SOLID  Agile OO design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Coding principles/SOLID  Agile design.md",
+                "file": "Technical Learning/Coding principles/SOLID  Agile OO design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Coding principles/SOLID  Agile design.md"
+                "file": "Technical Learning/Coding principles/SOLID  Agile OO design.md"
               }
             }
           }
@@ -159,7 +159,7 @@
   "active": "9b08b921b3bfbb94",
   "lastOpenFiles": [
     "Technical Learning/Things installed on my PC.md",
-    "Technical Learning/Coding principles/SOLID  Agile design.md",
+    "Technical Learning/Coding principles/SOLID  Agile OO design.md",
     "Technical Learning/Coding principles",
     "random learning/Story Writing/ScreenPlay Story Structure.md",
     "images/Screenshot 2023-08-22 at 10.47.16 AM.png",

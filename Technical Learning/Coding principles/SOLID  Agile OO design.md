@@ -15,7 +15,21 @@ change it in one place. you make one very simple change and a whole bunch of oth
 
 The common thread here is coupling dependency. 
 
-##
+## OO
+
+
+
+
+## Class Design Principles
+
+- SRP: The Single Responsibility Principle
+- OCP: The Open/Closed Principle
+- LSP: The Liskov Substitution Principle
+- ISP: The Interface Segregation Principle
+- DIP: The Dependency Inversion Principle
+
+
+
 
 
 
