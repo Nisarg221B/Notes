@@ -227,17 +227,25 @@ a possible solution:-
 A class or Modules should be open for extension but closed for modification.
 
 
-not the OO approach : 
-
+**Procedural(Open) Version :** 
 ![[Screenshot 2023-08-27 at 6.44.12 PM.png|600]]
 
 In the above if we needed to add a over we need to re-compile and refactor almost every file in the above module. 
 
 Whereas the below code uses OO in a efficient manner , where if we needed to add a oval , we just need to add file with that class essentially just extending the module.
 
+**OO (a close implementation) version** 
 ![[Screenshot 2023-08-27 at 6.46.11 PM.png|600]]
 
 the flow of control works the same way , but at the compile time the above high level policy do not know about the low level details.
+
+#### Another example 
+
+![[Screenshot 2023-08-27 at 11.34.48 PM.png|400]]
+
+Abstraction is key 
+
+
 
 #### 3. LSP: The Liskov Substitution Principle
 
