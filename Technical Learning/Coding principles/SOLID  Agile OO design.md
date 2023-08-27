@@ -1,6 +1,7 @@
 
 
 https://www.youtube.com/watch?v=zHiWqnTWsn4
+https://www.youtube.com/watch?v=A6ZqNQdJPjc
 
 ## Introduction
 
@@ -65,6 +66,12 @@ This is what polymorphism gives you , the ability to create one module calling a
 and if you have that power you suddenly have absolute control over your dependency structure thus you can avoid writing fragile rigid and non reusable modules you can go around what goes wrong with software by carefully deciding which direction the arrows between modules should point. Thats what OO is. 
 
 OO is about managing dependencies by selectively inverting certain key dependencies in your architecture so that you can prevent rigidity , fragility , non reusability.
+
+
+Example for above is a Case study "The Copy Routine":
+
+
+
 
 
 ## Class Design Principles
