@@ -36,16 +36,26 @@ if there were problem with WirteEmployee which leads to crashing of database and
 
 so this class Employee has three responsibilities or three reason to change. it has responsibilities to three different actors or organisations all at the same time.
 
-a possible solution:-
+so basically don't put the functions which change for different reasons in the same class.
 
+a possible solution:-
 ![[Screenshot 2023-08-27 at 4.52.18 PM.png|400]]
 
+#### OCP: The Open/Closed Principle
+
+A class or Modules should be open for extension but closed for modification.
 
 
-- OCP: The Open/Closed Principle
-- LSP: The Liskov Substitution Principle
-- ISP: The Interface Segregation Principle
-- DIP: The Dependency Inversion Principle
+
+
+
+
+
+#### LSP: The Liskov Substitution Principle
+#### ISP: The Interface Segregation Principle
+
+#### DIP: The Dependency Inversion Principle
+
 
 
 
