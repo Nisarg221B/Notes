@@ -1,0 +1,45 @@
+
+Javascript is a high level, prototype based object oriented, multi paradigm, interpreted or just in time complied, dynamic(dynamically typed), single threaded, garbage collected programming language with first class function and a non-blocking event loop concurrency model.
+
+#### paradigm :
+
+an approach and mindset of structuring code, which will direct your coding style and technique
+
+three popular programming paradigm
+- procedural programming
+- object-oriented programming (OOP)
+- Functional programming (FP)
+
+Javascript uses all the above paradigm
+
+
+#### prototype-based object-oriented
+
+In a language with first class functions, functions are simply treated as variables.
+we can pass them into other functions and return them from functions.
+  
+Non-blocking event loop
+
+- Concurrency Model: how the javascript engine handles multiple tasks happening at the same time.
+	-- JavaScript runs in one single thread, so it can only do one thing at a time.
+	--- so what about a long-running task?
+	-- Sounds like it would block the single thread. however, we want non-blocking behaviour!
+	--- How do we achieve that?
+	-- By using an event loop; takes long running tasks, executes them in the "background", and puts them back in the main thread once they are finished.
+
+#### Compilation vs interpretation
+
+![[Screenshot 2023-09-05 at 6.48.38 PM.png]]
+
+Modern Javascript engine use mix between interpretation and compilation
+
+![[Screenshot 2023-09-05 at 6.49.57 PM.png]]
+here the machine code is not a portable file and the execution happens immediately.
+
+
+![[Screenshot 2023-09-05 at 6.54.08 PM.png|600]]
+
+
+
+
+

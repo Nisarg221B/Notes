@@ -11,8 +11,13 @@
             "id": "6f00acde7cb1688e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning/JavaScript/Internals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning/JavaScript/Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning/JavaScript/Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning/JavaScript/Internals.md"
+              }
             }
           }
         ]
@@ -149,7 +158,13 @@
   },
   "active": "6f00acde7cb1688e",
   "lastOpenFiles": [
+    "images/Screenshot 2023-09-05 at 6.54.08 PM.png",
+    "images/Screenshot 2023-09-05 at 6.53.05 PM.png",
+    "images/Screenshot 2023-09-05 at 6.49.57 PM.png",
+    "images/Screenshot 2023-09-05 at 6.48.38 PM.png",
     "Technical Learning/Node/Course Outline.md",
+    "Technical Learning/JavaScript/Internals.md",
+    "Technical Learning/JavaScript",
     "images/d.png",
     "Technical Learning/Node",
     "Technical Learning/Coding principles/SOLID  Agile OO design.md",
@@ -159,10 +174,7 @@
     "images/Screenshot 2023-08-27 at 11.23.26 PM.png",
     "images/Screenshot 2023-08-27 at 10.36.17 PM.png",
     "images/Screenshot 2023-08-27 at 10.15.18 PM.png",
-    "images/Screenshot 2023-08-27 at 10.10.22 PM.png",
-    "images/Screenshot 2023-08-27 at 10.02.44 PM.png",
     "Technical Learning/Flutter/Flutter UI/Introduction.md",
-    "images/Screenshot 2023-08-27 at 9.59.29 PM.png",
     "Technical Learning/Things installed on my PC.md",
     "Technical Learning/Coding principles",
     "random learning/Story Writing/ScreenPlay Story Structure.md",
