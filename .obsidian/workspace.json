@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33af2605df49cf14",
+        "id": "b16e09a0016181a2",
         "type": "tabs",
         "children": [
           {
-            "id": "6f00acde7cb1688e",
+            "id": "8fae9d24a3f590b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/Internals.md",
+                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/Internals.md",
+                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/Internals.md",
+                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/Internals.md"
+                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md"
               }
             }
           }
@@ -156,24 +156,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6f00acde7cb1688e",
+  "active": "8fae9d24a3f590b2",
   "lastOpenFiles": [
-    "images/Screenshot 2023-09-05 at 6.54.08 PM.png",
-    "images/Screenshot 2023-09-05 at 6.53.05 PM.png",
-    "images/Screenshot 2023-09-05 at 6.49.57 PM.png",
-    "images/Screenshot 2023-09-05 at 6.48.38 PM.png",
+    "images/Screenshot 2023-09-06 at 6.29.31 PM.png",
+    "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
+    "Technical Learning/JavaScript/2. Execution Context.md",
+    "Technical Learning/JavaScript/1. Internals.md",
+    "images/Screenshot 2023-09-06 at 6.24.05 PM.png",
+    "images/Screenshot 2023-09-06 at 6.21.53 PM.png",
+    "images/Screenshot 2023-09-06 at 6.20.58 PM.png",
+    "images/Screenshot 2023-09-06 at 6.20.06 PM.png",
+    "images/Screenshot 2023-09-06 at 6.16.34 PM.png",
+    "images/Screenshot 2023-09-06 at 6.06.20 PM.png",
+    "images/Screenshot 2023-09-06 at 6.06.00 PM.png",
+    "images/Screenshot 2023-09-06 at 6.05.02 PM.png",
+    "images/Screenshot 2023-09-06 at 6.03.10 PM.png",
+    "images/Screenshot 2023-09-06 at 5.58.01 PM.png",
     "Technical Learning/Node/Course Outline.md",
-    "Technical Learning/JavaScript/Internals.md",
     "Technical Learning/JavaScript",
-    "images/d.png",
     "Technical Learning/Node",
     "Technical Learning/Coding principles/SOLID  Agile OO design.md",
-    "images/Screenshot 2023-08-27 at 11.44.47 PM.png",
-    "images/Screenshot 2023-08-27 at 11.43.15 PM.png",
-    "images/Screenshot 2023-08-27 at 11.34.48 PM.png",
-    "images/Screenshot 2023-08-27 at 11.23.26 PM.png",
-    "images/Screenshot 2023-08-27 at 10.36.17 PM.png",
-    "images/Screenshot 2023-08-27 at 10.15.18 PM.png",
     "Technical Learning/Flutter/Flutter UI/Introduction.md",
     "Technical Learning/Things installed on my PC.md",
     "Technical Learning/Coding principles",
