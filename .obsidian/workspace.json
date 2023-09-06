@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b16e09a0016181a2",
+        "id": "ae64f694572a38e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8fae9d24a3f590b2",
+            "id": "eed2bab50630296d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,12 +147,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8fae9d24a3f590b2",
+  "active": "eed2bab50630296d",
   "lastOpenFiles": [
-    "images/Screenshot 2023-09-06 at 6.29.31 PM.png",
-    "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/2. Execution Context.md",
+    "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/1. Internals.md",
+    "Technical Learning/JavaScript/4. Type conversion and.md",
+    "images/Screenshot 2023-09-06 at 6.29.31 PM.png",
     "images/Screenshot 2023-09-06 at 6.24.05 PM.png",
     "images/Screenshot 2023-09-06 at 6.21.53 PM.png",
     "images/Screenshot 2023-09-06 at 6.20.58 PM.png",
@@ -171,7 +163,6 @@
     "images/Screenshot 2023-09-06 at 6.06.00 PM.png",
     "images/Screenshot 2023-09-06 at 6.05.02 PM.png",
     "images/Screenshot 2023-09-06 at 6.03.10 PM.png",
-    "images/Screenshot 2023-09-06 at 5.58.01 PM.png",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
