@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/4. Hoisting.md",
+                "file": "Technical Learning/JavaScript/5. This Keyword.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/4. Hoisting.md",
+                "file": "Technical Learning/JavaScript/5. This Keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/4. Hoisting.md",
+                "file": "Technical Learning/JavaScript/5. This Keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/4. Hoisting.md"
+                "file": "Technical Learning/JavaScript/5. This Keyword.md"
               }
             }
           }
@@ -156,11 +156,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aab65284d4a98c7d",
+  "active": "75575fdd1de53cb8",
   "lastOpenFiles": [
+    "images/Screenshot 2023-09-07 at 10.59.44 AM.png",
+    "Technical Learning/JavaScript/4. Hoisting.md",
+    "Technical Learning/JavaScript/5. This Keyword.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/2. Execution Context.md",
-    "Technical Learning/JavaScript/4. Hoisting.md",
     "Technical Learning/JavaScript/1. Internals.md",
     "images/Screenshot 2023-09-07 at 10.31.34 AM.png",
     "images/Screenshot 2023-09-07 at 10.23.02 AM.png",
@@ -196,7 +198,6 @@
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
     "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/ION Group details.md",
     "random learning/ZS"
   ]
 }
