@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/5. This Keyword.md",
+                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/5. This Keyword.md",
+                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/5. This Keyword.md",
+                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/5. This Keyword.md"
+                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md"
               }
             }
           }
@@ -158,24 +158,25 @@
   },
   "active": "75575fdd1de53cb8",
   "lastOpenFiles": [
+    "images/Screenshot 2023-09-07 at 6.20.12 PM.png",
+    "images/Screenshot 2023-09-07 at 6.18.01 PM.png",
+    "images/Screenshot 2023-09-07 at 6.16.21 PM.png",
+    "images/Screenshot 2023-09-07 at 6.14.19 PM.png",
+    "images/Screenshot 2023-09-07 at 6.13.59 PM.png",
+    "Technical Learning/JavaScript/5. This Keyword.md",
+    "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "images/Screenshot 2023-09-07 at 11.16.11 AM.png",
     "images/Screenshot 2023-09-07 at 11.14.45 AM.png",
     "images/Screenshot 2023-09-07 at 11.12.24 AM.png",
     "images/Screenshot 2023-09-07 at 11.12.10 AM.png",
     "images/Screenshot 2023-09-07 at 10.59.44 AM.png",
     "Technical Learning/JavaScript/4. Hoisting.md",
-    "Technical Learning/JavaScript/5. This Keyword.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/2. Execution Context.md",
     "Technical Learning/JavaScript/1. Internals.md",
     "images/Screenshot 2023-09-07 at 10.31.34 AM.png",
-    "images/Screenshot 2023-09-07 at 10.23.02 AM.png",
-    "images/Screenshot 2023-09-07 at 10.21.47 AM.png",
     "Untitled.md",
     "Technical Learning/JavaScript/4. Type conversion and.md",
-    "images/Screenshot 2023-09-06 at 6.29.31 PM.png",
-    "images/Screenshot 2023-09-06 at 6.24.05 PM.png",
-    "images/Screenshot 2023-09-06 at 6.21.53 PM.png",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
@@ -197,7 +198,6 @@
     "random learning/ION prep/SDLC.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
-    "random learning/ION prep/ION Day Prep.md",
     "random learning/ZS"
   ]
 }
