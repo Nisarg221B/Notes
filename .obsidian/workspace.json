@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d956f06ff84d49d4",
+        "id": "36622eb35059573f",
         "type": "tabs",
         "children": [
           {
-            "id": "75575fdd1de53cb8",
+            "id": "7c810ac656b5cfa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
+                "file": "Technical Learning/JavaScript/7.  Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
+                "file": "Technical Learning/JavaScript/7.  Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md",
+                "file": "Technical Learning/JavaScript/7.  Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/6. Primitives and reference values.md"
+                "file": "Technical Learning/JavaScript/7.  Functions.md"
               }
             }
           }
@@ -156,8 +156,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "75575fdd1de53cb8",
+  "active": "7c810ac656b5cfa6",
   "lastOpenFiles": [
+    "images/Screenshot 2023-09-07 at 7.55.39 PM.png",
+    "images/Screenshot 2023-09-07 at 7.53.03 PM.png",
+    "Technical Learning/JavaScript/7.  Functions.md",
+    "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "images/Screenshot 2023-09-07 at 6.31.33 PM.png",
     "images/Screenshot 2023-09-07 at 6.20.12 PM.png",
     "images/Screenshot 2023-09-07 at 6.18.01 PM.png",
@@ -165,12 +169,9 @@
     "images/Screenshot 2023-09-07 at 6.14.19 PM.png",
     "images/Screenshot 2023-09-07 at 6.13.59 PM.png",
     "Technical Learning/JavaScript/5. This Keyword.md",
-    "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "images/Screenshot 2023-09-07 at 11.16.11 AM.png",
     "images/Screenshot 2023-09-07 at 11.14.45 AM.png",
     "images/Screenshot 2023-09-07 at 11.12.24 AM.png",
-    "images/Screenshot 2023-09-07 at 11.12.10 AM.png",
-    "images/Screenshot 2023-09-07 at 10.59.44 AM.png",
     "Technical Learning/JavaScript/4. Hoisting.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/2. Execution Context.md",
@@ -197,7 +198,6 @@
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/SDLC.md",
     "random learning/ION prep/Market Segmantation stats.md",
-    "random learning/ION prep/Ion Group Technical Interview.md",
     "random learning/ZS"
   ]
 }
