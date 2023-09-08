@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/8. Array Methods.md",
+                "file": "Technical Learning/JavaScript/9. OOP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/8. Array Methods.md",
+                "file": "Technical Learning/JavaScript/9. OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/8. Array Methods.md",
+                "file": "Technical Learning/JavaScript/9. OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/8. Array Methods.md"
+                "file": "Technical Learning/JavaScript/9. OOP.md"
               }
             }
           }
@@ -158,10 +158,11 @@
   },
   "active": "7c810ac656b5cfa6",
   "lastOpenFiles": [
+    "Technical Learning/JavaScript/8. Array Methods.md",
+    "Technical Learning/JavaScript/9. OOP.md",
     "images/Screenshot 2023-09-08 at 2.18.50 PM.png",
     "images/Screenshot 2023-09-08 at 11.57.52 AM.png",
     "Technical Learning/Git Learning.md",
-    "Technical Learning/JavaScript/8. Array Methods.md",
     "Technical Learning/JavaScript/7.  Functions.md",
     "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
@@ -177,7 +178,6 @@
     "images/Screenshot 2023-09-07 at 11.11.43 PM.png",
     "images/Screenshot 2023-09-07 at 11.07.49 PM.png",
     "images/Screenshot 2023-09-07 at 11.07.04 PM.png",
-    "images/Screenshot 2023-09-07 at 7.55.39 PM.png",
     "Untitled.md",
     "Technical Learning/JavaScript/4. Type conversion and.md",
     "Technical Learning/Node/Course Outline.md",
