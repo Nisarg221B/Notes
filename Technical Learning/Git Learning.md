@@ -48,8 +48,8 @@ git remote set-url origin https://Nisarg221B<Token>@github.com/Nisarg221B/FaceSw
 
 
 Good video to understand git merge rebase and squash
-https://www.youtube.com/watch?v=0chZFIZLR_0
-https://www.youtube.com/watch?v=MxncLUOLdAQ
+- https://www.youtube.com/watch?v=0chZFIZLR_0
+- https://www.youtube.com/watch?v=MxncLUOLdAQ
 
 
 - **git branch -a**       (to list all the local and remote branches)
