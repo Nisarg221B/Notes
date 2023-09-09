@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/9. OOP.md",
+                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/9. OOP.md",
+                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/9. OOP.md",
+                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/9. OOP.md"
+                "file": "Technical Learning/JavaScript/10. Async Javascript.md"
               }
             }
           }
@@ -158,8 +158,14 @@
   },
   "active": "7c810ac656b5cfa6",
   "lastOpenFiles": [
-    "images/Screenshot 2023-09-09 at 3.51.22 PM.png",
+    "images/Screenshot 2023-09-09 at 5.07.12 PM.png",
+    "images/Screenshot 2023-09-09 at 5.03.38 PM.png",
+    "images/Screenshot 2023-09-09 at 5.00.20 PM.png",
+    "images/Screenshot 2023-09-09 at 4.57.05 PM.png",
+    "images/Screenshot 2023-09-09 at 4.56.45 PM.png",
     "Technical Learning/JavaScript/9. OOP.md",
+    "Technical Learning/JavaScript/10. Async Javascript.md",
+    "images/Screenshot 2023-09-09 at 3.51.22 PM.png",
     "images/Screenshot 2023-09-09 at 3.50.56 PM.png",
     "images/Screenshot 2023-09-09 at 10.48.11 AM.png",
     "Technical Learning/JavaScript/7.  Functions.md",
@@ -167,10 +173,6 @@
     "images/Screenshot 2023-09-09 at 12.11.59 AM.png",
     "images/Screenshot 2023-09-08 at 11.17.31 PM.png",
     "images/Screenshot 2023-09-08 at 11.16.13 PM.png",
-    "images/Screenshot 2023-09-08 at 6.54.14 PM.png",
-    "images/Screenshot 2023-09-08 at 6.51.17 PM.png",
-    "images/Screenshot 2023-09-08 at 6.48.38 PM.png",
-    "images/Screenshot 2023-09-08 at 6.42.18 PM.png",
     "Technical Learning/Git Learning.md",
     "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
@@ -196,7 +198,6 @@
     "random learning/Story Writing",
     "random learning/TV & sound system comparisons.md",
     "Technical Learning/Cognitive ability/Data Interpretations.md",
-    "Technical Learning/Cognitive ability/Google Apprentinship preparation.md",
     "random learning/ZS"
   ]
 }
