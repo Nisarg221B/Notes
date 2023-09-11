@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36622eb35059573f",
+        "id": "afdd5f8df3db31d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7c810ac656b5cfa6",
+            "id": "45d18d341ab621e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Learning/Git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical Learning/Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +147,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7c810ac656b5cfa6",
+  "active": "45d18d341ab621e2",
   "lastOpenFiles": [
+    "Technical Learning/Git.md",
     "images/Screenshot 2023-09-11 at 11.59.44 AM.png",
     "images/Screenshot 2023-09-11 at 11.58.02 AM.png",
     "images/Screenshot 2023-09-11 at 11.56.56 AM.png",
@@ -169,11 +161,9 @@
     "images/Screenshot 2023-09-11 at 11.44.31 AM.png",
     "images/Screenshot 2023-09-11 at 11.41.07 AM.png",
     "Technical Learning/JavaScript/10. Async Javascript.md",
-    "images/Screenshot 2023-09-10 at 12.23.17 AM.png",
     "Technical Learning/JavaScript/9. OOP.md",
     "Technical Learning/JavaScript/7.  Functions.md",
     "Technical Learning/JavaScript/8. Array Methods.md",
-    "Technical Learning/Git.md",
     "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/5. This Keyword.md",
