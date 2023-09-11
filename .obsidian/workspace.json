@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
+                "file": "Technical Learning/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
+                "file": "Technical Learning/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/JavaScript/10. Async Javascript.md",
+                "file": "Technical Learning/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/JavaScript/10. Async Javascript.md"
+                "file": "Technical Learning/Git.md"
               }
             }
           }
@@ -158,22 +158,22 @@
   },
   "active": "7c810ac656b5cfa6",
   "lastOpenFiles": [
-    "images/Screenshot 2023-09-10 at 12.23.17 AM.png",
-    "images/Screenshot 2023-09-09 at 11.43.41 PM.png",
-    "images/Screenshot 2023-09-09 at 11.41.24 PM.png",
-    "images/Screenshot 2023-09-09 at 5.07.12 PM.png",
-    "images/Screenshot 2023-09-09 at 5.03.38 PM.png",
-    "images/Screenshot 2023-09-09 at 5.00.20 PM.png",
-    "images/Screenshot 2023-09-09 at 4.57.05 PM.png",
-    "images/Screenshot 2023-09-09 at 4.56.45 PM.png",
-    "Technical Learning/JavaScript/9. OOP.md",
+    "images/Screenshot 2023-09-11 at 11.59.44 AM.png",
+    "images/Screenshot 2023-09-11 at 11.58.02 AM.png",
+    "images/Screenshot 2023-09-11 at 11.56.56 AM.png",
+    "images/Screenshot 2023-09-11 at 11.54.47 AM.png",
+    "images/Screenshot 2023-09-11 at 11.50.59 AM.png",
+    "images/Screenshot 2023-09-11 at 11.49.06 AM.png",
+    "images/Screenshot 2023-09-11 at 11.46.44 AM.png",
+    "images/Screenshot 2023-09-11 at 11.45.28 AM.png",
+    "images/Screenshot 2023-09-11 at 11.44.31 AM.png",
+    "images/Screenshot 2023-09-11 at 11.41.07 AM.png",
     "Technical Learning/JavaScript/10. Async Javascript.md",
-    "images/Screenshot 2023-09-09 at 3.51.22 PM.png",
-    "images/Screenshot 2023-09-09 at 3.50.56 PM.png",
-    "images/Screenshot 2023-09-09 at 10.48.11 AM.png",
+    "images/Screenshot 2023-09-10 at 12.23.17 AM.png",
+    "Technical Learning/JavaScript/9. OOP.md",
     "Technical Learning/JavaScript/7.  Functions.md",
     "Technical Learning/JavaScript/8. Array Methods.md",
-    "Technical Learning/Git Learning.md",
+    "Technical Learning/Git.md",
     "Technical Learning/JavaScript/6. Primitives and reference values.md",
     "Technical Learning/JavaScript/3.  Scope and the Scope Chain.md",
     "Technical Learning/JavaScript/5. This Keyword.md",
