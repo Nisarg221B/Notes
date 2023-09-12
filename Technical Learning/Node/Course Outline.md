@@ -1,7 +1,6 @@
 
 ![[d.png]]
 
-
 ### Core Modules
 
 - http -> Launch a server, send requests
