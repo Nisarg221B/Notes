@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Node/1. Basics.md",
+                "file": "Technical Learning/Node/1. Basics and Internals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Node/1. Basics.md",
+                "file": "Technical Learning/Node/1. Basics and Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Node/1. Basics.md",
+                "file": "Technical Learning/Node/1. Basics and Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Node/1. Basics.md"
+                "file": "Technical Learning/Node/1. Basics and Internals.md"
               }
             }
           },
@@ -168,10 +168,13 @@
   },
   "active": "8fdc71d24429ec2c",
   "lastOpenFiles": [
+    "images/1_9mv-g9E-87Sji9j7YR08Fw.gif",
+    "images/Pasted image 20230917142016.png",
+    "images/Pasted image 20230917141952.png",
     "images/Pasted image 20230917141029.png",
     "images/Screenshot 2023-09-17 at 2.02.43 PM.png",
     "Technical Learning/Node/Course Outline.md",
-    "Technical Learning/Node/1. Basics.md",
+    "Technical Learning/Node/1. Basics and Internals.md",
     "Technical Learning/Git.md",
     "Technical Learning/Untitled",
     "images/Screenshot 2023-09-11 at 11.59.44 AM.png",
@@ -180,9 +183,6 @@
     "images/Screenshot 2023-09-11 at 11.54.47 AM.png",
     "images/Screenshot 2023-09-11 at 11.50.59 AM.png",
     "images/Screenshot 2023-09-11 at 11.49.06 AM.png",
-    "images/Screenshot 2023-09-11 at 11.46.44 AM.png",
-    "images/Screenshot 2023-09-11 at 11.45.28 AM.png",
-    "images/Screenshot 2023-09-11 at 11.44.31 AM.png",
     "Technical Learning/JavaScript/10. Async Javascript.md",
     "Technical Learning/JavaScript/9. OOP.md",
     "Technical Learning/JavaScript/7.  Functions.md",
