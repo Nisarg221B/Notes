@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7308ce52923cb4c7",
+        "id": "797838161672b193",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae5329e647b2989",
+            "id": "8fdc71d24429ec2c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,11 +147,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0ae5329e647b2989",
+  "active": "8fdc71d24429ec2c",
   "lastOpenFiles": [
+    "Technical Learning/Git.md",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/Untitled",
-    "Technical Learning/Git.md",
     "images/Screenshot 2023-09-11 at 11.59.44 AM.png",
     "images/Screenshot 2023-09-11 at 11.58.02 AM.png",
     "images/Screenshot 2023-09-11 at 11.56.56 AM.png",
