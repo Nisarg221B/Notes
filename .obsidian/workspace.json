@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Node/5. NPM.md",
+                "file": "Technical Learning/Node/4. Observer design pattern.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Node/5. NPM.md",
+                "file": "Technical Learning/Node/4. Observer design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Node/5. NPM.md",
+                "file": "Technical Learning/Node/4. Observer design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Node/5. NPM.md"
+                "file": "Technical Learning/Node/4. Observer design pattern.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "9fc9d1ba6fa7d24d",
   "lastOpenFiles": [
-    "images/Screenshot 2023-09-17 at 11.23.57 PM.png",
+    "images/Pasted image 20230917235929.png",
+    "images/Pasted image 20230917235731.png",
+    "images/Pasted image 20230917235529.png",
     "Technical Learning/Node/5. NPM.md",
+    "images/Screenshot 2023-09-17 at 11.23.57 PM.png",
     "images/Screenshot 2023-09-17 at 11.11.05 PM.png",
     "Technical Learning/Node/1. Basics.md",
     "Technical Learning/Node/4. Observer design pattern.md",
@@ -180,10 +183,7 @@
     "images/Screenshot 2023-09-17 at 7.39.08 PM.png",
     "images/Screenshot 2023-09-17 at 7.32.58 PM.png",
     "images/Screenshot 2023-09-17 at 7.25.25 PM.png",
-    "images/Screenshot 2023-09-17 at 7.24.54 PM.png",
-    "images/Pasted image 20230917191421.png",
     "Technical Learning/Node/2. Javascript Engine internals.md",
-    "images/Pasted image 20230917190752.png",
     "V8 engine.md",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/Git.md",
