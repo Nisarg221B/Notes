@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83f1e6976de2acb6",
+        "id": "c2ec8273cdf1a50a",
         "type": "tabs",
         "children": [
           {
-            "id": "7751f258054d988d",
+            "id": "9fc9d1ba6fa7d24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Node/4. Observer design pattern.md",
+                "file": "Technical Learning/Node/5. NPM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Node/4. Observer design pattern.md",
+                "file": "Technical Learning/Node/5. NPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Node/4. Observer design pattern.md",
+                "file": "Technical Learning/Node/5. NPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Node/4. Observer design pattern.md"
+                "file": "Technical Learning/Node/5. NPM.md"
               }
             }
           },
@@ -166,11 +166,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7751f258054d988d",
+  "active": "9fc9d1ba6fa7d24d",
   "lastOpenFiles": [
+    "images/Screenshot 2023-09-17 at 11.23.57 PM.png",
+    "Technical Learning/Node/5. NPM.md",
+    "images/Screenshot 2023-09-17 at 11.11.05 PM.png",
+    "Technical Learning/Node/1. Basics.md",
+    "Technical Learning/Node/4. Observer design pattern.md",
     "images/Screenshot 2023-09-17 at 8.01.33 PM.png",
     "Technical Learning/Node/3. Node Internals.md",
-    "Technical Learning/Node/4. Observer design pattern.md",
     "images/Screenshot 2023-09-17 at 7.49.54 PM.png",
     "images/Screenshot 2023-09-17 at 7.46.09 PM.png",
     "images/Screenshot 2023-09-17 at 7.39.08 PM.png",
@@ -180,10 +184,7 @@
     "images/Pasted image 20230917191421.png",
     "Technical Learning/Node/2. Javascript Engine internals.md",
     "images/Pasted image 20230917190752.png",
-    "images/Screenshot 2023-09-17 at 7.05.35 PM.png",
-    "Technical Learning/Node/1. Basics.md",
     "V8 engine.md",
-    "images/Screenshot 2023-09-17 at 3.39.53 PM.png",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/Git.md",
     "Technical Learning/Untitled",
@@ -207,7 +208,6 @@
     "Technical Learning/Coding principles",
     "random learning/Story Writing/ScreenPlay Story Structure.md",
     "random learning/ZS/Introduction.md",
-    "random learning/startup/startup 102.md",
     "random learning/Story Writing",
     "random learning/ZS"
   ]
