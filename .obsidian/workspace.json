@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7179e64c0796c36",
+        "id": "03becc84f64b2f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "10395a1c968bc563",
+            "id": "4f7aac2473193372",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,13 +166,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10395a1c968bc563",
+  "active": "4f7aac2473193372",
   "lastOpenFiles": [
+    "Technical Learning/Node/7. Servers.md",
+    "images/Screenshot 2023-09-18 at 10.55.14 PM.png",
     "images/Screenshot 2023-09-18 at 10.42.42 PM.png",
     "images/Screenshot 2023-09-18 at 10.22.20 PM.png",
     "Technical Learning/Node/6. Streams.md",
     "images/Pasted image 20230918200926.png",
-    "Technical Learning/Node/7. Servers.md",
     "images/Pasted image 20230918195525.png",
     "Technical Learning/Node/4. Observer design pattern.md",
     "[.md",
@@ -182,8 +183,6 @@
     "images/Pasted image 20230917235929.png",
     "images/Pasted image 20230917235731.png",
     "images/Pasted image 20230917235529.png",
-    "images/Screenshot 2023-09-17 at 11.23.57 PM.png",
-    "images/Screenshot 2023-09-17 at 11.11.05 PM.png",
     "Technical Learning/Node/1. Basics.md",
     "Technical Learning/Node/3. Node Internals.md",
     "Technical Learning/Node/2. Javascript Engine internals.md",
