@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09d791f1c78ff9c3",
+        "id": "c7179e64c0796c36",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2d78d9ce9528b8",
+            "id": "10395a1c968bc563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Node/6. Streams.md",
+                "file": "Technical Learning/Node/7. Servers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Node/6. Streams.md",
+                "file": "Technical Learning/Node/7. Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Node/6. Streams.md",
+                "file": "Technical Learning/Node/7. Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Node/6. Streams.md"
+                "file": "Technical Learning/Node/7. Servers.md"
               }
             }
           },
@@ -166,11 +166,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cc2d78d9ce9528b8",
+  "active": "10395a1c968bc563",
   "lastOpenFiles": [
+    "Technical Learning/Node/6. Streams.md",
     "images/Pasted image 20230918200926.png",
     "Technical Learning/Node/7. Servers.md",
-    "Technical Learning/Node/6. Streams.md",
     "images/Pasted image 20230918195525.png",
     "Technical Learning/Node/4. Observer design pattern.md",
     "[.md",
@@ -185,7 +185,6 @@
     "Technical Learning/Node/1. Basics.md",
     "images/Screenshot 2023-09-17 at 8.01.33 PM.png",
     "Technical Learning/Node/3. Node Internals.md",
-    "images/Screenshot 2023-09-17 at 7.49.54 PM.png",
     "Technical Learning/Node/2. Javascript Engine internals.md",
     "V8 engine.md",
     "Technical Learning/Node/Course Outline.md",
