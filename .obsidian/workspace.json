@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Designing REST/1. Software Architecture.md",
+                "file": "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Designing REST/1. Software Architecture.md",
+                "file": "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Designing REST/1. Software Architecture.md",
+                "file": "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Designing REST/1. Software Architecture.md"
+                "file": "Technical Learning/Designing REST/2. Network Based Application Architectures.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "2f683e391d55b674",
   "lastOpenFiles": [
     "Technical Learning/Designing REST/1. Software Architecture.md",
+    "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
     "Technical Learning/Node/8. REST.md",
     "Technical Learning/Node/7. Servers.md",
     "Technical Learning/Node/6. Streams.md",
@@ -205,7 +206,6 @@
     "Technical Learning/JavaScript/1. Internals.md",
     "Technical Learning/JavaScript/2. Execution Context.md",
     "Untitled.md",
-    "Technical Learning/JavaScript/4. Type conversion and.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
     "Technical Learning/Coding principles",
