@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/Linux/Vim Editor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2131cf3ef9ea807",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/Linux/Vim Editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/Linux/Vim Editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Git.md"
+                "file": "Technical Learning/Linux/Vim Editor.md"
               }
             }
           },
@@ -179,8 +168,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e2131cf3ef9ea807",
+  "active": "df0461cf7ecfa36a",
   "lastOpenFiles": [
+    "Technical Learning/Git.md",
     "Technical Learning/Github readme.md",
     "Technical Learning/Designing REST/4. REST.md",
     "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
@@ -209,7 +199,6 @@
     "images/Pasted image 20230917235731.png",
     "V8 engine.md",
     "Technical Learning/Node/Course Outline.md",
-    "Technical Learning/Git.md",
     "Technical Learning/Untitled",
     "Technical Learning/JavaScript/10. Async Javascript.md",
     "Technical Learning/JavaScript/9. OOP.md",
