@@ -1,6 +1,9 @@
 #git
 #github
 
+[Git comment writing best practices](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+#git-commit-message
+
 
 **Git stages :** 
 
