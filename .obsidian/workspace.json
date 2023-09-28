@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2131cf3ef9ea807",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aab65284d4a98c7d",
+  "active": "e2131cf3ef9ea807",
   "lastOpenFiles": [
     "Technical Learning/Github readme.md",
     "Technical Learning/Designing REST/4. REST.md",
