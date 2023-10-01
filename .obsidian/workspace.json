@@ -11,8 +11,13 @@
             "id": "c148e6b069768442",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning/Node/8. REST.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning/Node/8. REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning/Node/8. REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning/Node/8. REST.md"
+              }
             }
           },
           {
@@ -161,16 +170,16 @@
   },
   "active": "c148e6b069768442",
   "lastOpenFiles": [
+    "Technical Learning/Designing REST/1. Software Architecture.md",
+    "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
+    "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
+    "Technical Learning/Designing REST/4. REST.md",
     "Technical Learning/Git.md",
     "Technical Learning/Linux/OS package manager - homebrew.md",
     "Technical Learning/Linux/Unix file system layout.md",
     "Technical Learning/Linux/Vim Editor.md",
     "Technical Learning/Github readme.md",
-    "Technical Learning/Designing REST/4. REST.md",
-    "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
-    "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
     "[.md",
-    "Technical Learning/Designing REST/1. Software Architecture.md",
     "Technical Learning/Node/8. REST.md",
     "Technical Learning/Node/7. Servers.md",
     "Technical Learning/Node/6. Streams.md",
