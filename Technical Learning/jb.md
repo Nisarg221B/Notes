@@ -1,6 +1,20 @@
 
 *What aspects of project management will differ for a media/publishing client compared to an e-commerce client?*
 
+while the core aspects of project management such as planning, designing development and testing remains similar for both the clients certain components needs to be done differently which would reflect the distinct priorities and requirements for the respective client. 
+
+- e-commerce
+such as for the e-commerce client while developing and designing three different users has to taken care of by our system, one is the customers who would be using the site for whom the site has to be made in such a way that it could handle many dynamic requests and engagement simultaneously as there are several aspects of design which would have to be taken care of at the server side. 
+
+the second users would be the site admins and inside team for whom a product data management , order tracking , security has to be integrated at a enterprise level to ensure a good response.
+
+the third are the B2B partners if there is such a requirement has to taken into consideration - order fulfilment and shipping with third party providers has to be taken care of so that they have easier time with our client and the end to end system has to be perfected.
+
+- media/publishing
+while for the media/publishing client the major focus would be on organising and cataloging existing content, including articles, images, videos and other assets. for such clients content creation and curation play a significant role thus the project plan should account for the creation of an editorial calendar that outlines the schedule for publishing new content, including articles, blog posts, and multimedia.
+
+Here as for the user engagement most of the work is cacheable non-blocking I/O tasks such as retrieval of contents from the server to the client side. thus a CMS would be very suitable for such clients. the UI/UX plays a very important part in order to have growing community of users while having the goal of maintaining a good number of daily active users. 
+
 
 *Which is your favourite article about management? What did you learn from it?*
 
