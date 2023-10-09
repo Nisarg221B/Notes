@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "162bf1a9b7ec5170",
+        "id": "4d920b80fcad4af6",
         "type": "tabs",
         "children": [
           {
-            "id": "675b55c93647578d",
+            "id": "7e2990327c97bffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/jb.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/jb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Git.md",
+                "file": "Technical Learning/jb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Git.md"
+                "file": "Technical Learning/jb.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "675b55c93647578d",
+  "active": "7e2990327c97bffb",
   "lastOpenFiles": [
+    "Technical Learning/jb.md",
+    "Technical Learning/Git.md",
     "random learning/Messages.md",
     "Projects/Ticket app/Overall APP design.md",
     "Technical Learning/Node/8. REST.md",
@@ -179,7 +181,6 @@
     "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
     "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
     "Technical Learning/Designing REST/4. REST.md",
-    "Technical Learning/Git.md",
     "Technical Learning/Linux/OS package manager - homebrew.md",
     "Technical Learning/Linux/Unix file system layout.md",
     "Technical Learning/Linux/Vim Editor.md",
@@ -209,7 +210,6 @@
     "Technical Learning/Untitled",
     "Technical Learning/JavaScript/10. Async Javascript.md",
     "Technical Learning/JavaScript/9. OOP.md",
-    "Technical Learning/JavaScript/7.  Functions.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
     "Technical Learning/Coding principles",
