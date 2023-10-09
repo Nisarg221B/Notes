@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dca0e942be9d1ba",
+        "id": "162bf1a9b7ec5170",
         "type": "tabs",
         "children": [
           {
-            "id": "c148e6b069768442",
+            "id": "675b55c93647578d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Ticket app/Overall APP design.md",
+                "file": "Technical Learning/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Ticket app/Overall APP design.md",
+                "file": "Technical Learning/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Ticket app/Overall APP design.md",
+                "file": "Technical Learning/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Ticket app/Overall APP design.md"
+                "file": "Technical Learning/Git.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c148e6b069768442",
+  "active": "675b55c93647578d",
   "lastOpenFiles": [
-    "Technical Learning/Node/8. REST.md",
+    "random learning/Messages.md",
     "Projects/Ticket app/Overall APP design.md",
+    "Technical Learning/Node/8. REST.md",
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST/1. Software Architecture.md",
@@ -209,7 +210,6 @@
     "Technical Learning/JavaScript/10. Async Javascript.md",
     "Technical Learning/JavaScript/9. OOP.md",
     "Technical Learning/JavaScript/7.  Functions.md",
-    "Technical Learning/JavaScript/8. Array Methods.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
     "Technical Learning/Coding principles",
