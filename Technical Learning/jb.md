@@ -1,7 +1,5 @@
 
-*What aspects of project management will differ for a media/publishing client compared to an ecommerce client?*
-
-- 
+*What aspects of project management will differ for a media/publishing client compared to an e-commerce client?*
 
 
 *Which is your favourite article about management? What did you learn from it?*
