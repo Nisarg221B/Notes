@@ -1,7 +1,10 @@
 
 *What aspects of project management will differ for a media/publishing client compared to an ecommerce client?*
 
-Many aspects of project management differ for a media/publishing client compared to an ecommerce client. For example, the scope of any project for a media/publishing may be more complex and requires inputs from all of its stakeholders to clearly define the scope whereas the scope for an ecommerce will more often be clearly defined, such as developing a new feature, a new product, or integration of a new system into the existing one. Also the media/publishing client's projects need high degree of creativity, collaboration with different stakeholders and teams, resulting into a high quality content and production. Whereas the ecommerce projects need to be of high quality in terms of design, functionality, performance, scalability and security. 
+_==Many aspects of project management differ for a media/publishing client compared to an ecommerce client. For example, ==_
+
+
+the scope of any project for a media/publishing may be more complex and requires inputs from all of its stakeholders to clearly define the scope whereas the scope for an ecommerce will more often be clearly defined, such as developing a new feature, a new product, or integration of a new system into the existing one. Also the media/publishing client's projects need high degree of creativity, collaboration with different stakeholders and teams, resulting into a high quality content and production. Whereas the ecommerce projects need to be of high quality in terms of design, functionality, performance, scalability and security. 
 
 Managing media/publishing clients more flexibility and adaptability as things might not go according to the plan and adjustments may be needed. Being proactive and communicative is also very important as media/publishing is a creative industry. Apart from this time management is the most important to stay on track and meet deadlines.
 
