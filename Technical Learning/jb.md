@@ -1,16 +1,13 @@
 
 *What aspects of project management will differ for a media/publishing client compared to an e-commerce client?*
 
-Media/publishing clients are typically more focused on the creative aspects of their projects, such as the design, layout, and content. They may also be more concerned with meeting deadlines, as they often have strict editorial calendars.
+Media/publishing clients are typically more focused on the creative aspects of their projects, such as the design, layout, and content. They may also be more concerned with meeting deadlines, as they often have strict editorial calendars thus efficient editorial workflow has to made assured for them so that the publishing process is a seamless experience.
 
-E-commerce clients are typically more focused on the technical aspects of their projects, such as the functionality, performance, and security of their websites. They may also be more concerned with meeting sales goals, as their revenue is directly tied to the success of their online stores.
+E-commerce clients are typically more focused on the technical aspects of their projects, such as the functionality, performance, and security of their websites. here the speed matters and any latency of a certain limit will distract the user from buying process and user might not convert. thus the website should be able to serve multiple simultaneous dynamic requests with a lesser response time. 
 
-Media/publishing projects often involve a wider range of stakeholders, such as editors, writers, designers, and photographers. E-commerce projects often involve a smaller range of stakeholders, such as product managers, developers, and marketing professionals. This means that it is important to be able to manage communication and collaboration effectively for media/publishing projects.
+lastly both the parties have different source of revenue for the media client it will mostly be advertisement based revenue model thus ad management  has to be simplified and the ad strategy in such a way that it should not be a distraction for the user. the website should be in a way that it servers responsive ads without losing the user engagement which is I think would be the primary concern for an media/publishing client. 
 
-Media/publishing projects often have tight deadlines, as they often need to be published on a specific date. E-commerce projects often have more flexible deadlines, as they can typically be delayed without a major impact on revenue.
-
-Media/publishing projects often have smaller budgets, as they typically involve less complex development work. E-commerce projects often have larger budgets, as they typically involve more complex development work.
-
+whereas for the E-commerce clients the revenue model is "product buying" thus for an e-commerce it is important that the overall buying process for the user has to simplified and in such a way that it gets the user to the checkout page (without any technical hurdles) as soon as possible.
 
 
 *Which is your favourite article about management? What did you learn from it?*
@@ -27,9 +24,5 @@ In this way the manager can avoid taking on too many monkeys and free up their t
 ---
 
 [11:21 am, 09/10/2023] Payal: Isme ye bhi likh sakte ki ecommerce mein performance aur important ho jaata hai kyunki bohut saare log site ke back-end se real time interact karte hai... News and media mein log visits bohut karte hai. Nature of interaction is different. Media clients mein cached results dikha sakte.
-
-[11:21 am, 09/10/2023] Payal: Of course, communication, performance, ye sab dono mein important rehta hai, par focus badal jaata hai thoda I feel
-
-[11:21 am, 09/10/2023] Payal: Actually mein media publishing house mein workflow samajhna main challenge rehta hai, ecommerce ka more or less sorted hai
 
 [11:21 am, 09/10/2023] Payal: Ki products hai, buy karne hai... Media mein har org ka alag hota hai editorial workflow. Plus revenue models bhi alag hote hai. Media publishing house mein customer engagement important hai ad based revenue drive karne, aur ecommerce mein conversion... The process from adding a product to cart to checkout should be super smooth to convert karne.
