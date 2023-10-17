@@ -58,3 +58,22 @@ its done , Ahmedabads famous balan dosa.
 ##### 8. Dahi + RIce + Paneer
 
 ##### 9. Mushroom soup 
+
+##### 10. Crispy potato 
+- peel and cut the potato in thin chip slice or give a French fries 
+- Wash it 2-3 time with water to remove dirt and extra starch 
+- half boil potato (till the potato turns whitish from yellow which implies that the starch is cooking) - water + salt
+- Further steps depends on your mood 
+- Heathy mood 
+    - drain the water and let it cool for 5-10 mins 
+    - Than take 1 spoon oil or nothing on a pan and let it be cook for 5-10 mins unti it is crispy from both side.
+- unhealthy 
+   - drain the water and apply corn starch immediately and generously. 
+   - Take 2-3 tbs of oil 
+   - and fry the potato 
+
+##### 11. Mac and Cheese sauce
+
+- cut onion , capsicum, green chilli , garlic - atleast 2 clove 
+- take 1tbs of oil in a pan and add some butter if in mood 
+- 
