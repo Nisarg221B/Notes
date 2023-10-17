@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "bb76e364fe43298c",
+        "id": "7774f8cecec54f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "54004574bce6fa3f",
+            "id": "b4d96f3dc8b1caf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technical Learning/Rest API.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d4a16195d2f614",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical Learning/Rest API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical Learning/Rest API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical Learning/Rest API.md"
+              }
             }
           },
           {
@@ -159,10 +179,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "54004574bce6fa3f",
+  "active": "16d4a16195d2f614",
   "lastOpenFiles": [
-    "Technical Learning/Dhabu RTcamp.md",
+    "Technical Learning/Github readme.md",
     "Technical Learning/Git.md",
+    "Schedule.md",
+    "random learning/ZS/Introduction.md",
+    "Technical Learning/Dhabu RTcamp.md",
     "random learning/Messages.md",
     "Projects/Ticket app/Overall APP design.md",
     "Technical Learning/Node/8. REST.md",
@@ -175,7 +198,6 @@
     "Technical Learning/Linux/OS package manager - homebrew.md",
     "Technical Learning/Linux/Unix file system layout.md",
     "Technical Learning/Linux/Vim Editor.md",
-    "Technical Learning/Github readme.md",
     "[.md",
     "Technical Learning/Node/7. Servers.md",
     "Technical Learning/Node/6. Streams.md",
@@ -199,8 +221,6 @@
     "V8 engine.md",
     "Technical Learning/Node/Course Outline.md",
     "Technical Learning/Untitled",
-    "Technical Learning/JavaScript/10. Async Javascript.md",
-    "Technical Learning/JavaScript/9. OOP.md",
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
     "Technical Learning/Coding principles",
