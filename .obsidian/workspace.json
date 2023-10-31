@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2778353f049c0304",
+        "id": "9459ada2e23ca3df",
         "type": "tabs",
         "children": [
           {
-            "id": "0a086cce3a326fb8",
+            "id": "36c16647da0db8c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "random learning/ION prep/Market Segmantation stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "random learning/ION prep/Market Segmantation stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "random learning/ION prep/Market Segmantation stats.md"
+              }
             }
           },
           {
@@ -159,21 +163,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0a086cce3a326fb8",
+  "active": "aab65284d4a98c7d",
   "lastOpenFiles": [
-    "random learning/ION prep/HR questions.md",
-    "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/ION Group details.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
+    "random learning/ION prep/ION Group details.md",
+    "random learning/ION prep/ION Day Prep.md",
+    "random learning/ION prep/HR questions.md",
+    "random learning/ION prep/Food Recommendation system.md",
     "random learning/ION prep/Market Segmantation stats.md",
+    "random learning/ION prep/SDLC.md",
+    "task tracking.md",
+    "Schedule.md",
+    "random learning/ZS/Introduction.md",
+    "Projects/Ticket app/Overall APP design.md",
     "Technical Learning/Rest API.md",
     "Technical Learning/Github readme.md",
     "Technical Learning/Git.md",
-    "Schedule.md",
-    "random learning/ZS/Introduction.md",
     "Technical Learning/Dhabu RTcamp.md",
     "random learning/Messages.md",
-    "Projects/Ticket app/Overall APP design.md",
     "Technical Learning/Node/8. REST.md",
     "Projects/Ticket app",
     "Projects",
@@ -186,9 +193,6 @@
     "Technical Learning/Linux/Vim Editor.md",
     "[.md",
     "Technical Learning/Node/7. Servers.md",
-    "Technical Learning/Node/6. Streams.md",
-    "Technical Learning/Node/5. NPM.md",
-    "Technical Learning/Node/4. Observer design pattern.md",
     "Technical Learning/Designing REST",
     "images/Screenshot 2023-09-19 at 6.22.06 PM.png",
     "images/Screenshot 2023-09-18 at 10.55.14 PM.png",
