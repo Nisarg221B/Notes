@@ -23,6 +23,28 @@ I would prefer pune first as its very near to my home state + its very convenien
 
 I was appointed as a team lead in my current internship ....
 
+Others
 
+### bank
+A bank is a financial institution that accepts deposits from the public and creates credit.
+- Banks provide various financial services such as loans, credit cards, and savings accounts.
+- They also facilitate transactions such as wire transfers and issuing of checks.
+- Banks earn profits by charging interest on loans and fees for their services.
 
+### working capital (assets - liabilities )
+Working capital is the difference between current assets and current liabilities of a company. Working capital is the amount of money a company has available to fund its day-to-day operations.
+- Current assets include cash, inventory, and accounts receivable, while current liabilities include accounts payable and short-term debt. 
 
+#### balance sheet 
+A balance sheet is a financial statement that shows a company's assets, liabilities, and equity at a specific point in time.
+
+- Examples of assets include cash, inventory, and property
+- Examples of liabilities include loans, accounts payable, and taxes owed
+- Examples of equity include retained earnings and stockholder's equity
+
+### income statement or profit loss account
+Profit and Loss account is a financial statement that shows a company's revenues, expenses, and net income or loss over a specific period.
+
+- The revenue section includes sales, fees, and other income.
+- The expense section includes cost of goods sold, salaries, rent, and other expenses.
+- The net income or loss is calculated by subtracting expenses from revenue.
