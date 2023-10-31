@@ -73,7 +73,23 @@ its done , Ahmedabads famous balan dosa.
    - and fry the potato 
 
 ##### 11. Mac and Cheese sauce
-
+- see Ranvir Brar 
 - cut onion , capsicum, green chilli , garlic - atleast 2 clove 
 - take 1tbs of oil in a pan and add some butter if in mood 
-- 
+
+##### 12. Sitafal Basundi 
+
+- heat milk ( 1 cup small )
+- and add kesar , 1 spoon of sugar or misri , add ilaichi 3-4 whole and 3-4 piece powdered.
+
+- put the prepared milk to cool down
+
+
+- extract the sitafal(3-4 piece) pulp 
+- And add that milk into the extracted pulp
+- basundi is prepared enjoy
+
+##### 13. Egg dipped bread 
+
+
+
