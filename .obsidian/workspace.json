@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a54ba71af9e2a2",
+        "id": "e2857c57bbd40e87",
         "type": "tabs",
         "children": [
           {
-            "id": "abf2594ecabe9014",
+            "id": "5df8ce9786684e90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "random learning/Recipes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "random learning/Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "random learning/Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "random learning/Recipes.md"
+              }
             }
           },
           {
@@ -159,8 +168,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "abf2594ecabe9014",
+  "active": "5df8ce9786684e90",
   "lastOpenFiles": [
+    "random learning/Companies to look out for.md",
+    "random learning/Messages.md",
+    "random learning/NR Narayana Murthy Lecture.md",
+    "random learning/Random Thoughts.md",
+    "random learning/Ones in a month.md",
+    "random learning/Untitled.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/Food Recommendation system.md",
@@ -176,7 +191,6 @@
     "Technical Learning/Github readme.md",
     "Technical Learning/Git.md",
     "Technical Learning/Dhabu RTcamp.md",
-    "random learning/Messages.md",
     "Technical Learning/Node/8. REST.md",
     "Projects/Ticket app",
     "Projects",
@@ -184,11 +198,6 @@
     "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
     "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
     "Technical Learning/Designing REST/4. REST.md",
-    "Technical Learning/Linux/OS package manager - homebrew.md",
-    "Technical Learning/Linux/Unix file system layout.md",
-    "Technical Learning/Linux/Vim Editor.md",
-    "[.md",
-    "Technical Learning/Node/7. Servers.md",
     "Technical Learning/Designing REST",
     "images/Screenshot 2023-09-19 at 6.22.06 PM.png",
     "images/Screenshot 2023-09-18 at 10.55.14 PM.png",

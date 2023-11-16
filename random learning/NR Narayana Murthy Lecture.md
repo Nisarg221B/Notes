@@ -12,9 +12,9 @@
 
 <i> public property is to be handled with even greater care than private property</i>
 
-**Importance of starting every new transaction on a zero base and not carrying the hysteresis bias from prior transaction ( without prior perception or  older heated transaction getting in your way) #work #life 
+**Importance of starting every new transaction on a zero base and not carrying the hysteresis bias from prior transaction ( without prior perception or  older heated transaction getting in your way)  #work  #life 
 
-Young man if you use data and facts to arrive at conclusion then you will not be biased , you will not be opinionated and you will be fair to the other person.
+Young man if you use data and facts to arrive at conclusion then you will not be biased, you will not be opinionated and you will be fair to the other person.
 
 Most effective way of passing on advice to youngster is to use simple short attractive sentences to communicate.
 - In God we #trust , Everybody else bring data to table. 
