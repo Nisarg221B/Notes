@@ -1,5 +1,5 @@
 
-https://www.youtube.com/watch?v=wE7khGHVkYY 
+[reference video](https://www.youtube.com/watch?v=wE7khGHVkYY)
 
 #flutter_stateless_widget
 #widget 
@@ -9,8 +9,7 @@ Widgets are really just configurations for pieces of an apps UI , they are blue 
 
 so what are they configurations for ? - Elements
 
-An element is an widget thats been made real and mounted on screen, and its the element 
-tree that represents what's actually displaying on your device at any given moment.
+An element is an widget thats been made real and mounted on screen, and its the element tree that represents what's actually displaying on your device at any given moment.
 
 Each widget class has both a corresponding element class and a method to create an instance.
 - Stateless widget for example creates a stateless element, that createElement method gets called when the widget is mounted to the tree. the createElement provides the Element which is mounted to the element tree with a reference to the widget that created it.
