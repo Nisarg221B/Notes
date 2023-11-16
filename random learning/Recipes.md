@@ -35,7 +35,7 @@ add between bhakhri and little more butter on top and eat our heart out.
 - dhosa + butter applied while it cooks
 **For Ghotala** 
 - add fine cut  capsicum , tomato , dhaniya ,amul cheese ( max cover all up ) + mozrella , then add some masalas ( dhaniya powder + red chilli + garam masala + hot souce or chilli garlic souce)
-- Then mix it all up with presser so that it all come to one consistency. ( with back of a glass if you don't have specific utensil)
+- Then mix it all up with presser so that it all come to one consistncy. ( with back of a glass if you don't have specific utensil)
 - add little water so that it don't burn. ( 1/4th glass)
 - then add good amount of butter.
 

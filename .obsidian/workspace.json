@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2857c57bbd40e87",
+        "id": "7cf3cd2c23ea8327",
         "type": "tabs",
         "children": [
           {
-            "id": "5df8ce9786684e90",
+            "id": "6000e3b127c477ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/Recipes.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/Recipes.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/Recipes.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/Recipes.md"
+                "file": "Technical Learning/Flutter/Flutter UI/Introduction.md"
               }
             }
           },
@@ -168,8 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5df8ce9786684e90",
+  "active": "6000e3b127c477ed",
   "lastOpenFiles": [
+    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
+    "Technical Learning/Dart/3. null_saftey/dart-null safety.md",
+    "random learning/Recipes.md",
     "random learning/Companies to look out for.md",
     "random learning/Messages.md",
     "random learning/NR Narayana Murthy Lecture.md",
@@ -195,9 +198,6 @@
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST/1. Software Architecture.md",
-    "Technical Learning/Designing REST/2. Network Based Application Architectures.md",
-    "Technical Learning/Designing REST/3. Network-based Architectural styles.md",
-    "Technical Learning/Designing REST/4. REST.md",
     "Technical Learning/Designing REST",
     "images/Screenshot 2023-09-19 at 6.22.06 PM.png",
     "images/Screenshot 2023-09-18 at 10.55.14 PM.png",
