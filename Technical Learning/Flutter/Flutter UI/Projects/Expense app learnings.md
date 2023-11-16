@@ -4,12 +4,14 @@
 
 ---
 - Responsive designing  ( according to the height and size of the device )
-	 https://www.youtube.com/watch?v=HD5gYnspYzk
+	 [adaptive vs responsive](https://www.youtube.com/watch?v=HD5gYnspYzk)
 	 https://www.youtube.com/watch?v=7HeXcA4zDxY
 	- MediaQuery.of(context)
 		- system constraints
 	- Layout Builder
 		- parent widget constraints
+	- Theme.of(ctx).platform 
+		- platform constraints
 	- List specific if else
 	- ternary operator
 
