@@ -9,7 +9,7 @@
 - **Stateless Widget** - immutable configurations or blueprints for an element.
 - **Statefull Widget**  - It provides immutable configuration info and a state object that can change over time and trigger rebuilds of the UI.
 
-Every Flutter Widget has a built-in **lifecycle**: A collection of methods that are **automatically executed** by Flutter (at certain points of time).
+Every Flutter Widget has a built-in **lifecycle**: A collection of methods that are **automatically executed** by Flutter (at certain points of tinisame).
 
 There are **three** extremely important (stateful) widget lifecycle methods you should be aware of:
 
