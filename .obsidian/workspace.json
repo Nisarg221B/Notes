@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0424974ecd4c3d",
+        "id": "745a825d862fd81a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3457bacfb64d9e4",
+            "id": "06b98ede39c14863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
+                "file": "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
+                "file": "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
+                "file": "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md"
+                "file": "Technical Learning/Flutter/State Management/Riverpod/Basic.md"
               }
             }
           },
@@ -168,15 +168,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aab65284d4a98c7d",
+  "active": "06b98ede39c14863",
   "lastOpenFiles": [
+    "Technical Learning/Git.md",
+    "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
+    "task tracking.md",
+    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
+    "Technical Learning/Flutter/State Management/Riverpod",
+    "Technical Learning/Flutter/State Management",
     "Technical Learning/Flutter/Flutter UI/Introduction.md",
     "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 104.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 103.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 102.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 101.md",
-    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Understanding size constraints.md",
     "Technical Learning/Dart/3. null_saftey/dart-null safety.md",
     "random learning/Recipes.md",
@@ -193,9 +198,6 @@
     "random learning/ION prep/ION Group details.md",
     "random learning/ION prep/ION Day Prep.md",
     "random learning/ION prep/SDLC.md",
-    "task tracking.md",
-    "Schedule.md",
-    "random learning/ZS/Introduction.md",
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST",
@@ -213,7 +215,6 @@
     "Technical Learning/JavaScript",
     "Technical Learning/Node",
     "Technical Learning/Coding principles",
-    "random learning/Story Writing",
-    "random learning/ZS"
+    "random learning/Story Writing"
   ]
 }
