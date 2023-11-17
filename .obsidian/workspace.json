@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md"
+                "file": "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md"
               }
             }
           },
@@ -170,14 +170,14 @@
   },
   "active": "aab65284d4a98c7d",
   "lastOpenFiles": [
+    "Technical Learning/Flutter/Flutter UI/Introduction.md",
+    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 104.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 103.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 102.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Fundamentals/Widgets 101.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "Technical Learning/Flutter/Flutter UI/Widgets/Understanding size constraints.md",
-    "Technical Learning/Flutter/Flutter UI/Introduction.md",
-    "Technical Learning/Flutter/Flutter UI/Projects/Expense app learnings.md",
     "Technical Learning/Dart/3. null_saftey/dart-null safety.md",
     "random learning/Recipes.md",
     "random learning/Companies to look out for.md",
