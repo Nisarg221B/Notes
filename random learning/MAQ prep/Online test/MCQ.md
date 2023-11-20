@@ -37,4 +37,7 @@ ans - munu has to be of type X
 
 ans -  An abstract class Robot with a method for reporting status and separate interfaces Flyable and Swimmable for specitic abilities. 
 
-11. 
+11. BC -> ADE , D -> B
+ans - 3 NF
+
+12. 
