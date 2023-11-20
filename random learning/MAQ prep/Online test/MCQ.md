@@ -16,10 +16,14 @@
 
 ans - Merge Sort is a suitable choice for sorting the transaction records since it has an average-case time complexity of 0(n log n).
 
-4. 
-1. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted green. This cube is subsequently divided into 216 smaller identiest cute.
+5. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted green. This cube is subsequently divided into 216 smaller identiest cute.
 
 How many of these smaller cubes will have at least two distinct colors on their faces?
 
 ans - 44
 
+
+
+8. There are two types of people living in what is land-X type and Y type. The X type of inhabitants always speak the truth and the Y type of inhabitants always lie.
+Chunmun says, "According to Munu, I always speak the truth." Which of the following is a correct
+ans - munu has to be of type X
