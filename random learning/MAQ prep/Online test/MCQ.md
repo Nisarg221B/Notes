@@ -7,7 +7,7 @@
 
 	ans - encapsulatiion
 
-5. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted areen. This cube is subsequently divided into 216 smaller identiest cute.
+5. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted green. This cube is subsequently divided into 216 smaller identiest cute.
 
 How many of these smaller cubes will have at least two distinct colors on their faces?
 
