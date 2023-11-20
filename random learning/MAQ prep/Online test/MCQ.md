@@ -7,7 +7,19 @@
 
 	ans - encapsulatiion
 
-5. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted green. This cube is subsequently divided into 216 smaller identiest cute.
+3. In the context of a real-world data analytics scenario, consider a dataset containing customer transaction records for an e-commerce platform. The goal is to sort these records by transaction amount descending order to identify the top-spending customers. The dataset contains millions of records and efficient sorting is crucial. Which of the following statements for this task is correct?
+
+- bubble sort is the most efficient choice for the task
+- Merge Sort is a suitable choice for sorting the transaction records since it has an average-case time complexity of 0(n log n).
+- Quick Sort is a better choice than Merge Sort for this task, as it has a lower average case time complexity.
+- Merge Sort should not be used for this task because it has a worst-case time complexity of 0(n*2).
+
+ans - Merge Sort is a suitable choice for sorting the transaction records since it has an average-case time complexity of 0(n log n).
+
+4. 
+1. In a cube, one set of neighboring faces is colored black, another set is colored blue, and the third set is painted green. This cube is subsequently divided into 216 smaller identiest cute.
 
 How many of these smaller cubes will have at least two distinct colors on their faces?
+
+ans - 44
 
