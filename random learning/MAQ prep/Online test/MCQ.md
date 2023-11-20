@@ -27,3 +27,14 @@ ans - 44
 8. There are two types of people living in what is land-X type and Y type. The X type of inhabitants always speak the truth and the Y type of inhabitants always lie.
 Chunmun says, "According to Munu, I always speak the truth." Which of the following is a correct
 ans - munu has to be of type X
+
+
+10. ## you are desigining a complex software systemm for a robotic company. the system will have various types of robots, each with different capabilities. some robots can fly, some can swin and some can do both.All robots must have a common method to report their status.Which programming construct(s) would bex most suitable for defining the common behavior and enforcing it across different types of robots in this scenario? 
+- An abstract class Robot with a method for reporting status and separate interfaces Flyable and Swimmable for specitic abilities. 
+- An abstract class Robot with a method for reporting status, an interface Flyable for flying robots, and an interface Swimmable for swimming robots.
+- An interface Robot with methods for flying, swimming, and a default method for reporting status.
+- An abstract class Robot with methods for flying, swimming, and reporting
+
+ans -  An abstract class Robot with a method for reporting status and separate interfaces Flyable and Swimmable for specitic abilities. 
+
+11. 
