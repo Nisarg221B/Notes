@@ -2,10 +2,13 @@
 #flutter-riverpod
 #flutter-statemanagement
 
-There are three types of providers
+There are six types of providers
 - Provider - (provides immutable values - read only widget)
 - StateProvider - (upgrade over Provider - uses notifier to control state )
 - StateNotifier and StateNotifierProvider
+- FutureProvider
+- StreamProvider
+- ChangeNotifierProvider 
 
 #### Provider
 ```dart
