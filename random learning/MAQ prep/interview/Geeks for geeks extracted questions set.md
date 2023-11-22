@@ -49,14 +49,15 @@
 - He assigned me a coding question based on a puzzle, so I had to solve that puzzle and find a pattern in it, followed by coding the same using pen and paper.
 
 - Normalization, 1NF, 2NF, 3NF, BCNF.
+- Why Normalization and de-normalization?
+- 3NF and how it is better than 2NF.
 - JOINS - DBMS - questions like self-join
 - ACID Properties
+
 - OOP - polymorphism, runtime-polymorphism, code for function overloading and function overriding
--  ACID Properties.
-- Delete, Drop and Truncate
-- Why Normalization and de-normalization?
+
 - Difference between Primary key and foreign key
-- 3NF and how it is better than 2NF.
+
 - ML Concepts as I mentioned in my resume. 
 - Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
 - Thrashing 
