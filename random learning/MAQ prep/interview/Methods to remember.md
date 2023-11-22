@@ -1,4 +1,14 @@
+### SQL
 
+STRING
+- substring( string, a, b) - substr from a to b
+- LTRIM - left trim
+- RTRIM - right trim
+- length 
+- INSTR (string , pattern) - returns position 
+- Replace(string, 'a' , 'b') - replaces a with b
+- Concat(string 1 , string 2 , string 3)
+- 
 ### Strings
 
 - string to int  -> *stoi , stoll , stol* 
