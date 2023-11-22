@@ -5,12 +5,16 @@
 - [Check if a number is Palindrome with both recursive and iterative approach](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/) math
 - [largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) stack
 - [Maximum sum such that no two elements are adjacent (Stickler Thief)](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/) DP
-- [snake and ladder problem](https://www.geeksforgeeks.org/snake-ladder-problem-2/)
+- [snake and ladder problem](https://www.geeksforgeeks.org/snake-ladder-problem-2/) dp
+- [N-Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) backtracking
+- [Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/) recursion
+- 
 - 
 
 ### SQL
 
 - Finding second highest salary in a department
+- perform A-B without using the minus operation
 - SQL queries based on Joins, Correlated queries, and Subqueries
 
 ### Core questions
