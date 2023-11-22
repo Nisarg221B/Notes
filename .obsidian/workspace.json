@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1d553548524bb3",
+        "id": "e427780e654249e5",
         "type": "tabs",
         "children": [
           {
-            "id": "a88749e1787c63a3",
+            "id": "1f417d1c8efe63f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/MAQ prep/Online test/MCQ.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/MAQ prep/Online test/MCQ.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/MAQ prep/Online test/MCQ.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/MAQ prep/Online test/MCQ.md"
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md"
               }
             }
           },
@@ -168,9 +168,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a88749e1787c63a3",
+  "active": "1f417d1c8efe63f3",
   "lastOpenFiles": [
+    "random learning/MAQ prep/interview/Methods to remember.md",
+    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
     "random learning/MAQ prep/Online test/MCQ.md",
+    "random learning/MAQ prep/interview",
     "random learning/MAQ prep/Online test",
     "random learning/MAQ prep",
     "random learning/ION prep/HR questions.md",
@@ -198,8 +201,6 @@
     "random learning/Ones in a month.md",
     "random learning/Untitled.md",
     "random learning/ION prep/Market Segmantation stats.md",
-    "random learning/ION prep/Food Recommendation system.md",
-    "random learning/ION prep/Ion Group Technical Interview.md",
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST",
@@ -214,7 +215,6 @@
     "images/Pasted image 20230917235929.png",
     "images/Pasted image 20230917235731.png",
     "Technical Learning/Untitled",
-    "Technical Learning/JavaScript",
-    "Technical Learning/Node"
+    "Technical Learning/JavaScript"
   ]
 }
