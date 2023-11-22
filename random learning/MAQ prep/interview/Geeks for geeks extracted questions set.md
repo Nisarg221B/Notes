@@ -31,7 +31,9 @@
 - [Tower of hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
 - [Common elements](https://practice.geeksforgeeks.org/problems/common-elements5420/1)
 - [Nth node from the end of the linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
-- 
+- [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+- [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+- [Two water Jug problem](https://practice.geeksforgeeks.org/problems/two-water-jug-problem3402/1)
 
 ### SQL
 
