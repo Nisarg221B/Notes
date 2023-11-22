@@ -12,6 +12,10 @@ STRING
 DATE
 - YEAR(date) -> returns year from the date in int
 - MONTH(date) -> returns month from the date
+
+LIMIT Offset(optional) , row_count 
+LIMIT 5,10 -> 10 rows starting from row 6
+LIMIT 5 -> 5 rows from top
 ### Strings
 
 - string to int  -> *stoi , stoll , stol* 
