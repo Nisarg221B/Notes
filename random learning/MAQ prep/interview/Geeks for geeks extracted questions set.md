@@ -53,11 +53,14 @@
 - 3NF and how it is better than 2NF.
 - JOINS - DBMS - questions like self-join
 - ACID Properties
-
-- OOP - polymorphism, runtime-polymorphism, code for function overloading and function overriding
-
+- What are joins in SQl.Difference between left outer join and right outer join?  
+- write Three commands for DDL,DML,DCL?  
+- What is Transaction in DBMS and also tell the ACID properties?  
+- What is RollBack & savepoint in Transactions
 - Difference between Primary key and foreign key
 
+
+- OOP - polymorphism, runtime-polymorphism, code for function overloading and function overriding
 - ML Concepts as I mentioned in my resume. 
 - Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
 - Thrashing 
@@ -81,14 +84,14 @@
 - Lot of questions was asked based on my projects( Machine Learning and neural network).  
 - What is deadlock.what are the conditions for occurring deadlock.  
 - What is Semaphore? Types of semaphore.  
-- What are joins in SQl.Difference between left outer join and right outer join?  
-- write Three commands for DDL,DML,DCL?  
-- What is Transaction in DBMS and also tell the ACID properties?  
-- What is RollBack & savepoint in Transactions.
+
+
 - Static Keyword in c++.  
 - Final keyword in java.  
 - What is constructor and types of constructor.
-- what is Function Overloadig & function overriding and virtual functions.
+- what is Function Overloadig & function overriding and virtual function.
+
+
 ### Puzzles 
 
 - [How Many Squares On A Chessboard?](https://www.teachingideas.co.uk/maths/how-many-squares-on-a-chessboard/) Give general formula for square in (n*n) board and prove it.

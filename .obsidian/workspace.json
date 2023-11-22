@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/MAQ prep/interview/Methods to remember.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83ff9a6366207d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random learning/ION prep/Food Recommendation system.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f51d33cf410fb396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random learning/ION prep/HR questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/MAQ prep/interview/Methods to remember.md",
+                "file": "random learning/ION prep/HR questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/MAQ prep/interview/Methods to remember.md",
+                "file": "random learning/ION prep/HR questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/MAQ prep/interview/Methods to remember.md"
+                "file": "random learning/ION prep/HR questions.md"
               }
             }
           },
@@ -168,8 +195,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1f417d1c8efe63f3",
+  "active": "f51d33cf410fb396",
   "lastOpenFiles": [
+    "random learning/ION prep/ION Group details.md",
+    "random learning/ION prep/Ion Group Technical Interview.md",
+    "random learning/ION prep/Market Segmantation stats.md",
+    "random learning/ION prep/SDLC.md",
+    "random learning/ION prep/Food Recommendation system.md",
     "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
     "random learning/MAQ prep/interview/Methods to remember.md",
     "().md",
@@ -179,7 +211,6 @@
     "random learning/MAQ prep",
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/ION Group details.md",
     "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
     "Technical Learning/Git.md",
     "task tracking.md",
@@ -197,10 +228,6 @@
     "random learning/Recipes.md",
     "random learning/Companies to look out for.md",
     "random learning/Messages.md",
-    "random learning/NR Narayana Murthy Lecture.md",
-    "random learning/Random Thoughts.md",
-    "random learning/Ones in a month.md",
-    "random learning/Untitled.md",
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST",
