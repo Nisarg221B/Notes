@@ -8,7 +8,8 @@
 - [snake and ladder problem](https://www.geeksforgeeks.org/snake-ladder-problem-2/) dp
 - [N-Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) backtracking
 - [Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/) recursion
-- 
+- [Recursively remove all adjacent duplicates](https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/)
+- [Decode a string recursively encoded as count followed by substring](https://www.geeksforgeeks.org/decode-string-recursively-encoded-count-followed-substring/)
 - 
 
 ### SQL
@@ -26,7 +27,23 @@
 - JOINS - DBMS - questions like self-join
 - ACID Properties
 - OOP - polymorphism, runtime-polymorphism, code for function overloading and function overriding
-- 
+-  ACID Properties.
+- Delete, Drop and Truncate
+- Why Normalization and de-normalization?
+- Difference between Primary key and foreign key
+- 3NF and how it is better than 2NF.
+- ML Concepts as I mentioned in my resume. 
+- Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
+- Thrashing 
+- OOPS four pillars
+- Difference between Multiprogramming and Multithreading
+- Why Java is not 100% OOPS.
+- Why Virtual Memory
+- The life cycle of a process.
+Q5-What is indexing and hashing in DBMS.  
+Q6-Interface in Java.  
+Q7-Difference between Abstraction and Encapsulation.  
+Q8-Multithreading in Java.
 
 
 ### HR Questions
