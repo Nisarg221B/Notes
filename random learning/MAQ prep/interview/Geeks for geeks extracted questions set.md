@@ -1,8 +1,8 @@
 
 - [ ] [Check for Balanced Brackets in an expression (well-formedness)](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/) stack
-- [rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) backtracking
-- [next greatest element](https://www.geeksforgeeks.org/next-greater-element/) stack 
-- [Check if a number is Palindrome with both recursive and iterative approach](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/) math
+- [ ] [rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) backtracking
+- [ ] [next greatest element](https://www.geeksforgeeks.org/next-greater-element/) stack 
+- [ ] [Check if a number is Palindrome with both recursive and iterative approach](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/) math
 - [largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) stack
 - [Maximum sum such that no two elements are adjacent (Stickler Thief)](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/) DP
 - [snake and ladder problem](https://www.geeksforgeeks.org/snake-ladder-problem-2/) dp
