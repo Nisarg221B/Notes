@@ -14,6 +14,8 @@
 - [serialize deserialize binary tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 - [Find the occurrences of digit d in the range (0..n) ](https://www.geeksforgeeks.org/find-the-occurrences-of-y-in-the-range-of-x/)
 - [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
+- [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
+- [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
 - 
 
 ### SQL
