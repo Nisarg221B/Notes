@@ -16,6 +16,10 @@
 - [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 - [Nuts and Bolts Problem](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)
 - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
+- [calculate the prime numbers up to N Sieve of Eratosthenes](https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1)
+- [detect loop in link-list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)
+- [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
 - 
 
 ### SQL
@@ -59,7 +63,10 @@ Q8-Multithreading in Java.
 
 - [How Many Squares On A Chessboard?](https://www.teachingideas.co.uk/maths/how-many-squares-on-a-chessboard/)
 - make 120 with any number of 0s using any arithmetic operators
-- 
+- horse racing puzzle
+- coin puzzle 
+- weighting scale puzzle
+- camle puzzle
 ### HR Questions
 
 - He asked me about my projects and what technologies I used in them.
