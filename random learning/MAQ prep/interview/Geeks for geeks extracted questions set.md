@@ -61,11 +61,15 @@
 - Difference between Primary key and foreign key
 
 
-- OOP - polymorphism, runtime-polymorphism, code for function overloading and function overriding
+- OOP - polymorphism, runtime-polymorphism, code for function overloading and 
+- OOPS four pillars
+- function overriding
+
 - ML Concepts as I mentioned in my resume. 
 - Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
+
+
 - Thrashing 
-- OOPS four pillars
 - Difference between Multiprogramming and Multithreading
 - Why Java is not 100% OOPS.
 - Why Virtual Memory
