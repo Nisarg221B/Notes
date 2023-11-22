@@ -39,8 +39,9 @@
 
 - Finding second highest salary in a department
 - perform A-B without using the minus operation
+
 - Given 2 tables of employee containing employee_id,employee_name and department containing employee_id(foreign key), dept_id find the name of the employee who worked in maximum no. of departments.
-- SQL queries based on Joins, Correlated queries, and Subqueries
+
 - you have given a employee table in which you have their salary and employee name.  
      Write a query to find the nth highest salary and the employee name.
 ### Core questions
