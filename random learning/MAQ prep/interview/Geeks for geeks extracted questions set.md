@@ -10,6 +10,10 @@
 - [Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/) recursion
 - [Recursively remove all adjacent duplicates](https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/)
 - [Decode a string recursively encoded as count followed by substring](https://www.geeksforgeeks.org/decode-string-recursively-encoded-count-followed-substring/)
+- [Permutation of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) backtracking
+- [serialize deserialize binary tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+- [Find the occurrences of digit d in the range (0..n) ](https://www.geeksforgeeks.org/find-the-occurrences-of-y-in-the-range-of-x/)
+- [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 - 
 
 ### SQL
@@ -44,8 +48,16 @@ Q5-What is indexing and hashing in DBMS.
 Q6-Interface in Java.  
 Q7-Difference between Abstraction and Encapsulation.  
 Q8-Multithreading in Java.
+4. What is [indexing in DBMS?](https://www.geeksforgeeks.org/indexing-in-databases-set-1/) Types of indexing? How you can implement indexing using B-tree and B+ tree? Lot of discussion on [B-tree](https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/) and B+ tree-insertion and deletion.  
+5. What is [BST](https://www.geeksforgeeks.org/category/binary-search-tree/)? Give a real-life example.  
+6. What are the types of link list? How to detect and remove a loop in link list?  
+7. Lot of questions was asked based on my projects( Machine Learning and neural network).  
 
+### Puzzles 
 
+- [How Many Squares On A Chessboard?](https://www.teachingideas.co.uk/maths/how-many-squares-on-a-chessboard/)
+- make 120 with any number of 0s using any arithmetic operators
+- 
 ### HR Questions
 
 - He asked me about my projects and what technologies I used in them.
