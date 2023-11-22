@@ -8,7 +8,10 @@ STRING
 - INSTR (string , pattern) - returns position 
 - Replace(string, 'a' , 'b') - replaces a with b
 - Concat(string 1 , string 2 , string 3)
-- 
+
+DATE
+- YEAR(date) -> returns year from the date in int
+- MONTH(date) -> returns month from the date
 ### Strings
 
 - string to int  -> *stoi , stoll , stol* 
