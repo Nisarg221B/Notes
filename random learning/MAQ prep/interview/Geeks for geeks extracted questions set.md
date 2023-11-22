@@ -1,5 +1,5 @@
 
-- [Check for Balanced Brackets in an expression (well-formedness)](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/) stack
+- [ ] [Check for Balanced Brackets in an expression (well-formedness)](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/) stack
 - [rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) backtracking
 - [next greatest element](https://www.geeksforgeeks.org/next-greater-element/) stack 
 - [Check if a number is Palindrome with both recursive and iterative approach](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/) math
@@ -20,14 +20,27 @@
 - [detect loop in link-list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)
 - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+- [Recursive sequence](https://practice.geeksforgeeks.org/problems/recursive-sequence1611/1)
+- [Print individual digits as words without using if or switch](https://www.geeksforgeeks.org/print-individual-digits-as-words-without-using-if-or-switch/)
+- [Nearest prime less than given number n](https://www.geeksforgeeks.org/nearest-prime-less-given-number-n/)
+- [Add two numbers without using arithmetic operators](https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/)
+- [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
+- [Write code for Sudoku Game Problem](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0) and discuss time complexity of the code which was written by me
+- [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+- [Find median in stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)
+- [Tower of hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+- [Common elements](https://practice.geeksforgeeks.org/problems/common-elements5420/1)
+- [Nth node from the end of the linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - 
 
 ### SQL
 
 - Finding second highest salary in a department
 - perform A-B without using the minus operation
+- Given 2 tables of employee containing employee_id,employee_name and department containing employee_id(foreign key), dept_id find the name of the employee who worked in maximum no. of departments.
 - SQL queries based on Joins, Correlated queries, and Subqueries
-
+- you have given a employee table in which you have their salary and employee name.  
+     Write a query to find the nth highest salary and the employee name.
 ### Core questions
 
 - Check if a number is Palindrome or Not with both the Iterative and Recursive approaches.
@@ -50,23 +63,42 @@
 - Why Java is not 100% OOPS.
 - Why Virtual Memory
 - The life cycle of a process.
-Q5-What is indexing and hashing in DBMS.  
-Q6-Interface in Java.  
-Q7-Difference between Abstraction and Encapsulation.  
-Q8-Multithreading in Java.
-4. What is [indexing in DBMS?](https://www.geeksforgeeks.org/indexing-in-databases-set-1/) Types of indexing? How you can implement indexing using B-tree and B+ tree? Lot of discussion on [B-tree](https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/) and B+ tree-insertion and deletion.  
-5. What is [BST](https://www.geeksforgeeks.org/category/binary-search-tree/)? Give a real-life example.  
-6. What are the types of link list? How to detect and remove a loop in link list?  
-7. Lot of questions was asked based on my projects( Machine Learning and neural network).  
-
+- What is indexing and hashing in DBMS.  
+- Interface in Java.  
+- Difference between Abstraction and Encapsulation.  
+- Multithreading in Java.
+- What is [indexing in DBMS?](https://www.geeksforgeeks.org/indexing-in-databases-set-1/) Types of indexing? How you can implement indexing using B-tree and B+ tree? Lot of discussion on [B-tree](https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/) and B+ tree-insertion and deletion.  
+- What are clustered and non-clustered indexes.
+- Real life application of Data Structures.
+- Which Data structure used in printer.  
+- Which Data structure used for maintaining Dictionary.(Trie)  
+- What is the searching and space complexity of your Trie for maintaining Dictionary.
+- What is [BST](https://www.geeksforgeeks.org/category/binary-search-tree/)? Give a real-life example.  
+- What are the types of link list? How to detect and remove a loop in link list?  
+- Lot of questions was asked based on my projects( Machine Learning and neural network).  
+- What is deadlock.what are the conditions for occurring deadlock.  
+- What is Semaphore? Types of semaphore.  
+- What are joins in SQl.Difference between left outer join and right outer join?  
+- write Three commands for DDL,DML,DCL?  
+- What is Transaction in DBMS and also tell the ACID properties?  
+- What is RollBack & savepoint in Transactions.
+- Static Keyword in c++.  
+- Final keyword in java.  
+- What is constructor and types of constructor.
+- what is Function Overloadig & function overriding and virtual functions.
 ### Puzzles 
 
-- [How Many Squares On A Chessboard?](https://www.teachingideas.co.uk/maths/how-many-squares-on-a-chessboard/)
+- [How Many Squares On A Chessboard?](https://www.teachingideas.co.uk/maths/how-many-squares-on-a-chessboard/) Give general formula for square in (n*n) board and prove it.
 - make 120 with any number of 0s using any arithmetic operators
 - horse racing puzzle
 - coin puzzle 
 - weighting scale puzzle
 - camle puzzle
+- 2 jar one contain 4 red and other one 4 blue randomly select any jar maximize the probability of selecting red ball by rearranging the balls.
+- Given a pastry. someone eat it from one side how you divide it into 2 equal parts.
+- Egg droping Puzzel. I give solution of 2 egg 100 floor puzzle but then said to give the generalized formula for it then i solve it using DP.
+- Given a rectangle and a circle and a point lie on circle and center lie line y=x and 1 point of rectangle lie on origin. circle put into rectangle find the radius of circle.
+- Given 100 balls in which one ball is defective.you also have a balance tell minimum number of steps to find the defective ball.
 ### HR Questions
 
 - He asked me about my projects and what technologies I used in them.
