@@ -51,8 +51,8 @@
 
 - [x] Normalization, 1NF, 2NF, 3NF, BCNF. ✅ 2023-11-23
 - [x] Why Normalization and de-normalization? ✅ 2023-11-23
-- [ ] 3NF and how it is better than 2NF.
-- [ ] JOINS - DBMS - questions like self-join
+- [x] 3NF and how it is better than 2NF. ✅ 2023-11-23
+- [x] JOINS - DBMS - questions like self-join ✅ 2023-11-23
 - [x] ACID Properties ✅ 2023-11-23
 - [x] What are joins in SQl.Difference between left outer join and right outer join? ✅ 2023-11-23
 - [x] write Three commands for DDL,DML,DCL? ✅ 2023-11-23
@@ -61,9 +61,16 @@
 - [x] Difference between Primary key and foreign key ✅ 2023-11-23
 
 
-- OOP - polymorphism, runtime-polymorphism, code for function overloading and 
-- OOPS four pillars
-- function overriding
+- [x] OOP - polymorphism, runtime-polymorphism, code for function overloading and ✅ 2023-11-23
+- [x] OOPS four pillars ✅ 2023-11-23
+- [x] function overriding ✅ 2023-11-23
+
+- [x] Final keyword in java. ✅ 2023-11-23
+- [x] Static Keyword in c++. ✅ 2023-11-23
+- [x] What is constructor and types of constructor. ✅ 2023-11-23
+- [x] what is Function Overloadig & function overriding and virtual function. ✅ 2023-11-23
+
+
 
 - ML Concepts as I mentioned in my resume. 
 - Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
@@ -90,11 +97,6 @@
 - What is deadlock.what are the conditions for occurring deadlock.  
 - What is Semaphore? Types of semaphore.  
 
-
-- Static Keyword in c++.  
-- Final keyword in java.  
-- What is constructor and types of constructor.
-- what is Function Overloadig & function overriding and virtual function.
 
 
 ### Puzzles 
