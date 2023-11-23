@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
-                "mode": "preview",
+                "file": "random learning/MAQ prep/interview/Normal forms.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "file": "random learning/MAQ prep/interview/Normal forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "file": "random learning/MAQ prep/interview/Normal forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md"
+                "file": "random learning/MAQ prep/interview/Normal forms.md"
               }
             }
           },
@@ -170,6 +170,12 @@
   },
   "active": "1f417d1c8efe63f3",
   "lastOpenFiles": [
+    "images/Screenshot 2023-11-23 at 8.17.57 AM.png",
+    "images/Screenshot 2023-11-23 at 8.16.38 AM.png",
+    "images/Screenshot 2023-11-23 at 8.13.15 AM.png",
+    "images/Screenshot 2023-11-23 at 8.08.43 AM.png",
+    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+    "random learning/MAQ prep/interview/Normal forms.md",
     "random learning/ION prep/Food Recommendation system.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
@@ -177,7 +183,6 @@
     "random learning/ION prep/ION Day Prep.md",
     "random learning/ION prep/HR questions.md",
     "random learning/ION prep/SDLC.md",
-    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
     "random learning/MAQ prep/interview/Methods to remember.md",
     "().md",
     "random learning/MAQ prep/Online test/MCQ.md",
@@ -199,8 +204,6 @@
     "Technical Learning/Flutter/Flutter UI/Widgets/Understanding size constraints.md",
     "Technical Learning/Dart/3. null_saftey/dart-null safety.md",
     "random learning/Recipes.md",
-    "random learning/Companies to look out for.md",
-    "random learning/Messages.md",
     "Projects/Ticket app",
     "Projects",
     "Technical Learning/Designing REST",
@@ -211,9 +214,6 @@
     "images/Pasted image 20230918200926.png",
     "images/Pasted image 20230918195525.png",
     "images/Screenshot 2023-09-18 at 5.36.47 PM.png",
-    "images/Screenshot 2023-09-18 at 5.33.47 PM.png",
-    "images/Pasted image 20230917235929.png",
-    "images/Pasted image 20230917235731.png",
     "Technical Learning/Untitled",
     "Technical Learning/JavaScript"
   ]
