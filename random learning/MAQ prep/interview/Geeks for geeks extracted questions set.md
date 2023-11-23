@@ -49,16 +49,16 @@
 - Check if a number is Palindrome or Not with both the Iterative and Recursive approaches.
 - He assigned me a coding question based on a puzzle, so I had to solve that puzzle and find a pattern in it, followed by coding the same using pen and paper.
 
-- Normalization, 1NF, 2NF, 3NF, BCNF.
-- Why Normalization and de-normalization?
-- 3NF and how it is better than 2NF.
-- JOINS - DBMS - questions like self-join
-- ACID Properties
-- What are joins in SQl.Difference between left outer join and right outer join?  
-- write Three commands for DDL,DML,DCL?  
-- What is Transaction in DBMS and also tell the ACID properties?  
-- What is RollBack & savepoint in Transactions
-- Difference between Primary key and foreign key
+- [x] Normalization, 1NF, 2NF, 3NF, BCNF. ✅ 2023-11-23
+- [x] Why Normalization and de-normalization? ✅ 2023-11-23
+- [ ] 3NF and how it is better than 2NF.
+- [ ] JOINS - DBMS - questions like self-join
+- [x] ACID Properties ✅ 2023-11-23
+- [x] What are joins in SQl.Difference between left outer join and right outer join? ✅ 2023-11-23
+- [x] write Three commands for DDL,DML,DCL? ✅ 2023-11-23
+- [x] What is Transaction in DBMS and also tell the ACID properties? ✅ 2023-11-23
+- [x] What is RollBack & savepoint in Transactions ✅ 2023-11-23
+- [x] Difference between Primary key and foreign key ✅ 2023-11-23
 
 
 - OOP - polymorphism, runtime-polymorphism, code for function overloading and 
