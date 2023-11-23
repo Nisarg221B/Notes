@@ -8,11 +8,6 @@ segmentation criteria are geographic, socio- demographic(age, gender, income and
 Geographic - States , charging stations and sales - gov open data
 interests , preferences  - collected us data and surveyed indian consumers to see if theres any correlation.
 
-**details while collecting the data**
-- Free from sampling bias & include sufficient sample size to have higher confidence level and lesser margin of error.
-- Free from response style.
-(use binary or metric data to avoid response style)
-
 
 **Extracted segments**
 
