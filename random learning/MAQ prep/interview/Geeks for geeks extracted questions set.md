@@ -72,8 +72,8 @@
 
 
 
-- ML Concepts as I mentioned in my resume. 
-- Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project.
+- [x] ML Concepts as I mentioned in my resume. ✅ 2023-11-23
+- [x] Questions are like Supervised and unsupervised learning, Classification and regression, Activation Functions, Loss Functions, etc., All the questions are based on my project. ✅ 2023-11-23
 
 
 - Thrashing 
