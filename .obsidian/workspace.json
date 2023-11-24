@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "file": "random learning/Car selection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "file": "random learning/Car selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+                "file": "random learning/Car selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md"
+                "file": "random learning/Car selection.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   "active": "7f5cb019d051aac1",
   "lastOpenFiles": [
     "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+    "random learning/Car selection.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Food Recommendation system.md",
     "Technical Learning/Google Data-analytics course/Ask phase/Asking effective questions.md",
@@ -202,7 +203,6 @@
     "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
     "Technical Learning/Git.md",
     "task tracking.md",
-    "Technical Learning/Flutter/Flutter UI/Widgets/Basic Widgets.md",
     "Technical Learning/Flutter/State Management/Riverpod",
     "Technical Learning/Flutter/State Management",
     "Projects/Ticket app",
