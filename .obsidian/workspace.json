@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "288a5533ba79bbdf",
+        "id": "90e4dfa682e97259",
         "type": "tabs",
         "children": [
           {
-            "id": "31ee77b1e7b8ad4d",
+            "id": "7f5cb019d051aac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3f983d4ed997280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random learning/ION prep/Market Segmantation stats.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/ION prep/Market Segmantation stats.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/ION prep/Market Segmantation stats.md",
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/ION prep/Market Segmantation stats.md"
+                "file": "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md"
               }
             }
           },
@@ -182,11 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b3f983d4ed997280",
+  "active": "7f5cb019d051aac1",
   "lastOpenFiles": [
     "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
-    "random learning/ION prep/Food Recommendation system.md",
     "random learning/ION prep/Market Segmantation stats.md",
+    "random learning/ION prep/Food Recommendation system.md",
     "Technical Learning/Google Data-analytics course/Ask phase/Asking effective questions.md",
     "Technical Learning/Google Data-analytics course/Foundations-Data Everywhere/key data analyst skills.md",
     "Technical Learning/Google Data-analytics course/Foundations-Data Everywhere/Introduction to data analytics.md",
