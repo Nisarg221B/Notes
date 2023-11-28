@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90e4dfa682e97259",
+        "id": "6695de1df51ab779",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5cb019d051aac1",
+            "id": "76bbbf7c9611b9aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learning/Car selection.md",
+                "file": "random learning/MAQ prep/Salary negotiation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random learning/Car selection.md",
+                "file": "random learning/MAQ prep/Salary negotiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "random learning/Car selection.md",
+                "file": "random learning/MAQ prep/Salary negotiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random learning/Car selection.md"
+                "file": "random learning/MAQ prep/Salary negotiation.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7f5cb019d051aac1",
+  "active": "76bbbf7c9611b9aa",
   "lastOpenFiles": [
-    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
+    "random learning/MAQ prep/Salary negotiation.md",
     "random learning/Car selection.md",
+    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Food Recommendation system.md",
     "Technical Learning/Google Data-analytics course/Ask phase/Asking effective questions.md",
@@ -202,7 +203,6 @@
     "random learning/MAQ prep",
     "Technical Learning/Flutter/State Management/Riverpod/Basic.md",
     "Technical Learning/Git.md",
-    "task tracking.md",
     "Technical Learning/Flutter/State Management/Riverpod",
     "Technical Learning/Flutter/State Management",
     "Projects/Ticket app",
