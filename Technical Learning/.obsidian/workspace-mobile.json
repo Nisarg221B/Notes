@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Flutter UI/Widgets/Basic Widgets.md",
-                "mode": "source",
+                "file": "Coding principles/SOLID  Agile OO design.md",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "cce05d831f11ac5f"
+          }
+        ]
+      },
+      {
+        "id": "46d01378969cc0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0e2ddf9a420b40",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Coding principles/SOLID  Agile OO design.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1292237628449575,
+                  "close": true
+                }
+              }
+            },
+            "group": "cce05d831f11ac5f"
           }
         ]
       }
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Flutter/Flutter UI/Widgets/Basic Widgets.md",
+            "file": "Coding principles/SOLID  Agile OO design.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Flutter/Flutter UI/Widgets/Basic Widgets.md",
+            "file": "Coding principles/SOLID  Agile OO design.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Flutter/Flutter UI/Widgets/Basic Widgets.md"
+            "file": "Coding principles/SOLID  Agile OO design.md"
           }
         }
       }
@@ -131,10 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af64a17d1604473f",
+  "active": "7bfee053990a5b17",
   "lastOpenFiles": [
-    "Linux/Unix file system layout.md",
+    "Flutter/Flutter UI/Projects/Expense app learnings.md",
+    "Flutter/Flutter UI/Introduction.md",
+    "Figma/Margin and padding.md",
+    "Figma/Important things to revise in figma.md",
+    "Coding principles/SOLID  Agile OO design.md",
     "Flutter/Flutter UI/Widgets/Basic Widgets.md",
+    "Linux/Unix file system layout.md",
     "Linux/OS package manager - homebrew.md",
     "Dart/3. null_saftey/dart-null safety.md",
     "Dart/1. Intro/The Platforms.md",
@@ -154,12 +202,7 @@
     "Android Development.md",
     "Google Data-analytics course/Foundations-Data Everywhere/Data life cycle.md",
     "Git Learning.md",
-    "ML notes/Deep Racer Notes/Reinforcement Learning/Introduction to reinforcement learning.md",
-    "Rest API.md",
     "Google Data-analytics course/Capstone project/Case Study pdfs/CS1.pdf",
-    "Google Data-analytics course/Foundations-Data Everywhere/Get things clear - World of data.md",
-    "Google Data-analytics course/Ask phase/Dashboards.md",
-    "Google Data-analytics course/Ask phase/non-tech.md",
     "Google Data-analytics course/emails-tips/aDUmiL21TUi1Joi9tU1Igw_e58ee4be99f44b2dabe58c78bde4e25a_Course-3-Scenario-2_Second-Interview-Email.pdf",
     "Google Data-analytics course/emails-tips/q1pD2IeQRTmaQ9iHkFU54Q_b03d9850ab8a48b4806df61e7e56346c_Human-Resources-Director-Email.pdf",
     "Google Data-analytics course/emails-tips/bad.png",

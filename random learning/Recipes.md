@@ -1,4 +1,4 @@
-##### 1. **Panner- Parantha stuffing**
+##### 1. Panner- Parantha stuffing
 
 - Finally cut onion , capsicum , garlic , Green chilli.
 - sauté the Paneer
