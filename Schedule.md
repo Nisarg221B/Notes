@@ -5,29 +5,28 @@
 - 3 sessions from Norman book 
 - 20 words each day from the excel list 
 
-**2th May -  15th May**
+**10th June -  22th June**
 - Finish Norman book  - 25 pages regularly
 
-**13th May** - Mock test
+**23rd June - Mock test
 
-**15th May - 30th May**
+**24th June - 30th June**
 - Excel list
 - Quants
 ### Daily schedule 
 **12am - 6am** - Sleep
-**6:30am - 8:30am** - Study verbal
-**8:30 am - 6/6:30pm** - Office
+**6:25am - 8:40am** - Study verbal (2.25 hr)
+**8:40am - 6/6:30pm** - Office ( 8.5 - 9.5 hrs)
 
 ---
-**6/6:30pm - 8:00pm** - Study in office
-**8:30pm - 10:00pm** - Gym
+**6/6:30pm - 8:30pm** - Gym
+**8:30pm - 10:00pm** - Fresh + Dinner 
 
 ---
 
-**10:15pm - 11:15pm** -  Dinner + Fresh 
-**11:15pm - 12am** - Rest + complete whatever is remaining
+**10:15pm - 11:45pm** - GRE (1.5 hr)
 
-**Total Study hours** -> 2hr + 1.5hr - 2hr -> 3.5 - 4hr on weekdays
+**Total Study hours** ->3.75 hrs
 **Gym** -> 1.5 hrs 
 **Travel time** ->15mins + 30 mins + 15 mins =>  1 hr
 **Sleep** -> 6 hrs

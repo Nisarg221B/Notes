@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=Imkux8Mu7dU
 | **Breaks**               | One 10-minute break                                                  | No Breaks on New GRE                            |
 | **Duration**             | 3 hours, 45 minutes                                                  | 1 hour, 58 minutes                              |
 
-
 Quantitative Section:
 
 - **Number properties:** exponents, roots, prime numbers, even/odd numbers, number lines, real numbers, integers, etc.

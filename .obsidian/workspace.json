@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "606b0ae765807c3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +189,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "52e715d92a0c0525",
+  "active": "606b0ae765807c3c",
   "lastOpenFiles": [
-    "task tracking.md",
     "Schedule.md",
     "GRE.md",
-    "MAQ experience.md",
     "2024-03-25.md",
+    "task tracking.md",
+    "MAQ experience.md",
     "random learning/Recipes.md",
     "random learning/Messages.md",
     "random learning/Paths.md",
