@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRE.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "606b0ae765807c3c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRE.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRE.md",
+                "file": "Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRE.md"
+                "file": "Schedule.md"
               }
             }
           },
@@ -189,10 +178,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "606b0ae765807c3c",
+  "active": "52e715d92a0c0525",
   "lastOpenFiles": [
-    "Schedule.md",
     "GRE.md",
+    "Schedule.md",
     "2024-03-25.md",
     "task tracking.md",
     "MAQ experience.md",
