@@ -3,4 +3,5 @@
 - Nastha pani bag - rain cover
 - Energy bars
 - tripod
+- chattri 
 - 

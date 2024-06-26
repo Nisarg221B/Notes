@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md"
+                "file": "Schedule.md"
               }
             }
           },
@@ -207,10 +206,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "398c31399b8e18fa",
+  "active": "52e715d92a0c0525",
   "lastOpenFiles": [
-    "Things to get.md",
     "Planning.md",
+    "Things to get.md",
     "Schedule.md",
     "random learning/Paths.md",
     "random learning/Random Thoughts.md",
