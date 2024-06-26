@@ -13,7 +13,7 @@
 **24th June - 30th June**
 - Excel list
 - Quants
-### Daily schedule 
+## Daily schedule 
 **12am - 6am** - Sleep
 **6:25am - 8:40am** - Study verbal (2.25 hr)
 **8:40am - 6/6:30pm** - Office ( 8.5 - 9.5 hrs)
