@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "b052a415972de3d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "398c31399b8e18fa",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +217,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "52e715d92a0c0525",
+  "active": "b052a415972de3d9",
   "lastOpenFiles": [
     "Planning.md",
     "Things to get.md",
