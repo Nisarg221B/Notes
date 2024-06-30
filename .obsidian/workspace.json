@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "b052a415972de3d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "398c31399b8e18fa",
             "type": "leaf",
             "state": {
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule.md",
+                "file": "Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule.md"
+                "file": "Planning.md"
               }
             }
           },
@@ -217,11 +207,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b052a415972de3d9",
+  "active": "398c31399b8e18fa",
   "lastOpenFiles": [
+    "Schedule.md",
     "Planning.md",
     "Things to get.md",
-    "Schedule.md",
     "random learning/Paths.md",
     "random learning/Random Thoughts.md",
     "random learning/Recipes.md",
