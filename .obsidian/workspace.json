@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "398c31399b8e18fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13965ef4e5c0f42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to get.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md"
+                "file": "Schedule.md"
               }
             }
           },
@@ -207,10 +180,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "398c31399b8e18fa",
+  "active": "52e715d92a0c0525",
   "lastOpenFiles": [
-    "Schedule.md",
     "Planning.md",
+    "Schedule.md",
     "Things to get.md",
     "random learning/Paths.md",
     "random learning/Random Thoughts.md",
