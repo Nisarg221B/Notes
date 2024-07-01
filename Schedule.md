@@ -13,23 +13,16 @@
 **24th June - 30th June**
 - Excel list
 - Quants - done
+
+**1st July - 7th July**
+- Norman 
+	- 2hrs
+- Verbal Mangoosh + Practice (20 questions)
+	- 1:30 hr 
+- Quants practice 
+	- 1 hr : 10 mins - 2 chapters each day with 20 questions each
+	- 35 mins - 20 questions
 ## Daily schedule 
-**12am - 6am** - Sleep
-**6:25am - 8:40am** - Study verbal (2.25 hr)
-**8:40am - 6/6:30pm** - Office ( 8.5 - 9.5 hrs)
-
----
-**6/6:30pm - 8:30pm** - Gym
-**8:30pm - 10:00pm** - Fresh + Dinner 
-
----
-
-**10:15pm - 11:45pm** - GRE (1.5 hr)
-
-**Total Study hours** ->3.75 hrs
-**Gym** -> 1.5 hrs 
-**Travel time** ->15mins + 30 mins + 15 mins =>  1 hr
-**Sleep** -> 6 hrs
-**Office** -> 7:30 - 8 hrs
-**Dinner** -> 1 hr
-**Rest** -> 45 mins
+**7am - 12:45pm** - Study (5 hrs)
+**1 pm - 11:30pm** - Office
+**12:30pm - 6:30am** - Sleep
