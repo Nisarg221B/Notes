@@ -1,6 +1,5 @@
-
 **Every day Verbal**
-- 3 long passages 
+- 3 long passages
 - Flash cards
 - 3 sessions from Norman book 
 - 20 words each day from the excel list 
@@ -22,6 +21,7 @@
 - Quants practice 
 	- 1 hr : 10 mins - 2 chapters each day with 20 questions each
 	- 35 mins - 20 questions
+
 ## Daily schedule 
 **7am - 12:45pm** - Study (5 hrs)
 **1 pm - 11:30pm** - Office
