@@ -21,6 +21,12 @@
 - Quants practice 
 	- 1 hr : 10 mins - 2 chapters each day with 20 questions each
 	- 35 mins - 20 questions
+Sat - Norman 40 pages + Revision complete + quants 10 chapters
+Sun - Norman 40 pages + quants 10 chapters
+
+**8th July - 14th July**
+- Verbal Mangoosh + Practice
+
 ## Daily schedule 
 **7am - 12:45pm** - Study (5 hrs)
 **1 pm - 11:30pm** - Office
