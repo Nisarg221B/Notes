@@ -4,30 +4,26 @@
 - 3 sessions from Norman book 
 - 20 words each day from the excel list 
 
-**10th June -  22th June**
-- Finish Norman book  - 25 pages regularly
+_Plan_  
+- Verbal (2hr - 2.5 hrs)
+	1. Norman - 1 day - revision + 4 days of study  
+	1. Excel List of words - 75/80 words per day
+	2. Verbal Mangoosh + Practice (20 questions) + ETS Book
+	2. 5lb questions
+- Quants - 10 days
+	- 1 hr : 10 mins - 2 chapters each day with 20 questions each day
 
-**23rd June - Mock test
-
-**24th June - 30th June**
-- Excel list
-- Quants - done
-
-**1st July - 7th July**
-- Norman 
-	- 2hrs
-- Verbal Mangoosh + Practice (20 questions)
-	- 1:30 hr 
-- Quants practice 
-	- 1 hr : 10 mins - 2 chapters each day with 20 questions each
-	- 35 mins - 20 questions
-Sat - Norman 40 pages + Revision complete + quants 10 chapters
-Sun - Norman 40 pages + quants 10 chapters
-
-**8th July - 14th July**
-- Verbal Mangoosh + Practice
+- **9th July - 14th July**
+- **15th July - 21st July**
+- **22nd July - 28th July**
+20 days above
+- **29th July - 4th August**
+- **5th August - 11th August**
+14 days above
+### 12th August - D Day
 
 ## Daily schedule 
-**7am - 12:45pm** - Study (5 hrs)
-**1 pm - 11:30pm** - Office
-**12:30pm - 6:30am** - Sleep
+**8am - 11:30pm** - Study (3-3.5 hrs)
+**12:05 pm - 12:30am** - Office
+**1 pm - 7:00am** - Sleep
+

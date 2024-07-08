@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "7c4928c6f9c67b89",
@@ -182,13 +181,16 @@
   },
   "active": "52e715d92a0c0525",
   "lastOpenFiles": [
-    "Planning.md",
-    "Schedule.md",
+    "MAQ experience.md",
+    "GRE.md",
+    "2024-03-25.md",
     "Things to get.md",
+    "task tracking.md",
+    "Schedule.md",
+    "Planning.md",
     "random learning/Paths.md",
     "random learning/Random Thoughts.md",
     "random learning/Recipes.md",
-    "task tracking.md",
     "books/Pride and Prejudice.md",
     "books/Murakami-Kafka on the Shore.md",
     "books/Godin-Tribes.md",
@@ -196,9 +198,6 @@
     "books/Coelho-The Alchemist.md",
     "random learning/fashion/Style.md",
     "random learning/fashion/Fashion 101.md",
-    "MAQ experience.md",
-    "GRE.md",
-    "2024-03-25.md",
     "random learning/Messages.md",
     "images/Pasted image 20240401005809.png",
     "images/Pasted image 20240401005731.png",
