@@ -4,7 +4,7 @@
 - 3 sessions from Norman book 
 - 20 words each day from the excel list 
 
-_Plan_  
+_Plan_ 
 - Verbal (2hr - 2.5 hrs)
 	1. Norman - 1 day - revision + 4 days of study  
 	1. Excel List of words - 75/80 words per day
@@ -26,4 +26,3 @@ _Plan_
 **8am - 11:30pm** - Study (3-3.5 hrs)
 **12:05 pm - 12:30am** - Office
 **1 pm - 7:00am** - Sleep
-
