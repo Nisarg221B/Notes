@@ -12,6 +12,7 @@ _Plan_
 	2. 5lb questions
 - Quants - 10 days
 	- 1 hr : 10 mins - 2 chapters each day with 20 questions each day
+	-  1 / 20 chapters done
 
 - **9th July - 14th July**
 - **15th July - 21st July**
