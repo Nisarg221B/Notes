@@ -11,7 +11,7 @@ _Plan_
 	2. Verbal Mangoosh + Practice (20 questions) + ETS Book
 	2. 5lb questions
 - Quants - 10 days
-	- 1 hr : 10 mins - 2 chapters each day with 20 questions each day
+	- 1 hr : 00 mins - 1 chapters each day
 	-  6 / 23 chapters done
 
 Number of days done - 6/20 
