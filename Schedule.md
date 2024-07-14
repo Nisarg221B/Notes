@@ -12,7 +12,7 @@ _Plan_
 	2. 5lb questions
 - Quants - 10 days
 	- 1 hr : 00 mins - 1 chapters each day
-	-  6 / 23 chapters done
+	-  7 / 23 chapters done
 
 Number of days done - 6/20 
 
