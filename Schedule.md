@@ -2,7 +2,15 @@
 - 3 long passages
 - Flash cards
 - 3 sessions from Norman book 
-- 20 words each day from the excel list 
+- 20 words each day from the excel list
+
+**Daily Summary**
+Number of days gone - 7/20
+Quants chapters done - 7/23 chapters
+Verbal Norman Revision - 68/269
+Verbal Mangoosh - 3/8 videos
+Excel List - 0/1500
+Verbal Practice 5lb - 0/4 chapters 
 
 _Plan_ 
 - Verbal (2hr - 2.5 hrs)
@@ -14,7 +22,6 @@ _Plan_
 	- 1 hr : 00 mins - 1 chapters each day
 	-  7 / 23 chapters done
 
-Number of days done - 6/20 
 
 - **9th July - 14th July**
 - **15th July - 21st July**
