@@ -12,7 +12,7 @@ Verbal Mangoosh - 3/8 videos
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
 
-_Plan_ 
+_Plan_
 - Verbal (2hr - 2.5 hrs)
 	1. Norman - 1 day - revision + 4 days of study  
 	1. Excel List of words - 75/80 words per day
@@ -21,7 +21,6 @@ _Plan_
 - Quants - 10 days
 	- 1 hr : 00 mins - 1 chapters each day
 	-  7 / 23 chapters done
-
 
 - **9th July - 14th July**
 - **15th July - 21st July**
