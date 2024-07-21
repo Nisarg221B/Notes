@@ -7,7 +7,7 @@
 **Weekly Summary**
 Number of days gone - 13/20
 Quants chapters done - 13/23 chapters
-Verbal Norman Revision - 105/269
+Verbal Norman Revision - 181/269
 Verbal Mangoosh - 3/8 videos
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
