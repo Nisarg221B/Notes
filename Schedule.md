@@ -6,8 +6,8 @@
 
 **Weekly Summary**
 Number of days gone - 13/20
-Quants chapters done - 9/23 chapters
-Verbal Norman Revision - 68/269
+Quants chapters done - 13/23 chapters
+Verbal Norman Revision - 105/269
 Verbal Mangoosh - 3/8 videos
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
@@ -20,7 +20,7 @@ _Plan_
 	2. 5lb questions
 - Quants - 10 days
 	- 1 hr : 00 mins - 1 chapters each day
-	-  11 / 23 chapters done
+	-  13 / 23 chapters done
 
 - **9th July - 14th July**
 - **15th July - 21st July**
