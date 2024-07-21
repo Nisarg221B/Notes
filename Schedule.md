@@ -4,7 +4,7 @@
 - 3 sessions from Norman book 
 - 20 words each day from the excel list
 
-**Daily Summary**
+**Weekly Summary**
 Number of days gone - 13/20
 Quants chapters done - 9/23 chapters
 Verbal Norman Revision - 68/269
@@ -20,7 +20,7 @@ _Plan_
 	2. 5lb questions
 - Quants - 10 days
 	- 1 hr : 00 mins - 1 chapters each day
-	-  9 / 23 chapters done
+	-  10 / 23 chapters done
 
 - **9th July - 14th July**
 - **15th July - 21st July**
