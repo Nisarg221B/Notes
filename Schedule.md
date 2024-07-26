@@ -1,7 +1,7 @@
 **Every day Verbal**
 - 3 long passages
 - Flash cards
-- 3 sessions from Norman book 
+- 3 sessions from Norman book
 - 20 words each day from the excel list
 
 **Weekly Summary**
@@ -11,7 +11,7 @@ Verbal Norman Revision - 181/269
 Verbal Mangoosh - 3/8 videos
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
-
+ 
 _Plan_
 - Verbal (2hr - 2.5 hrs)
 	1. Norman - 1 day - revision + 4 days of study  
@@ -31,7 +31,7 @@ _Plan_
 14 days above
 ### 12th August - D Day
 
-## Daily schedule 
+## Daily schedule
 **8am - 11:30pm** - Study (3-3.5 hrs)
 **12:05 pm - 12:30am** - Office
 **1 pm - 7:00am** - Sleep
