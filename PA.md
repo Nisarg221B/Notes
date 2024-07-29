@@ -1,0 +1,34 @@
+- Campaign power app
+	- Migrated the campaign power app backend to new SharePoint. 
+	- Redesigned the Homepage UI to more modern look. 
+	- Corrected the implementation logic in power app to ensure Short URL Unique generation, fixing the refresh issue.
+	- Analyzed Grain issue forming multiple cases so that those can be handled individually in finalurltbl for traffic correspondence in Digital reporting. 
+	- Implemented backend check and a duplicate record alert solving the grain issue.
+	- Added "use previous submission" button to reduce the form filling time based on the pattern observed in record generation. 
+	- Implemented rollover banner pop up for freeze. 
+	- Completed the rollover changes in both the power app (frontend) and the SharePoint (backend).
+- Win Wire Reporting
+	- Build the Win Wire report based on CRM tabular and GPS Mart.
+	- Did the Program Enrollment Historical analysis and formed the query for net new partners.
+	- Added Net New Filter, Which will filter out Partner Global IDs who have joined for the first time and have no other records of renewal, extension, or expiration.
+- Adobe - Telium Analysis
+	- Studied and documented the Digital reporting impact analysis for prospect of adobe - telium migration. 
+- Concierge 
+	- Formed the understanding of PSAS architecture and datapoints.
+	- Created Concierge Power App and related notebooks for exclusion list upload and refresh and PII automation.
+	- Completed Trend Analysis - one time ad-hoc report.
+	- Completed SPD Analysis.
+	- Completed Sr Case Analysis.
+	- Completed PCI - Pre-Latest analysis.
+	- Completed Case Status Analysis.
+	- Redesigned the PSAS Mart layer inculcating the ROW partners in the same with Power BI reporting in mind.
+	- Based on the above analyses asked for more clarity from clients which lead to important understanding on root datapoint ( Case Status, field motion etc. ) on which the whole reporting stands. 
+	- Formed new modeling approach from the above understanding. 
+	- Completed ACR analysis with new approach.
+- GTM Marketing
+	- Segregated and grouped the power bi modelling from TPM V2, To-Partner and Thru-Partner reporting for better architecture understanding and visibility.
+	- Formed the understanding on tactics related tabs on both frontend and backend.
+	- Wrote the extract and mart notebooks for tabs related to Blog, Email and ADO. Plus mart logic for Social.
+	- Completed analysis and data/UI validation for tactics tabs.
+	- Achieved TPM v2 UAT deliverables on time.
+	- Worked on transitioning from PAT to Managed Identity to extract work items from ADO.
