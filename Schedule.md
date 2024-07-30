@@ -5,8 +5,8 @@
 - 20 words each day from the excel list
 
 **Weekly Summary**
-Number of days gone - 13/20
-Quants chapters done - 13/23 chapters
+Number of days gone - 22/26
+Quants chapters done - 18/23 chapters
 Verbal Norman Revision - 181/269
 Verbal Mangoosh - 3/8 videos
 Excel List - 0/1500
@@ -14,7 +14,7 @@ Verbal Practice 5lb - 0/4 chapters
  
 _Plan_
 - Verbal (2hr - 2.5 hrs)
-	1. Norman - 1 day - revision + 4 days of study  
+	1. Norman 
 	1. Excel List of words - 75/80 words per day
 	2. Verbal Mangoosh + Practice (20 questions) + ETS Book
 	2. 5lb questions
