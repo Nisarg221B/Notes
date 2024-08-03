@@ -1,34 +1,23 @@
-**Every day Verbal**
-- 3 long passages
-- Flash cards
-- 3 sessions from Norman book
-- 20 words each day from the excel list
 
 **Weekly Summary**
-Number of days gone - 22/26
-Quants chapters done - 20/22 chapters
+Quants chapters done - 21/23 chapters
 Verbal Norman Revision - 181/269
-Verbal Mangoosh - 7/8 chapter videos
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
  
 _Plan_
 - Verbal (2hr - 2.5 hrs)
-	1. Norman 
+	1. Norman - done
 	1. Excel List of words - 75/80 words per day
-	2. Verbal Mangoosh + Practice (20 questions) + ETS Book
-	2. 5lb questions
+	2. Verbal Mangoosh - done 
+	3. Practice (20 questions) + ETS Book
+	4. 5lb questions
 - Quants - 10 days
 	- 1 hr : 00 mins - 1 chapters each day
-	-  13 / 23 chapters done
+	-  21 / 23 chapters done
 
-- **9th July - 14th July**
-- **15th July - 21st July**
-- **22nd July - 28th July**
-20 days above
-- **29th July - 4th August**
+
 - **5th August - 11th August**
-14 days above
 ### 12th August - D Day
 
 ## Daily schedule
