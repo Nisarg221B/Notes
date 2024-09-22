@@ -7,9 +7,16 @@ Verbal Practice 5lb - 0/4 chapters
 
 - TOEFL
 - SOP, LOR
-- 
+- Course
 
-
+- Canada
+- USA
+	- New York State
+	- Caltech - 
+	- SJSU
+	- University of California, Irvine
+- Computer Science 
+	- Data Science 
 
 _Plan_
 Mon - Gym
