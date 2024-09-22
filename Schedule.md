@@ -6,13 +6,9 @@ Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
 
 - TOEFL - 19/10/2024
-	- SOP
-	- LOR
 - Courses and universities
-
-
-
-
+	1. Courses and Universities
+	2. SOP and LOR
 
 - Canada
 - USA
@@ -23,18 +19,21 @@ Verbal Practice 5lb - 0/4 chapters
 - Computer Science 
 	- Data Science 
 
-_Plan_
-Mon - Gym
-Tue - Dance
-Wed - Gym
-Thus - Dance
-Fri - Gym
-sat - Dance
-sun 
-## Daily schedule
-**12:00am - 6:30am** - Sleep
-**7:00am - 9:00am** - MPT
-**6:30pm - 8:00pm** - 5lb
-finish with dinner by 9 pm
-**9:00pm - 11pm** - 200 words 
+_Plan
+## Daily Schedule 
 
+Mon - Thus
+**6:30pm - 7:45pm** - GYM/Dance
+**7:45pm - 9:00pm** - dinner + home
+**9:30pm - 11:00pm** - 1.5hrs - Study
+**11:30pm - 6:00am** - Sleep
+**6:45am - 8:45am** - 2hrs 
+
+Fri - Sat - Sun
+**Mon** - Dance - Washing clothes
+**Tue** - Gym
+**Wed** - Gym
+**Thus** - Dance
+**Fri** - night plan  - Washing clothes
+**sat** - sleep till 10:00 am + study till 4:00pm + Hangout
+**sun** - sleep till 10:00 am + study till 5:00pm + Hangout 
