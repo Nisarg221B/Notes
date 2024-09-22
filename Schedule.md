@@ -6,8 +6,10 @@ Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
 
 - TOEFL
-- SOP, LOR
+	- SOP
+	- LOR
 - Course
+
 
 - Canada
 - USA
