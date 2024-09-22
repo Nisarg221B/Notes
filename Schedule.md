@@ -4,9 +4,14 @@ Quants chapters done - 21/23 chapters
 Verbal Norman Revision - 181/269
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
- 
-_Plan_
 
+- TOEFL
+- SOP, LOR
+- 
+
+
+
+_Plan_
 Mon - Gym
 Tue - Dance
 Wed - Gym
