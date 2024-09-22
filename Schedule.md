@@ -5,10 +5,13 @@ Verbal Norman Revision - 181/269
 Excel List - 0/1500
 Verbal Practice 5lb - 0/4 chapters 
 
-- TOEFL
+- TOEFL - 19/10/2024
 	- SOP
 	- LOR
-- Course
+- Courses and universities
+
+
+
 
 
 - Canada
