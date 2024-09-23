@@ -9,6 +9,7 @@ Verbal Practice 5lb - 0/4 chapters
 - Courses and universities
 	1. Courses and Universities
 	2. SOP and LOR
+	3. Scholarships
 
 - Canada
 - USA

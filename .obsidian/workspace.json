@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule.md",
+                "file": "TOELF Schedule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c4928c6f9c67b89",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "TOELF Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule.md",
+                "file": "TOELF Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule.md"
+                "file": "TOELF Schedule.md"
               }
             }
           },
@@ -179,10 +180,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c3f6fc4eb574da1",
+  "active": "aab65284d4a98c7d",
   "lastOpenFiles": [
-    "TOELF Schedule.md",
     "Schedule.md",
+    "TOELF Schedule.md",
     "task tracking.md",
     "GRE.md",
     "2024-09-22.md",
