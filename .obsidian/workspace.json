@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "7c4928c6f9c67b89",
@@ -180,7 +179,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "aab65284d4a98c7d",
+  "active": "5c3f6fc4eb574da1",
   "lastOpenFiles": [
     "Schedule.md",
     "TOELF Schedule.md",
