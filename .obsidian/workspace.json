@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82dff19e060e9abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phone Buying.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOELF Schedule.md",
+                "file": "Phone Buying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOELF Schedule.md",
+                "file": "Phone Buying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOELF Schedule.md"
+                "file": "Phone Buying.md"
               }
             }
           },
@@ -179,10 +193,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c3f6fc4eb574da1",
+  "active": "82dff19e060e9abc",
   "lastOpenFiles": [
-    "Schedule.md",
     "TOELF Schedule.md",
+    "Phone Buying.md",
+    "Schedule.md",
     "task tracking.md",
     "GRE.md",
     "2024-09-22.md",
@@ -208,7 +223,6 @@
     "random learning/Messages.md",
     "images/Pasted image 20240401005809.png",
     "images/Pasted image 20240401005731.png",
-    "random learning/NR Narayana Murthy Lecture.md",
     "Technical Learning/ML notes/Deep Racer Notes/Machine Learning",
     "Technical Learning/ML notes/Deep Racer Notes/Reinforcement Learning",
     "images/Screenshot 2023-11-23 at 8.17.57 AM.png",
