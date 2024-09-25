@@ -12,5 +12,3 @@ iPhone
 	- 128gb
 	- Good battery backup and big phone size
 
-
-
