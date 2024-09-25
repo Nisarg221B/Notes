@@ -6,7 +6,7 @@ iPhone
 	- 37,000
 - 15
 	- 50,000   128gb
-	- 59,000   256gb     - bigger storage
+	- 59,000   256gb - bigger storage
 - 15 plus
 	- 59,000 - 62,000
 	- 128gb
