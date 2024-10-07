@@ -12,7 +12,7 @@ Listening
 --- 
 Total Days -  23
 
-08 Oct
+08 
 09 - Reading 1
 		- Untimed
 			- finish reading section from ETS Official guide book 
@@ -31,15 +31,13 @@ Total Days -  23
 			- finish Listening section from ETS Official guide book
 			- Learn Strategic note-taking
 			- Work on 5 passages + Review
-**13**
-- Listening 2
+**13** - Listening 2
 	- Untimed
 		- Finish 20 listening passages (10 lec + 10 conv) one at a time
 		- + Review
-14
-- Listening 3
+14 - Listening 3
 		- Timed
-			-  ETS TOELF iBT Tests 1 book 
+			-  ETS TOELF iBT Tests 1book 
 			- Finish 5 Reading Sections (not passages)
 15 - Speaking 1
 16 - Speaking 2
@@ -52,7 +50,7 @@ Total Days -  23
 23 - Mock Tests 3
 24 - Mock Tests 4
 25
-26 
+26 - D Day
 
 
 
