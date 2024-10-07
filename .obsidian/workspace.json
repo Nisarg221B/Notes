@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82dff19e060e9abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phone Buying.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phone Buying.md",
+                "file": "TOELF Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phone Buying.md",
+                "file": "TOELF Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phone Buying.md"
+                "file": "TOELF Schedule.md"
               }
             }
           },
@@ -201,20 +187,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "82dff19e060e9abc",
+  "active": "5c3f6fc4eb574da1",
   "lastOpenFiles": [
+    "Schedule.md",
+    "MAQ experience.md",
+    "PA.md",
+    "Planning.md",
     "TOELF Schedule.md",
     "Phone Buying.md",
-    "Schedule.md",
     "task tracking.md",
     "GRE.md",
     "2024-09-22.md",
     "2024-07-18.md",
     "GRE essay.md",
     "GRE Essay example.md",
-    "MAQ experience.md",
-    "PA.md",
-    "Planning.md",
     "Things to get.md",
     "Excalidraw/Drawing 2024-07-18 09.45.34.excalidraw.md",
     "2024-03-25.md",
