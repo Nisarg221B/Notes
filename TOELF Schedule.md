@@ -18,11 +18,11 @@ Total Days -  23
 			- finish reading section from ETS Official guide book 
 			- Read and understand 
 			- Work on 6 passages + Review
-10 - Reading 2  - 
+10 - Reading 2  - Skipping
 		- Untimed 
 			- 8 Reading passages from Manhattan 5lb 
 			- Use chapter 6 (mixed) + Review
-11 - Reading 3
+11 - Reading 3  - 
 		- Timed
 			- ETS TOELF iBT Tests 1 book 
 			- Finish 5 Reading Sections (not passages)
