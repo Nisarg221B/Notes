@@ -13,12 +13,12 @@ Listening
 Total Days -  23
 
 08 
-09 - Reading 1
+09 - Reading 1  - Done 
 		- Untimed
 			- finish reading section from ETS Official guide book 
 			- Read and understand 
 			- Work on 6 passages + Review
-10 - Reading 2
+10 - Reading 2  - 
 		- Untimed 
 			- 8 Reading passages from Manhattan 5lb 
 			- Use chapter 6 (mixed) + Review
