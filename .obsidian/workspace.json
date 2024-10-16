@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "670f78b3d12a9f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOELF Schedule.md",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOELF Schedule.md",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOELF Schedule.md"
+                "file": "Note.md"
               }
             }
           },
@@ -187,13 +201,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c3f6fc4eb574da1",
+  "active": "670f78b3d12a9f75",
   "lastOpenFiles": [
+    "TOELF Schedule.md",
+    "Note.md",
     "Schedule.md",
     "MAQ experience.md",
     "PA.md",
     "Planning.md",
-    "TOELF Schedule.md",
     "Phone Buying.md",
     "task tracking.md",
     "GRE.md",
@@ -214,7 +229,6 @@
     "books/Coelho-The Alchemist.md",
     "random learning/fashion/Style.md",
     "random learning/fashion/Fashion 101.md",
-    "random learning/Messages.md",
     "images/Pasted image 20240401005809.png",
     "images/Pasted image 20240401005731.png",
     "Technical Learning/ML notes/Deep Racer Notes/Machine Learning",
