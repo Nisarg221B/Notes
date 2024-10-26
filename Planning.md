@@ -1,6 +1,6 @@
 
 - [ ] Apply process and date of application 
-- [ ] Universities list
+- [ ] Universities and courses to apply list 
 - [ ] TOELF 
 - [ ] GRE 
 - [ ] LOR and SOP 
