@@ -1,7 +1,0 @@
-- Rain coat
-- Sun glasses 
-- Nastha pani bag - rain cover
-- Energy bars
-- tripod
-- chattri 
-- 
