@@ -21,6 +21,7 @@ West
 		- Seattle University 
 	- Good jobs
 	- Companies - Microsoft, Boeing etc.
+- Taxas 
 
 East
 
@@ -38,6 +39,7 @@ East
 		- finance
 		- it etc
 - Toronto - 285,700
+- Gorgia
 - Washington D.C - 265,240 – Columbia ***
 - Boston - 161,470 * - Massachusetts
 	- Very costly 
