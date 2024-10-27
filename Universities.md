@@ -20,7 +20,7 @@ West
 		- Washington state
 		- Seattle University 
 	- Good jobs
-	- Companies - Microsoft, Boeing etc
+	- Companies - Microsoft, Boeing etc.
 
 East
 
