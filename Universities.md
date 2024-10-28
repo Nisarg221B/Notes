@@ -83,3 +83,8 @@ Annual Wage *
 3. Living costs
 4. Best states to get the PR
 5. Crime
+
+
+
+![[Pasted image 20241028115822.png]]
+
