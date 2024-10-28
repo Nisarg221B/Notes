@@ -84,7 +84,7 @@ Annual Wage *
 4. Best states to get the PR
 5. Crime
 
-
+PR: 
 
 ![[Pasted image 20241028115822.png]]
 
