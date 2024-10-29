@@ -6,6 +6,7 @@
 	- [ ] Canada 
 	- [ ] Australia 
 - [ ] Universities and courses to apply list 
+- [ ] Teaching Assistant job in US
 - [ ] Scholarships
 - [x] PR issues and visa types ✅ 2024-10-28
 - [ ] TOELF 
