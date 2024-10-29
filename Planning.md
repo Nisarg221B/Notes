@@ -6,6 +6,8 @@
 	- [ ] Canada 
 	- [ ] Australia 
 - [ ] Universities and courses to apply list 
+- [ ] Scholarships
+- [x] PR issues and visa types ✅ 2024-10-28
 - [ ] TOELF 
 - [ ] GRE 
 - [ ] LOR and SOP 
