@@ -90,6 +90,7 @@ PR:
 
 
 
+![[Pasted image 20241030101601.png]]
 
 Ambitious :  
 If less than 10% of the applicants with similar profile (GRE, GPA, Undergrad university) have received admits from a university, you can safely classify it as an ambitious target.
