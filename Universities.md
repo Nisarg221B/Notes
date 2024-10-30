@@ -89,3 +89,15 @@ PR:
 ![[Pasted image 20241028115822.png]]
 
 
+
+
+Ambitious :  
+If less than 10% of the applicants with similar profile (GRE, GPA, Undergrad university) have received admits from a university, you can safely classify it as an ambitious target.
+
+Moderate :  
+If more than 50% of the applicants with similar profile have received admits from a university.
+
+Safe :  
+More than 90% of the applicants with similar profile have historically received admits from a university.
+
+23.8K views

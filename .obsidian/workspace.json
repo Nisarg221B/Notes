@@ -37,7 +37,8 @@
               "title": "Universities"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +227,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c3f6fc4eb574da1",
+  "active": "e12c7860925a7736",
   "lastOpenFiles": [
-    "Universities.md",
     "Planning.md",
+    "Universities.md",
     "Schedule.md",
     "images/Pasted image 20241028115822.png",
     "TOELF Schedule.md",
