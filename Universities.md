@@ -99,3 +99,6 @@ If more than 50% of the applicants with similar profile have received admits fro
 
 Safe :  
 More than 90% of the applicants with similar profile have historically received admits from a university.
+
+
+Good video for sop : [Journey to University of California Berkeley (UCB) | GRE, TOEFL, SOP, Visa | ft. Shreyash Savant](https://www.youtube.com/watch?v=jYbtEKFR2kQ)
