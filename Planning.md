@@ -7,6 +7,7 @@
 	- [ ] Australia 
 - [ ] Universities and courses to apply list 
 - [ ] Teaching Assistant job in US
+- [ ] Courses for 1 year 
 - [ ] Scholarships
 - [x] PR issues and visa types ✅ 2024-10-28
 - [ ] TOELF 

@@ -37,8 +37,7 @@
               "title": "Universities"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,11 +226,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e12c7860925a7736",
+  "active": "5c3f6fc4eb574da1",
   "lastOpenFiles": [
+    "Universities.md",
     "images/Pasted image 20241030101601.png",
     "Planning.md",
-    "Universities.md",
     "Schedule.md",
     "images/Pasted image 20241028115822.png",
     "TOELF Schedule.md",
@@ -273,7 +272,6 @@
     "Projects",
     "Technical Learning/Designing REST",
     "images/Screenshot 2023-09-19 at 6.22.06 PM.png",
-    "images/Screenshot 2023-09-18 at 10.55.14 PM.png",
-    "images/Screenshot 2023-09-18 at 10.42.42 PM.png"
+    "images/Screenshot 2023-09-18 at 10.55.14 PM.png"
   ]
 }
