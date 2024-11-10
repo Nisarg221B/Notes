@@ -7,7 +7,6 @@
 	- [ ] Australia 
 - [x] Universities and courses to apply list ✅ 2024-11-10
 - [ ] Teaching Assistant job in US
-- [ ] Courses for 1 year 
 - [ ] Scholarships
 - [x] PR issues and visa types ✅ 2024-10-28
 - [ ] TOELF 
@@ -19,7 +18,8 @@
 3 LORs
 	- Two Academic 
 	- One Professional 
-	- 
+	- be specific 
+	- and with examples - backup your statements
 
 Priorities
 

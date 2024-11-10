@@ -11,17 +11,12 @@ Listening
 
 --- 
 Total Days -  23
-
-08 
-09 - Reading 1  - Done 
+ 
+10 - Reading 1  - Done 
 		- Untimed
 			- finish reading section from ETS Official guide book 
 			- Read and understand 
 			- Work on 6 passages + Review
-10 - Reading 2  - Skipping
-		- Untimed 
-			- 8 Reading passages from Manhattan 5lb 
-			- Use chapter 6 (mixed) + Review
 11 - Reading 3  - 
 		- Timed
 			- ETS TOELF iBT Tests 1 book 
@@ -31,26 +26,19 @@ Total Days -  23
 			- finish Listening section from ETS Official guide book
 			- Learn Strategic note-taking
 			- Work on 5 passages + Review
-**13** - Listening 2
-	- Untimed
-		- Finish 20 listening passages (10 lec + 10 conv) one at a time
-		- + Review
-14 - Listening 3
+13 - Listening 3
 		- Timed
 			-  ETS TOELF iBT Tests 1book 
 			- Finish 5 Reading Sections (not passages)
-15 - Speaking 1
-16 - Speaking 2
-17 - Speaking 3
-18 - Writing 1
-**19** - Writing 2
-**20**  - Writing 3 & Book TOEFL
-21 - Mock Tests 1 from Official TOEFL iBT Tests Volume 2
-22 - Mock Tests 2
-23 - Mock Tests 3
-24 - Mock Tests 4
-25
-26 - D Day
+14 - Speaking 1
+15 - Speaking 3
+**16** - Writing 1
+**17**  - Writing 3
+18 - Mock Tests 1 from Official TOEFL iBT Tests Volume 2
+19 - Mock Tests 2
+20 - Mock Tests 3
+21 - Mock Tests 4
+22 - D Day
 
 
 
