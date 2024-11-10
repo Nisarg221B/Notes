@@ -20,8 +20,8 @@
 
 Priorities
 
-- [ ] TOELF
-- [ ] GRE reconsideration 
+- [ ] TOELF - 17/11/2024
+- [ ] GRE reconsideration - 20/11/2024
 --- 
 - [ ] LORs 
 - [ ] SOP
