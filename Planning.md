@@ -22,7 +22,6 @@ Priorities
 
 - [ ] TOELF
 - [ ] GRE reconsideration 
-
 --- 
 - [ ] LORs 
 - [ ] SOP
