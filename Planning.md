@@ -16,7 +16,10 @@
 - [ ] Health and fitness goal
 - [ ] Development 
 
-
+3 LORs
+	- Two Academic 
+	- One Professional 
+	- 
 
 Priorities
 
