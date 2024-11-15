@@ -1,9 +1,9 @@
 
 - [x] Apply process and date of application ✅ 2024-11-10
-- [x] Country to go in ✅ 2024-10-28
+- [x] Country to go in ✅ 2024-11-15
 	- [x] USA ✅ 2024-10-28
 	- [ ] Ireland
-	- [ ] Canada 
+	- [ ] Canada
 	- [ ] Australia 
 - [x] Universities and courses to apply list ✅ 2024-11-10
 - [ ] Teaching Assistant job in US
@@ -23,8 +23,8 @@
 
 Priorities
 
-- [ ] TOELF - 17/11/2024
-- [ ] GRE reconsideration - 20/11/2024
+- [ ] TOELF 
+- [ ] GRE reconsideration 
 --- 
 - [ ] LORs 
 - [ ] SOP
