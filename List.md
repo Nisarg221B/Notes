@@ -30,11 +30,12 @@ Our priority
 ## TimeLine
 
 Nov 2024
-- TOEFL 
+- Finalize four Universities for spring
+- Prepare for TOEFL 
 Dec 2024
+- TOEFL first week of 
 Jan 2025
 - GRE attempt
-- After to finalize universities 
 Feb 2025
 March 2025 
 - Start Filling out Applications
