@@ -32,6 +32,7 @@ Our priority
 Nov 2024
 - Finalize four Universities for spring
 - Prepare for TOEFL 
+- 24/11 - book toefl slot 
 Dec 2024
 - TOEFL first week of 
 Jan 2025
