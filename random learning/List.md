@@ -12,6 +12,7 @@ Nisarg's priority
 	- Laptop Sell
 	- Morning habits
 		- Read newspaper
+	- Health
 - GRE  
 - LORs and SOP
 
@@ -22,7 +23,9 @@ Payal's priority
 	- Aadhar phone number update
 	- Driving License 
 	- Learn to File ITR 
-	- Health Insurance 
+	- Health Insurance - Personal and MAQ
+	- Health - fitness 
+
 Our priority
 - Job Switch - Applying
 - Savings
@@ -49,3 +52,5 @@ June 2025
 	- Mid - June - submit applications 
 July 2025
 Aug 2025 - most universities deadline
+
+![[Pasted image 20241116203358.png]]
