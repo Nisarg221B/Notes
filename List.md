@@ -1,5 +1,7 @@
 Nisarg's priority 
 - TOELF  - Nov
+- Research paper 
+	- Sudeep sir
 - Development And Business
 	- Ticketing System for non business 
 	- Intelligent Money Manager 
@@ -31,12 +33,17 @@ Nov 2024
 - TOEFL 
 Dec 2024
 Jan 2025
+- GRE attempt
+- After to finalize universities 
 Feb 2025
-March 2025
+March 2025 
+- Start Filling out Applications
+- Contact profs and POCs for LOR
+- Obtain transcripts 
 April 2025
 May 2025
 	- May end 
 June 2025
-	- All things ready - LOR SOPs
+	- Mid - June - submit applications 
 July 2025
-Aug 2025
+Aug 2025 - most universities deadline
