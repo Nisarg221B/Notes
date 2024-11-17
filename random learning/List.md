@@ -54,4 +54,9 @@ Aug 2025 - most universities deadline
 
 ![[Pasted image 20241117102825.png]]
 
+Fall
+- 2 semester than intern
+Spring
+- 3 sem than intern
+
 ![[Pasted image 20241116203358.png]]
