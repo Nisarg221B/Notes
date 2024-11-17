@@ -28,13 +28,13 @@ Mon - Thus
 **7:45pm - 9:00pm** - dinner + home
 **9:30pm - 11:00pm** - 1.5hrs - Study
 **11:30pm - 6:00am** - Sleep
-**6:45am - 8:45am** - 2hrs 
+**6:30am - 8:45am** - 2.5hrs 
 
 Fri - Sat - Sun
-**Mon** - Dance - Washing clothes
+**Mon** - Gym
 **Tue** - Gym
 **Wed** - Gym
-**Thus** - Dance
-**Fri** - night plan  - Washing clothes
-**sat** - sleep till 10:00 am + study till 4:00pm + Hangout
-**sun** - sleep till 10:00 am + study till 5:00pm + Hangout 
+**Thus** - Gym
+**Fri** - Dance might - Washing clothes
+**Sat** - sleep till 10:00 am + study till 4:00pm + Hangout
+**Sun** - sleep till 10:00 am + study till 4:00pm + Hangout 
