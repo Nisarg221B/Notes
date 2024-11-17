@@ -19,6 +19,10 @@ Nisarg's priority
 Payal's priority 
 - Coding 
 - Roadmap Data Engineer
+	- MAQ - take it as chance to learn
+	- LDP - Azure
+	- Fabric - MS-Learn 
+	- 
 - General things
 	- Aadhar phone number update
 	- Driving License 

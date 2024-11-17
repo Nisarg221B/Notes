@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payal's Timeline.md",
+                "file": "random learning/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Payal's Timeline"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -242,10 +242,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2c7b31b78575613f",
+  "active": "6a7f680cd2c65ecb",
   "lastOpenFiles": [
-    "random learning/List.md",
     "Payal's Timeline.md",
+    "random learning/List.md",
     "images/Pasted image 20241117102825.png",
     "images/Pasted image 20241116203358.png",
     "GRE.md",
