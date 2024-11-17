@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a7f680cd2c65ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOELF Schedule.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TOELF Schedule"
-            }
-          },
-          {
             "id": "f191c2cdad27a754",
             "type": "leaf",
             "state": {
@@ -43,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Payal's Timeline.md",
+                "file": "random learning/List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payal's Timeline"
+              "title": "List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PR stages",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOELF Schedule.md",
+                "file": "random learning/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TOELF Schedule"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -241,21 +227,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6a7f680cd2c65ecb",
+  "active": "2c7b31b78575613f",
   "lastOpenFiles": [
-    "Planning.md",
+    "Payal's Timeline.md",
     "Schedule.md",
+    "Technical Learning/Node/2. Javascript Engine internals.md",
+    "Technical Learning/Designing REST/1. Software Architecture.md",
+    "TOELF Schedule.md",
+    "Planning.md",
     "Universities.md",
     "GRE.md",
     "GRE essay.md",
     "GRE Essay example.md",
     "PA.md",
     "random learning/List.md",
-    "Payal's Timeline.md",
     "images/Pasted image 20241117102825.png",
     "images/Pasted image 20241116203358.png",
     "MAQ experience.md",
-    "TOELF Schedule.md",
     "Note.md",
     "images/Pasted image 20241030101601.png",
     "images/Pasted image 20241028115822.png",
@@ -271,8 +259,6 @@
     "random learning/Recipes.md",
     "books/Pride and Prejudice.md",
     "books/Murakami-Kafka on the Shore.md",
-    "books/Godin-Tribes.md",
-    "books/Krishnamurti-Freedom From The Known.md",
     "images/Pasted image 20240401005809.png",
     "images/Pasted image 20240401005731.png",
     "Technical Learning/ML notes/Deep Racer Notes/Machine Learning",
