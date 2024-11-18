@@ -1,13 +1,12 @@
 
 Segmentation of EV Indian market
 
-segmentation criteria are geographic, socio- demographic(age, gender, income and education) , psychographic (beliefs, interests, preferences, aspirations, or benefits sought when purchasing a product) and behavioural
+segmentation criteria are geographic, socio- demographic(age, gender, income and education) , psychographic (beliefs, interests, preferences, aspirations, or benefits sought when purchasing a product) and behavioral
 
 **Data collected**
 
 Geographic - States , charging stations and sales - gov open data
-interests , preferences  - collected us data and surveyed indian consumers to see if theres any correlation.
-
+interests , preferences  - collected us data and surveyed Indian consumers to see if there's any correlation.
 
 **Extracted segments**
 
