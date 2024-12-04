@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule.md",
+                "file": "random learning/Paths.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "Paths"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "random learning/Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schedule"
+              "title": "Backlinks for Paths"
             }
           },
           {
@@ -213,7 +213,18 @@
   },
   "active": "f191c2cdad27a754",
   "lastOpenFiles": [
+    "random learning/Random Thoughts.md",
+    "random learning/Paths.md",
+    "Payal's Timeline.md",
+    "PA.md",
+    "MAQ experience.md",
     "Universities.md",
+    "TOELF Schedule.md",
+    "Schedule.md",
+    "Planning.md",
+    "GRE.md",
+    "GRE essay.md",
+    "GRE Essay example.md",
     "Technical Learning/Dart/4. Variables and Operators/Dart variables.md",
     "Technical Learning/Dart/4. Variables and Operators/Dart operators.md",
     "Technical Learning/Dart/4. Variables and Operators/Built in data types.md",
@@ -228,17 +239,6 @@
     "random learning/ION prep/Market Segmantation stats.md",
     "random learning/ION prep/Ion Group Technical Interview.md",
     "random learning/ION prep/ION Day Prep.md",
-    "random learning/ION prep/Food Recommendation system.md",
-    "random learning/MAQ prep/Online test/MCQ.md",
-    "random learning/MAQ prep/Salary negotiation.md",
-    "random learning/MAQ prep/interview/Normal forms.md",
-    "random learning/MAQ prep/interview/Methods to remember.md",
-    "random learning/MAQ prep/interview/Geeks for geeks extracted questions set.md",
-    "random learning/startup/startup 101.md",
-    "random learning/startup/startup 102.md",
-    "random learning/Story Writing/ScreenPlay Story Structure.md",
-    "random learning/AI tools and businesses.md",
-    "random learning/ZS/Introduction.md",
     "images/Pasted image 20241117102825.png",
     "images/Pasted image 20241116203358.png",
     "images/Pasted image 20241030101601.png",

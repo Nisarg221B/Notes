@@ -3,7 +3,7 @@
 3. MS in USA or UK 
 
 2. Swimming
-3. Flute 
+3. Gym - Done 
 4. Books 
 5. Badminton
 # Immediate goals ( 3 months )
