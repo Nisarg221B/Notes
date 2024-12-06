@@ -16,7 +16,6 @@
 	- Operations app for non-tech
 	- Intelligent finance tracker
 - Business in India
-	- Azure infrastructure partner
 - USA
 
 Habits : 
