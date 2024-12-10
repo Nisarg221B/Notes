@@ -1,4 +1,9 @@
 
+# Daily Goal
+
+- [ ] University short listing for spring 
+- [ ] TOELF study
+
 # Immediate goals ( 3 months )
 - USA
 	- [ ] University Shortlisting For spring intake
