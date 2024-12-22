@@ -1,11 +1,10 @@
 - PG
-	- Settle sign 
+	- Settle sign [ X ]
 - Travel
-	- Mounterneering 
+	- Mountaineering 
 	- Paragliding
 	- skiing 
 	- Trekking
 - TOELF
 - Laptop
-- New Year party
-- 
+- Dhabu ke saath travel
