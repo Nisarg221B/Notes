@@ -6,3 +6,4 @@
 	- skiing 
 	- Trekking
 - TOELF
+- Laptop
