@@ -7,3 +7,5 @@
 	- Trekking
 - TOELF
 - Laptop
+- New Year party
+- 
