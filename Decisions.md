@@ -6,5 +6,7 @@
 	- skiing 
 	- Trekking
 - TOELF
-- Laptop
-- Dhabu ke saath travel
+- Laptop [X]
+- Dhabu ke saath travel [X]
+	- Dhabu confirm karegi
+	- date bataiye: 
