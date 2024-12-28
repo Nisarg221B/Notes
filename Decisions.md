@@ -5,5 +5,8 @@
 	- Paragliding
 	- skiing 
 	- Trekking
+		- Chandrashilla
+		- Kauri pass trek
+		- Dayara bugyal
 - TOELF
 - Laptop [X]
