@@ -7,6 +7,3 @@
 	- Trekking
 - TOELF
 - Laptop [X]
-- Dhabu ke saath travel [X]
-	- Dhabu confirm karegi
-	- date bataiye: 
