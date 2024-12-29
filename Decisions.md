@@ -7,6 +7,11 @@
 	- Trekking
 		- Chandrashilla
 		- Kauri pass trek
+			- Looks hard and might not able to do summit due to heavy snowfall
 		- Dayara bugyal
+			- Looks relatively easy and might not have snow
+		- Kedarkantha 
+			- not going due to too much bheed
+		- s..
 - TOELF
 - Laptop [X]
