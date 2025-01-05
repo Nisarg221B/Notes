@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decisions.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decisions"
+              "title": "Schedule"
             }
           }
         ],
@@ -230,17 +230,17 @@
   "active": "b0b7b08b2b9980c5",
   "lastOpenFiles": [
     "random learning/Paths.md",
-    "Decisions.md",
     "Schedule.md",
-    "random learning/Random Thoughts.md",
     "Payal's Timeline.md",
+    "Decisions.md",
+    "Planning.md",
+    "GRE essay.md",
+    "GRE.md",
+    "random learning/Random Thoughts.md",
     "PA.md",
     "MAQ experience.md",
     "Universities.md",
     "TOELF Schedule.md",
-    "Planning.md",
-    "GRE.md",
-    "GRE essay.md",
     "GRE Essay example.md",
     "Technical Learning/Dart/4. Variables and Operators/Dart variables.md",
     "Technical Learning/Dart/4. Variables and Operators/Dart operators.md",

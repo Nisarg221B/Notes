@@ -12,7 +12,7 @@
 - Good physical body
 	- Gym
 	- good diet
-	- [X] Consistent Gym and diet (4-12-2024) ✅ 2024-12-04
+	- [ ] Consistent Gym and diet (4-12-2024)
 # Very short term goals ( 3-6 months )
 - Good physical body
 # Short term goals ( 1-2 years)
