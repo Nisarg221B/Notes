@@ -1,5 +1,3 @@
-- PG
-	- Settle sign [ X ]
 - Travel
 	- Mountaineering 
 	- Paragliding
@@ -14,4 +12,3 @@
 			- not going due to too much bheed
 		- s..
 - TOELF
-- Laptop [X]
