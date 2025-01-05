@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "9fd662fd134f688a",
+            "id": "b0b7b08b2b9980c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Decisions"
             }
-          },
-          {
-            "id": "e0099d0fc909f549",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e0099d0fc909f549",
+  "active": "b0b7b08b2b9980c5",
   "lastOpenFiles": [
     "random learning/Paths.md",
     "Decisions.md",
