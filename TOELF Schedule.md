@@ -19,7 +19,7 @@ Listening
 		- Timed
 			- ETS TOELF iBT Tests 1 book 
 			- Finish 5 Reading Sections (not passages)
-**16** - Writing
+16 - Writing
 		- Untimed	
 			- finish Listening section from ETS Official guide book
 			- Learn Strategic note-taking
