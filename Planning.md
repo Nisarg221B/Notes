@@ -9,7 +9,7 @@
 - [ ] Teaching Assistant job in US
 - [ ] Scholarships
 - [x] PR issues and visa types ✅ 2024-10-28
-- [ ] TOELF 
+- [x] TOELF ✅ 2025-01-18
 - [ ] GRE 
 - [ ] LOR and SOP 
 - [ ] Health and fitness goal
